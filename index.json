@@ -1,0 +1,1660 @@
+{
+  "files": [
+    {
+      "path": "content/mods/ad-astra.json",
+      "sha1": "6ff9d1a4a97a073973adfef61d504d73d5952cd4"
+    },
+    {
+      "path": "content/mods/akashic-tome.json",
+      "sha1": "6e7bc3d2c70fd1be6ca75466088f8c87b5c2ee14"
+    },
+    {
+      "path": "content/mods/appleskin.json",
+      "sha1": "0d7464a310020b7a0ce306927a2f66e63abf2d6b"
+    },
+    {
+      "path": "content/mods/architectury-api.json",
+      "sha1": "68d57c00e51def26a3d9ac3cadc3482eb031aca1"
+    },
+    {
+      "path": "content/mods/balm.json",
+      "sha1": "d62769dd8ff0559ab3dd1fc76d5a2c04f4a84490"
+    },
+    {
+      "path": "content/mods/cloth-config.json",
+      "sha1": "6e05f95aa2625d21b949325198fadd9fd14b7aa4"
+    },
+    {
+      "path": "content/mods/clumps.json",
+      "sha1": "f0c21a040bf3cf093708b7a1242ac6574e3ab208"
+    },
+    {
+      "path": "content/mods/common-storage-lib.json",
+      "sha1": "2480644594bba806a3f5c48b9d0ed1adc78e40ee"
+    },
+    {
+      "path": "content/mods/controlling.json",
+      "sha1": "8186006ede3e1d54e6b01519383fa47e31a8e0bd"
+    },
+    {
+      "path": "content/mods/cooking-for-blockheads.json",
+      "sha1": "5d1f3405173a09d87eed8ab0d3d35d1e53113e00"
+    },
+    {
+      "path": "content/mods/create.json",
+      "sha1": "bdc7185d5ed80c9e3ea6e5fc580205130cb17a06"
+    },
+    {
+      "path": "content/mods/curios.json",
+      "sha1": "ebcaa34f890c53b29967ba941fbeeb5dc786ca3f"
+    },
+    {
+      "path": "content/mods/customizable-player-spawn.json",
+      "sha1": "da67f0b25055a2dfb28a7d85faa8c93c0bee587d"
+    },
+    {
+      "path": "content/mods/embers-re-ignited.json",
+      "sha1": "31b77b45631ff5891e3c13de4259459305affad5"
+    },
+    {
+      "path": "content/mods/entityculling.json",
+      "sha1": "2a95e205015292c7735186ca9d1888a3e3bda083"
+    },
+    {
+      "path": "content/mods/extractinatorforked.json",
+      "sha1": "5113cf6d2a8c398914717e93105e4a644a1fffbf"
+    },
+    {
+      "path": "content/mods/ferrite-core.json",
+      "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
+    },
+    {
+      "path": "content/mods/geckolib.json",
+      "sha1": "e799f06eb2392a0a4cfc592990f33e42061e30ed"
+    },
+    {
+      "path": "content/mods/immediatelyfast.json",
+      "sha1": "75fd9033066564b102e8076c9b7b347c0d1ee7ad"
+    },
+    {
+      "path": "content/mods/immersiveengineering.json",
+      "sha1": "5701aa0d380247e9c84cdad795f3c176951e6c1b"
+    },
+    {
+      "path": "content/mods/jade.json",
+      "sha1": "71a09e1c1e6a3436a1fdb40bfe446d06fc35a0cc"
+    },
+    {
+      "path": "content/mods/jei-multiblocks.json",
+      "sha1": "9f7d039e2cf3e74a686b77347fe232946b9a7757"
+    },
+    {
+      "path": "content/mods/jei.json",
+      "sha1": "b3ba62209955dbe5907ce9afc0e8988f3a6abbb8"
+    },
+    {
+      "path": "content/mods/kotlin-for-forge.json",
+      "sha1": "8cf33532f113d1fca894707b7b98fd3e7d72275d"
+    },
+    {
+      "path": "content/mods/lambdynamiclights.json",
+      "sha1": "cec10ce7221dbac2be6a9ce0283fdb8f1c103d4f"
+    },
+    {
+      "path": "content/mods/lithium.json",
+      "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
+    },
+    {
+      "path": "content/mods/mezzconfig.json",
+      "sha1": "d2e688333d196659cb02fb996941660884120559"
+    },
+    {
+      "path": "content/mods/modernfix.json",
+      "sha1": "a61e381a6c5652cb785d05f84612a09e2ab91e23"
+    },
+    {
+      "path": "content/mods/modpack-assistant.json",
+      "sha1": "6f501f65e9f2f29cc6d944f23e251434714819af"
+    },
+    {
+      "path": "content/mods/modpack-tools.json",
+      "sha1": "c63b91debf328dfacc1206801bdcc03b6060f65c"
+    },
+    {
+      "path": "content/mods/mouse-tweaks.json",
+      "sha1": "9f6e2f2f1f2d235a51fb654250430398c8283a4f"
+    },
+    {
+      "path": "content/mods/patchouli.json",
+      "sha1": "e285b184b2c74a4e86edf1ae6ae4c85f382ca9e3"
+    },
+    {
+      "path": "content/mods/potentials.json",
+      "sha1": "a5975243172cbe64d51c848cd5c65ecd0e7bd460"
+    },
+    {
+      "path": "content/mods/resourceful-config.json",
+      "sha1": "10b4d075c1e7b8bbb40fdece82fef2c623673690"
+    },
+    {
+      "path": "content/mods/resourceful-lib.json",
+      "sha1": "7314d38395077938842630a4ec08475e009eecc3"
+    },
+    {
+      "path": "content/mods/searchables.json",
+      "sha1": "edb3eb1708af83391dfaf0ac87dad0bf59632069"
+    },
+    {
+      "path": "content/mods/sodium.json",
+      "sha1": "592b4af0448f2cfb25e84058fc39f140eb4dd648"
+    },
+    {
+      "path": "content/mods/worldedit.json",
+      "sha1": "50d94b06fb277ffc0b946515fc5da0fdcfd8b1d6"
+    },
+    {
+      "path": "content/mods/xaeros-minimap.json",
+      "sha1": "1b13e2f1961c715ee8498afa8bebe6319ea4cbef"
+    },
+    {
+      "path": "content/mods/xaeros-world-map.json",
+      "sha1": "603ecaa569cab21eba444970147177137de4ddcf"
+    },
+    {
+      "path": "overrides/XaeroWaypoints_BACKUP240807/testery/config.txt",
+      "sha1": "f94f4469b5d7c58cb02ca40e3548b186c9f5155c"
+    },
+    {
+      "path": "overrides/config/MouseTweaks.cfg",
+      "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    {
+      "path": "overrides/config/aaron-server.toml",
+      "sha1": "9a065db633c3d6d2102b86ee23b89324f81f05ec"
+    },
+    {
+      "path": "overrides/config/ad_astra-client.jsonc",
+      "sha1": "36f062d4d1ebb79d784a7e637272da7269f42350"
+    },
+    {
+      "path": "overrides/config/ad_astra.jsonc",
+      "sha1": "1876297e5c3bf636d932d8619976ddea3da7a95e"
+    },
+    {
+      "path": "overrides/config/akashictome-common.toml",
+      "sha1": "abd89f465dc2292568cb964a14ce3d51024c99c1"
+    },
+    {
+      "path": "overrides/config/appleskin-client.toml",
+      "sha1": "e3b64be4e4d635eaef5430a06d90a77600647477"
+    },
+    {
+      "path": "overrides/config/cookingforblockheads-common.toml",
+      "sha1": "b52affb956d2cb110d9391ca972666a98f7e5537"
+    },
+    {
+      "path": "overrides/config/create-client.toml",
+      "sha1": "498fc51a3ee2b9b97479c5da3761eac070e5be69"
+    },
+    {
+      "path": "overrides/config/create-common.toml",
+      "sha1": "62ed6cc65a2043b7ddc4cb4f7c4f1d42855293de"
+    },
+    {
+      "path": "overrides/config/create-server.toml",
+      "sha1": "440fd52a3691a245ffef990c365b926e60cb89f8"
+    },
+    {
+      "path": "overrides/config/curios-client.toml",
+      "sha1": "369717e89c75b58c3064fc0d1a408c60e9f17070"
+    },
+    {
+      "path": "overrides/config/curios-common.toml",
+      "sha1": "315972fac2e0ad7fb6bbc9f945b05eef57e92cd7"
+    },
+    {
+      "path": "overrides/config/curios-server.toml",
+      "sha1": "81d93eedbe298af8dbc0f41ddf930563de3ed98d"
+    },
+    {
+      "path": "overrides/config/customizableplayerspawn-common.toml",
+      "sha1": "a3a6487507e3e2a127cfc508a586b1492616a339"
+    },
+    {
+      "path": "overrides/config/customizableplayerspawn/structures/biodome.nbt",
+      "sha1": "0e593dde2bfaa8473d91f2f3f2f25198c4312c73"
+    },
+    {
+      "path": "overrides/config/embers-client.toml",
+      "sha1": "4b4d83d3eb302a92b46498c0f9aa4594cfa5cf86"
+    },
+    {
+      "path": "overrides/config/embers-common.toml",
+      "sha1": "fea32d4875239efbf3464963d590f3c404a826ce"
+    },
+    {
+      "path": "overrides/config/entityculling.json",
+      "sha1": "71d872172923ba0b593d8654bfd596f9520ddc8b"
+    },
+    {
+      "path": "overrides/config/euru/euru_fe_config.json",
+      "sha1": "b047639411463dd3ec9ce0a94b6b8b997c31a627"
+    },
+    {
+      "path": "overrides/config/euru/euru_unified_config.json",
+      "sha1": "b27f67251aff73be63b47391e7723157259b7e6e"
+    },
+    {
+      "path": "overrides/config/excessive_utilities-client.toml",
+      "sha1": "33b0e344f7aeec4e1b575987cace27bd46cb6bb0"
+    },
+    {
+      "path": "overrides/config/excessive_utilities-server.toml",
+      "sha1": "6a28ae415d10d95991e1290d670fd5c257eabb8c"
+    },
+    {
+      "path": "overrides/config/extractinator.jsonc",
+      "sha1": "952233c4922ea3319ae4832aaf43bf8b72f5a8e0"
+    },
+    {
+      "path": "overrides/config/ferritecore-mixin.toml",
+      "sha1": "a8af962ea8f0698377dba96a722ce21dedcde8cc"
+    },
+    {
+      "path": "overrides/config/flywheel-client.toml",
+      "sha1": "f0a10a5d8ae28915af6995bee1398768b85eb788"
+    },
+    {
+      "path": "overrides/config/fml.toml",
+      "sha1": "5448b202d300702f6b654b522bbd2c39743702c0"
+    },
+    {
+      "path": "overrides/config/forestry-client.toml",
+      "sha1": "bc493a170f20f6916de7d39290008b13d477340a"
+    },
+    {
+      "path": "overrides/config/forestry-server.toml",
+      "sha1": "f25d36c1b8d5a6436d77930e1622504f94312097"
+    },
+    {
+      "path": "overrides/config/immediatelyfast.json",
+      "sha1": "9005fdfb4eeaa64cf158b244b263aa5347d03db0"
+    },
+    {
+      "path": "overrides/config/immersiveengineering-client.toml",
+      "sha1": "d8c45e6073164d263606229c08f3cef8618bd826"
+    },
+    {
+      "path": "overrides/config/immersiveengineering-server.toml",
+      "sha1": "c262704a81024c2cae374cf9096b2bb70c602919"
+    },
+    {
+      "path": "overrides/config/immersiveengineering-startup.toml",
+      "sha1": "8d166c2db98244aed1d68514358d7a535a93f974"
+    },
+    {
+      "path": "overrides/config/jade/hide-blocks.json",
+      "sha1": "a503776a467ca75d97916f99bf665dbf64a521a9"
+    },
+    {
+      "path": "overrides/config/jade/hide-entities.json",
+      "sha1": "ef2152a130cc5ff42903c76e69c3e4279d94b9e7"
+    },
+    {
+      "path": "overrides/config/jade/jade.json",
+      "sha1": "8ea73ab5be986b34ee05bf2dcef295f59dcde376"
+    },
+    {
+      "path": "overrides/config/jade/plugins.json",
+      "sha1": "30e71eefc5e1c0af0fdc095c76ee45899f7ab490"
+    },
+    {
+      "path": "overrides/config/jade/sort-order.json",
+      "sha1": "886712b7b74d6e39f53e30aedebcd9af48e4d097"
+    },
+    {
+      "path": "overrides/config/jei/blacklist.json",
+      "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39"
+    },
+    {
+      "path": "overrides/config/jei/client/default/jei-client.ini",
+      "sha1": "1cf86d58fe30df29245c6bdeaea7deb3c34869ce"
+    },
+    {
+      "path": "overrides/config/jei/client/default/jei-colors.ini",
+      "sha1": "a0b5388f559355560719adc93408da864a72d3e8"
+    },
+    {
+      "path": "overrides/config/jei/client/default/jei-debug.ini",
+      "sha1": "21114b8d222eb2a62d43404e1496664037119b8d"
+    },
+    {
+      "path": "overrides/config/jei/client/default/jei-mod-id-format.ini",
+      "sha1": "a78ca513a5da04416aff948ed306253b15a2710a"
+    },
+    {
+      "path": "overrides/config/jei/client/ingredient-list-mod-sort-order.ini",
+      "sha1": "271dbd70342f0d8b5ed38710b5a209b678506475"
+    },
+    {
+      "path": "overrides/config/jei/client/ingredient-list-type-sort-order.ini",
+      "sha1": "2c73d3cff3a08807dcce81fde642ed59ac936447"
+    },
+    {
+      "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
+      "sha1": "d31383177e87e74fd3a9d919cbe5cedf63ef9c8c"
+    },
+    {
+      "path": "overrides/config/jei/server/world/default/jei-server.ini",
+      "sha1": "e8b195526ded143c1666adfab8f11f4015c5c911"
+    },
+    {
+      "path": "overrides/config/jei/world/local/testery/lookupHistory.json",
+      "sha1": "f5324aa70ebda2e21a5140142d1aef283dbe7ae8"
+    },
+    {
+      "path": "overrides/config/lambdynlights.toml",
+      "sha1": "f1802304ca2baab1cf4018c25267c203846fe7c2"
+    },
+    {
+      "path": "overrides/config/lithium.properties",
+      "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb"
+    },
+    {
+      "path": "overrides/config/mezz_config/client/default/settings.ini",
+      "sha1": "1f22cd48de02f98b8deda413d9f51a9b520e787c"
+    },
+    {
+      "path": "overrides/config/modernfix-common.toml",
+      "sha1": "67d29a1db4c6d7d97b4912e5ef3aae34347d3e38"
+    },
+    {
+      "path": "overrides/config/modernfix-mixins.properties",
+      "sha1": "363b263796d22b72e97e89072413e529bcd692ee"
+    },
+    {
+      "path": "overrides/config/modpackassistant-common.toml",
+      "sha1": "39b035f11ee2de9c3476ce4020be4fa0f5cd250b"
+    },
+    {
+      "path": "overrides/config/neoforge-client.toml",
+      "sha1": "90754349a7bc416f9242df9a24b821d8beccc15d"
+    },
+    {
+      "path": "overrides/config/neoforge-common.toml",
+      "sha1": "5a9caac83eb118eaf22abc37389f7b743e475fe1"
+    },
+    {
+      "path": "overrides/config/neoforge-server.toml",
+      "sha1": "6e589499975366719134967e8ad049ee10d8caac"
+    },
+    {
+      "path": "overrides/config/northstar-client.toml",
+      "sha1": "dbd6a2159014229a1f06fc0b240ec34cfee2653f"
+    },
+    {
+      "path": "overrides/config/northstar-server.toml",
+      "sha1": "97ead992c70312f6854993fc8632de3968f220d7"
+    },
+    {
+      "path": "overrides/config/patchouli-client.toml",
+      "sha1": "51e0df3a58ba3cba0a5403de4a3c4f1b00859ec1"
+    },
+    {
+      "path": "overrides/config/ponder-client.toml",
+      "sha1": "deddc6f67e212577af0151dd6e0ddf7830a65d3e"
+    },
+    {
+      "path": "overrides/config/resourceful-config-web.json",
+      "sha1": "edde73498fff40a010a9467d7d42e2f39c600a41"
+    },
+    {
+      "path": "overrides/config/sky_aesthetics.json",
+      "sha1": "6a5ae02968ff1ee2878fedae3635932dfed7c9f7"
+    },
+    {
+      "path": "overrides/config/sodium-mixins.properties",
+      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
+    },
+    {
+      "path": "overrides/config/sodium-options.json",
+      "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48"
+    },
+    {
+      "path": "overrides/config/stellaris-config.json",
+      "sha1": "abb187fcdbd3f330f0c50ece2ce0f441c2c64f3c"
+    },
+    {
+      "path": "overrides/config/test-config.json",
+      "sha1": "cf0ef60c922b648c022ad2b1a869c45f804baee4"
+    },
+    {
+      "path": "overrides/config/transition.json",
+      "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5"
+    },
+    {
+      "path": "overrides/config/trender.json",
+      "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/.unpack_finished",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/af/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/an/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ar/strings.json",
+      "sha1": "eb7aca3e7bf344549878fcb30c7f50e66c9c04cd"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ast/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/az/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ba/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/be/strings.json",
+      "sha1": "c60574caff3a7a6dd8846a49bf80fc25c41f394c"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/bg/strings.json",
+      "sha1": "91f2ca818a926a9324c3a7b4746e595f1a127121"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/bn/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/br-FR/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/brb/strings.json",
+      "sha1": "a8bcdc99b8f6495d7334069e6f2e92fafc0d69dd"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/bs/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ca/strings.json",
+      "sha1": "a3b7bdfec7a09c4e38f50f198624768e29b0b5d6"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ckb/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/cs/strings.json",
+      "sha1": "a475c0587a921c3ac9a00e62e0488ea6cea7e876"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/csb/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/cv/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/cy/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/da/strings.json",
+      "sha1": "429a3825a64ea29e8f9dc343af26c46e93951480"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/de-AT/strings.json",
+      "sha1": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/de-CH/strings.json",
+      "sha1": "ee2f88d02b4817a39fc9095a3258215e6b281899"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/de/strings.json",
+      "sha1": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/dsb-DE/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/el/strings.json",
+      "sha1": "2322030c3ec0723fe5a5990b11dcda6c9b7d3f3f"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/en-AU/strings.json",
+      "sha1": "f2a641e8fac0e925847b5588a02b6367cb460b21"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/en-CA/strings.json",
+      "sha1": "d76eba76d98123e6d72a0240eab564145a273764"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/en-GB/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/en-NZ/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/en-PT/strings.json",
+      "sha1": "324bb32bb400cfa4815f577c188eba10692a87e0"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/en-UD/strings.json",
+      "sha1": "ea11327f71f3917145cdec06d4b1acfb33ebf4e4"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/enp/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/enws/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/eo/strings.json",
+      "sha1": "7c7e9812a5fea5ff44dafbad060d0631ed22ebbe"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/es-AR/strings.json",
+      "sha1": "9adfeda71c19a19422e15d44fa205d7ea7ad8550"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/es-CL/strings.json",
+      "sha1": "933021f931ebfe68b67151c5e45a8bd8082209d8"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/es-CO/strings.json",
+      "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/es-EC/strings.json",
+      "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/es-ES/strings.json",
+      "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/es-MX/strings.json",
+      "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/es-UY/strings.json",
+      "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/es-VE/strings.json",
+      "sha1": "0b45ee82ef95fae538656c8ea972eb4347f60daf"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/et/strings.json",
+      "sha1": "564747457b4d5540e07571c8df4416cf871246df"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/eu/strings.json",
+      "sha1": "9fcb595d0c010353f6443cf3da7da04467ca6ee1"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/fa/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/fi/strings.json",
+      "sha1": "a66a02e0ab974728bb02470ceef4fa5a3ba91721"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/fil/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/fo/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/fr-CA/strings.json",
+      "sha1": "631d4916bfcd9878eacec8f7c68f1a9c926bbd7b"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/fr/strings.json",
+      "sha1": "2e44e69ac3b3cb0d5b5b4a30891024a751deee6c"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/fra-DE/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/fur-IT/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/fy-NL/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ga-IE/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/gd/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/gl/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/got/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/gv/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/haw/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/he/strings.json",
+      "sha1": "98bf778ea8e28e7271e77e170da69813ab532ac7"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/hi/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/hr/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/hsb-DE/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/hu/strings.json",
+      "sha1": "9e67f756bbf76d9bb5971f0ec5a8bada354fcda7"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/hy-AM/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/id/strings.json",
+      "sha1": "e5c91a0afa464ef7838af21887a236d6c614d73b"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ido/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ig/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/is/strings.json",
+      "sha1": "8c719af96631d6a6c2d70c8a487c67f617fc0ca9"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/it/strings.json",
+      "sha1": "de2aae20652fc8bb13371ff548397f90652fa44a"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ja/strings.json",
+      "sha1": "3767e1aaf923e3bc529eaf8a5ae4ee7e16a3c0bb"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/jbo/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ka/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/kab/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/kk/strings.json",
+      "sha1": "c3eb555e70a93a7e832a7c7e4bcf534c96cc4cb6"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/kn/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ko/strings.json",
+      "sha1": "695f13aff28997e5bde6ac80958d4b0ded45af5e"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ksh/strings.json",
+      "sha1": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/kw/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/la-LA/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/lb/strings.json",
+      "sha1": "5184eb63dcc1b5280d91902c7285d1a827643960"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/li/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/lo/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/lol/strings.json",
+      "sha1": "31e00de07c38a0b3582c0b1bc40e464fdd3357db"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/lt/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/lv/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/me/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/mi/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/mk/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/mn/strings.json",
+      "sha1": "5a1347a5588e481dd86ab92dc3ad84f316ff602a"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/moh/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ms/strings.json",
+      "sha1": "944850a39e093c59a610ede202341a7c2e699ec7"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/mt/strings.json",
+      "sha1": "235d227d4aeafb56c808c5257509d38c8c40e2c7"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/nds/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ne-NP/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/nl-BE/strings.json",
+      "sha1": "d2e863cc39b3f6b4e9bf2a929a5e519e21551e25"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/nl/strings.json",
+      "sha1": "a8bcdc99b8f6495d7334069e6f2e92fafc0d69dd"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/nn-NO/strings.json",
+      "sha1": "2d906c69f31610b823d1bfd9b183706c4b53df5a"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/no/strings.json",
+      "sha1": "2d906c69f31610b823d1bfd9b183706c4b53df5a"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/nuk/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/oc/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/oj/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/pa-IN/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/pl/strings.json",
+      "sha1": "96152d1ec798b904a136a91dd3fc7ad75381f762"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/pt-BR/strings.json",
+      "sha1": "1c2f7d815714b620f5af05bb20d5870b4ea3f7f4"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/pt-PT/strings.json",
+      "sha1": "088167f7b1d4fec597fe4bab1ce83da896f4115e"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/qya-AA/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ro/strings.json",
+      "sha1": "dbf641475bc55db3a776a6ca0088cdf835bc0e35"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ru/strings.json",
+      "sha1": "ddac1ef123dcb4304f2fa10dade354b1d93dcc01"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ry-UA/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/sah/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/se/strings.json",
+      "sha1": "0e89ce1223b6b90c69c809a56441d3a9480eeccb"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/sk/strings.json",
+      "sha1": "3460136113848963844612776902d6fa4e6343c8"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/sl/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/so/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/sq/strings.json",
+      "sha1": "08655754f4bf8e9ff1aed11cc550ed72f548ad4c"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/sr-CS/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/sr-Cyrl-ME/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/sr/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/strings.json",
+      "sha1": "436a00f5fdc42ab1a37f85391edf7195d48e8cad"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/sv-SE/strings.json",
+      "sha1": "53f208f3b22ea139f5be00f0dafb7354e039e3e2"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/swg/strings.json",
+      "sha1": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/szl/strings.json",
+      "sha1": "96152d1ec798b904a136a91dd3fc7ad75381f762"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ta/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/th/strings.json",
+      "sha1": "179d4660d37941c7c38bdefee343159692d5f977"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/tl/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/tlh-AA/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/tr/strings.json",
+      "sha1": "184f23e1e58edab8cb0d6ab6d2db950e1ef953e6"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/tt-RU/strings.json",
+      "sha1": "aa9c516576f2baad19d2d6bc1418479c1840f673"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/tzl/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/uk/strings.json",
+      "sha1": "143663bc5219d1cc2e1f1353658abc67985dba1a"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/ur-PK/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/uz/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/val-ES/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/vec/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/vi/strings.json",
+      "sha1": "2069d274a20fd8b178e30f1c5c4489e2e15a9d83"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/yi/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/yo/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/zh-CN/strings.json",
+      "sha1": "0c12e68d945bbc8c87aa3cc54cb4c4c5b324a99d"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/zh-HK/strings.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/zh-TW/strings.json",
+      "sha1": "c4d6ebe6ed9dd694b7eda9be68683faa02e8c322"
+    },
+    {
+      "path": "overrides/config/worldedit/worldedit.properties",
+      "sha1": "4832dd6a43b8ce4f37b6b7dc16ce10a099fb8e88"
+    },
+    {
+      "path": "overrides/config/xaero/lib/client.cfg",
+      "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf"
+    },
+    {
+      "path": "overrides/config/xaero/lib/common.cfg",
+      "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b"
+    },
+    {
+      "path": "overrides/config/xaero/lib/profiles/default.cfg",
+      "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf"
+    },
+    {
+      "path": "overrides/config/xaero/lib/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/client.cfg",
+      "sha1": "a18a4a75d6f033c35ecde56c14306760715a3a19"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/common.cfg",
+      "sha1": "de09f45b29b264432b80d34bb0c336bd552fb9ee"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/default_radar_categories_client.json",
+      "sha1": "1ecdae76584f3c99c3d4b7b6edfcd302714de29c"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/default_radar_categories_server.json",
+      "sha1": "c247867b018103357eb4015059fe209cc562de51"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/profiles/default.cfg",
+      "sha1": "f2f6ac1fbc53ce3a08e002735fefd93bed2db8ab"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "sha1": "2b8d12369471b57bfa6426254b2170bc8e6b3b88"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
+    },
+    {
+      "path": "overrides/config/xaero/world-map/client.cfg",
+      "sha1": "27b70648a1bccd0561ae94c0a1a978f283893dea"
+    },
+    {
+      "path": "overrides/config/xaero/world-map/common.cfg",
+      "sha1": "c3c64f24c8d33940264147473e4a1c8ba5c219ff"
+    },
+    {
+      "path": "overrides/config/xaero/world-map/profiles/default.cfg",
+      "sha1": "2f1680b1a14bf8cc756c5911c9b9f90e119a365e"
+    },
+    {
+      "path": "overrides/config/xaero/world-map/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
+    },
+    {
+      "path": "overrides/config/xaerohud.txt",
+      "sha1": "7235e01cb97f766d1411ce97cdf65329297093c2"
+    },
+    {
+      "path": "overrides/config/xaeropatreon.txt",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/icon.png",
+      "sha1": "1103c28228bba008f05431cb0dfdbfb9082e100c"
+    },
+    {
+      "path": "overrides/options.txt",
+      "sha1": "85aa31081fdb51828122275ab1efc94d5d786a8e"
+    },
+    {
+      "path": "overrides/patchouli_data.json",
+      "sha1": "2d32b0ee9681549c993fe8dad0a2331ef791c2e1"
+    },
+    {
+      "path": "overrides/xaero/minimap/builds/config.txt",
+      "sha1": "a8df33a001d334198a81d2fd8f5909e655c4c471"
+    },
+    {
+      "path": "overrides/xaero/minimap/builds/dim%ad_astra$mars_orbit/waypoints.txt",
+      "sha1": "7263d3bf6600e355d6c19fb2e9c2e74331106bbb"
+    },
+    {
+      "path": "overrides/xaero/minimap/h (1)/config.txt",
+      "sha1": "f96791b7c0384c1ef3030348db7494037c7000b7"
+    },
+    {
+      "path": "overrides/xaero/minimap/h/config.txt",
+      "sha1": "07ccf4decca5ed185f33ab0f4f27a304aba8bd47"
+    },
+    {
+      "path": "overrides/xaero/minimap/testery/config.txt",
+      "sha1": "f7a110dd3e2544ec2ea02320dd4e5cdfdd6e5d2c"
+    },
+    {
+      "path": "overrides/xaero/minimap/testery/dim%0/waypoints.txt",
+      "sha1": "f184352d00bce9013a9655cb259fc901947ba0ad"
+    },
+    {
+      "path": "overrides/xaero/minimap/testery/dim%ad_astra$mars/waypoints.txt",
+      "sha1": "ee31dda150be3533fc6bf8e9a1270769cbbe21e9"
+    },
+    {
+      "path": "overrides/xaero/world-map/New World/null/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/New World/null/dimension_config.txt",
+      "sha1": "a33b2cda96c216eb117bb126578b9564fdc9276c"
+    },
+    {
+      "path": "overrides/xaero/world-map/New World/server_config.txt",
+      "sha1": "b9103342f657311fe8dfae4f81743abc34c09eb2"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/DIM1/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/DIM1/cache_1/-1_-1.xwmc.outdated",
+      "sha1": "cef4d3b413d2772d2da20072241852482086faf4"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/DIM1/cache_1/-1_0.xwmc.outdated",
+      "sha1": "9855e1673aef98855ffcd0d6c5be164a1d2d321f"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/DIM1/cache_1/0_-1.xwmc.outdated",
+      "sha1": "990dc926f6e7c856b653e129574fb9e5b16c0b37"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/DIM1/cache_1/0_0.xwmc.outdated",
+      "sha1": "b9266dcbb01145246c986bd752578106937abd70"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/DIM1/caves/4/cache_1/-1_-1.xwmc.outdated",
+      "sha1": "86f1c47b417b31c94b72f824008e7430d428b5b7"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/DIM1/caves/4/cache_1/-1_0.xwmc.outdated",
+      "sha1": "186237ccb613a6f7358523e1576a062a1168cb9a"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/DIM1/caves/4/cache_1/0_-1.xwmc.outdated",
+      "sha1": "0ecb22c8d787e80fefb4f08f9863abb3c4c94e05"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/DIM1/caves/4/cache_1/0_0.xwmc.outdated",
+      "sha1": "4cc52e974d53e37f9071d85e7775e7359ad025e5"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/DIM1/dimension_config.txt",
+      "sha1": "14da973fda9628dd3431002f2dc7d814ae8b2e48"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/ad_astra$mars_orbit/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/ad_astra$mars_orbit/dimension_config.txt",
+      "sha1": "684467f93077ec4ad654a0f1c973dcae18e7da65"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/null/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/null/cache_1/-1_-1.xwmc.outdated",
+      "sha1": "1369632945754291b256383ed92298e6970ad326"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/null/cache_1/-1_0.xwmc.outdated",
+      "sha1": "f989372a656c4ace21d2d5b1956fcc4567498e73"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/null/cache_1/0_-1.xwmc.outdated",
+      "sha1": "f2c7c1558016c8ac0489c3678ebabf61c31e82ce"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/null/cache_1/0_0.xwmc.outdated",
+      "sha1": "5e9ca30b30120664567c04d7afcf309f3d398fe5"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/null/dimension_config.txt",
+      "sha1": "a33b2cda96c216eb117bb126578b9564fdc9276c"
+    },
+    {
+      "path": "overrides/xaero/world-map/builds/server_config.txt",
+      "sha1": "b9103342f657311fe8dfae4f81743abc34c09eb2"
+    },
+    {
+      "path": "overrides/xaero/world-map/h (1)/ad_astra$mars/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/h (1)/ad_astra$mars/cache_1/-1_-1.xwmc.outdated",
+      "sha1": "6a17d49c54c1d0df00edf7060ecebdbb9d15d15f"
+    },
+    {
+      "path": "overrides/xaero/world-map/h (1)/ad_astra$mars/cache_1/-1_0.xwmc.outdated",
+      "sha1": "294629dd1a681c23b7b6b08b83b2b11309a7515c"
+    },
+    {
+      "path": "overrides/xaero/world-map/h (1)/ad_astra$mars/cache_1/0_-1.xwmc.outdated",
+      "sha1": "7620374166921b684d73894ea1098c86d8450061"
+    },
+    {
+      "path": "overrides/xaero/world-map/h (1)/ad_astra$mars/cache_1/0_0.xwmc.outdated",
+      "sha1": "4e15fbbe6811eaa400595dbd844afabba1ce895c"
+    },
+    {
+      "path": "overrides/xaero/world-map/h (1)/ad_astra$mars/dimension_config.txt",
+      "sha1": "db6eb516e9378f0835443d1a9c422d2de368e74a"
+    },
+    {
+      "path": "overrides/xaero/world-map/h (1)/null/dimension_config.txt",
+      "sha1": "94ae299c175c442bb7ebd168dc006c8d6582d01f"
+    },
+    {
+      "path": "overrides/xaero/world-map/h (1)/server_config.txt",
+      "sha1": "b9103342f657311fe8dfae4f81743abc34c09eb2"
+    },
+    {
+      "path": "overrides/xaero/world-map/h/DIM1/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/h/DIM1/cache_1/-1_0.xwmc.outdated",
+      "sha1": "1562cd8684fdc50476ae21292168d32d865b9d8f"
+    },
+    {
+      "path": "overrides/xaero/world-map/h/DIM1/cache_1/0_-1.xwmc.outdated",
+      "sha1": "2587d6e829fc7aabe9daa4fc21a722940f97a91c"
+    },
+    {
+      "path": "overrides/xaero/world-map/h/DIM1/cache_1/0_0.xwmc.outdated",
+      "sha1": "63c6818b7113f5b0d249984fbe270fe3b50b063f"
+    },
+    {
+      "path": "overrides/xaero/world-map/h/DIM1/caves/4/cache_1/-1_-1.xwmc.outdated",
+      "sha1": "315b9a49b788f0e02b7a1986f069c123f4315d69"
+    },
+    {
+      "path": "overrides/xaero/world-map/h/DIM1/caves/4/cache_1/-1_0.xwmc.outdated",
+      "sha1": "6640afe26731a406de09b5a1c06ef7ae486e2ad1"
+    },
+    {
+      "path": "overrides/xaero/world-map/h/DIM1/caves/4/cache_1/0_-1.xwmc.outdated",
+      "sha1": "8731114625a979cb457374bbc8a6e7cc1c76390c"
+    },
+    {
+      "path": "overrides/xaero/world-map/h/DIM1/caves/4/cache_1/0_0.xwmc.outdated",
+      "sha1": "069dfddf2b413a88c9cf942a00d438a27839add7"
+    },
+    {
+      "path": "overrides/xaero/world-map/h/DIM1/dimension_config.txt",
+      "sha1": "14da973fda9628dd3431002f2dc7d814ae8b2e48"
+    },
+    {
+      "path": "overrides/xaero/world-map/h/null/dimension_config.txt",
+      "sha1": "94ae299c175c442bb7ebd168dc006c8d6582d01f"
+    },
+    {
+      "path": "overrides/xaero/world-map/h/server_config.txt",
+      "sha1": "b9103342f657311fe8dfae4f81743abc34c09eb2"
+    },
+    {
+      "path": "overrides/xaero/world-map/structure test (1)/null/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/structure test (1)/null/dimension_config.txt",
+      "sha1": "a33b2cda96c216eb117bb126578b9564fdc9276c"
+    },
+    {
+      "path": "overrides/xaero/world-map/structure test (1)/server_config.txt",
+      "sha1": "b9103342f657311fe8dfae4f81743abc34c09eb2"
+    },
+    {
+      "path": "overrides/xaero/world-map/structure test/null/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/structure test/null/dimension_config.txt",
+      "sha1": "a33b2cda96c216eb117bb126578b9564fdc9276c"
+    },
+    {
+      "path": "overrides/xaero/world-map/structure test/server_config.txt",
+      "sha1": "b9103342f657311fe8dfae4f81743abc34c09eb2"
+    },
+    {
+      "path": "overrides/xaero/world-map/strucutre test 3 (1)/null/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/strucutre test 3 (1)/null/dimension_config.txt",
+      "sha1": "a33b2cda96c216eb117bb126578b9564fdc9276c"
+    },
+    {
+      "path": "overrides/xaero/world-map/strucutre test 3 (1)/server_config.txt",
+      "sha1": "b9103342f657311fe8dfae4f81743abc34c09eb2"
+    },
+    {
+      "path": "overrides/xaero/world-map/strucutre test 3 (2)/null/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/strucutre test 3 (2)/null/dimension_config.txt",
+      "sha1": "a33b2cda96c216eb117bb126578b9564fdc9276c"
+    },
+    {
+      "path": "overrides/xaero/world-map/strucutre test 3 (2)/server_config.txt",
+      "sha1": "b9103342f657311fe8dfae4f81743abc34c09eb2"
+    },
+    {
+      "path": "overrides/xaero/world-map/strucutre test 3/null/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/strucutre test 3/null/dimension_config.txt",
+      "sha1": "a33b2cda96c216eb117bb126578b9564fdc9276c"
+    },
+    {
+      "path": "overrides/xaero/world-map/strucutre test 3/server_config.txt",
+      "sha1": "b9103342f657311fe8dfae4f81743abc34c09eb2"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache/1/-1_-1.xwmc",
+      "sha1": "550e5c4384599aa7517245abd2010c2d4e92bec0"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache/1/-1_0.xwmc",
+      "sha1": "fed531bb4e4bd2aa0e4b01e556d9a129102eba77"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache/1/-1_1.xwmc",
+      "sha1": "6f1cbb8c447860d65586967015d46535895b3a05"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache/1/0_-1.xwmc",
+      "sha1": "47fc9dd86af211692ad121c2e70018addea5785e"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache/1/0_0.xwmc",
+      "sha1": "66a3ab22db33d37cf5085548fb30c52803538966"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache_1/-1_-1.xwmc",
+      "sha1": "3822ca24be67575b8d5b5c9fb8ed08cef65f45e6"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache_1/-1_0.xwmc",
+      "sha1": "30db1df465cf65cd103052bfbc579d329b7673d0"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache_1/-1_1.xwmc.outdated",
+      "sha1": "beb0677bd5338734a715a914952452d20428f48b"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache_1/-1_2.xwmc",
+      "sha1": "275c3ea819053b9a6d305a0287f9398c734d48fc"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache_1/-2_-1.xwmc",
+      "sha1": "efe3d4709ec13f22a004466a660f7f0f394e0022"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache_1/-2_0.xwmc",
+      "sha1": "869ffe79de5a56aac1d6c4e3e0628a6fb6823673"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache_1/-2_1.xwmc.outdated",
+      "sha1": "db0f4a7932936f2386b739f303acf84a04d0d39a"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache_1/-2_2.xwmc",
+      "sha1": "3e41f04e3da6ec8a3ae0f33290badad293744c44"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache_1/0_-1.xwmc",
+      "sha1": "73e2dc98f40332f3a2e11663eb2455c9c793da8e"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/cache_1/0_0.xwmc",
+      "sha1": "69dd938aee7bc65687e67ccd6e2313fa991ebea6"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/caves/6/cache_1/-1_0.xwmc.outdated",
+      "sha1": "0f836b67a4532ab9fe53c75c218e35ce66f68690"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/caves/6/cache_1/-1_1.xwmc.outdated",
+      "sha1": "e89ad81a82b1517b4916ed9e88f1cf75c6f7845d"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/caves/6/cache_1/-2_0.xwmc.outdated",
+      "sha1": "be61c3baa2d53fa9cc0b1c56f9bb222bf60ac005"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/caves/6/cache_1/-2_1.xwmc.outdated",
+      "sha1": "213052bbaedc254679a966001772a34871d136eb"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars/dimension_config.txt",
+      "sha1": "db6eb516e9378f0835443d1a9c422d2de368e74a"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars_orbit/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars_orbit/cache_1/-1_1.xwmc.outdated",
+      "sha1": "773b86c1b4618e6c8903448b112e8deb35bf66c7"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars_orbit/cache_1/-1_2.xwmc.outdated",
+      "sha1": "ec4d0d5424a3bee01d6f25476030e81860595a5e"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars_orbit/cache_1/-2_1.xwmc.outdated",
+      "sha1": "204434310add6f710770c821748a55941eb3a6f7"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars_orbit/caves/6/cache_1/-1_1.xwmc.outdated",
+      "sha1": "09c8a9f30916658d14e5b6493f5fccf708a87fec"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars_orbit/caves/6/cache_1/-2_1.xwmc.outdated",
+      "sha1": "885a3cbd6e0b3cbca464a8c8450ea215c309e495"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars_orbit/caves/7/cache_1/-1_1.xwmc.outdated",
+      "sha1": "178eab4b3663fcf700361f932302c1a86ab4ab7c"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars_orbit/caves/7/cache_1/-1_2.xwmc.outdated",
+      "sha1": "19d729a70b422985076b75521609ce43deb67508"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars_orbit/caves/7/cache_1/-2_1.xwmc.outdated",
+      "sha1": "09e8cdd27601a3058688520731cb3ff3a719900d"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars_orbit/caves/8/cache_1/-1_1.xwmc.outdated",
+      "sha1": "db2ae04f858431962887fcf7710bc0499146daef"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars_orbit/caves/8/cache_1/-1_2.xwmc.outdated",
+      "sha1": "025b1e5af0312cbc4a3e2dfa5fec0b70177bc5ac"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars_orbit/caves/8/cache_1/-2_1.xwmc.outdated",
+      "sha1": "6bec16347008ed0b4bad4e9a4c9f2e5703431c31"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/ad_astra$mars_orbit/dimension_config.txt",
+      "sha1": "684467f93077ec4ad654a0f1c973dcae18e7da65"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/northstar$mars/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/northstar$mars/cache_1/-1_-1.xwmc.outdated",
+      "sha1": "2705ec1a3913265a51dd99ebad69b21fa26bd2d5"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/northstar$mars/cache_1/-1_0.xwmc.outdated",
+      "sha1": "7db55708d6316f60b15b4d80792ec8708e543761"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/northstar$mars/cache_1/0_-1.xwmc.outdated",
+      "sha1": "e01b446fb9649dea562402f1125ebc2f425c2a62"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/northstar$mars/cache_1/0_0.xwmc.outdated",
+      "sha1": "1862fc5c6823d9d3e2e0aed287f634b9326bc00e"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/northstar$mars/caves/5/cache_1/-1_-1.xwmc.outdated",
+      "sha1": "35f99f364a98fdc187f180a6355875e8b710038d"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/northstar$mars/caves/5/cache_1/-1_0.xwmc.outdated",
+      "sha1": "4cffbaf6f98cf57b74e8d502869bbf3511d5ca2d"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/northstar$mars/caves/5/cache_1/0_-1.xwmc.outdated",
+      "sha1": "001b6e534c6d5eb1cc9b9f402d110c47353871f1"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/northstar$mars/caves/6/cache_1/-1_-1.xwmc.outdated",
+      "sha1": "f64adac9e11ff46a61d07c0e86f6bfd2ae827fd0"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/northstar$mars/caves/6/cache_1/-1_0.xwmc.outdated",
+      "sha1": "b7a63227a8e9d4a764b7bb83654df2627332a742"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/northstar$mars/caves/6/cache_1/0_-1.xwmc.outdated",
+      "sha1": "e5b59ec4a03964be6b2b67c0f81bd4f0c62e6ad0"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/northstar$mars/caves/6/cache_1/0_0.xwmc.outdated",
+      "sha1": "858c44f2db1a3e414bbd44db86e2955563df016f"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/northstar$mars/dimension_config.txt",
+      "sha1": "6b1f8652d21610bcd4717f7fa9023c11b769d750"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/null/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/null/cache/1/-1_0.xwmc",
+      "sha1": "3cdbcdc995340ed7488dc0b9b0c02a3ac31735f9"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/null/cache/1/0_0.xwmc",
+      "sha1": "a4d7be70422dd1727a795781cc2e850cc00b4666"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/null/cache/2/-1_0.xwmc",
+      "sha1": "c8ff2f1d08db9bf0f31081e45fa4fe64371cb575"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/null/cache/2/0_0.xwmc",
+      "sha1": "41d32c77621e8f25f035b55d549c29048a5d8999"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/null/cache_1/-1_-1.xwmc",
+      "sha1": "14e8832a706b2bcba592dd72796d0866e4bffe15"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/null/cache_1/-1_0.xwmc",
+      "sha1": "22f62bfc4aa5b33b04559efcecb3021a9b97fb5f"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/null/cache_1/0_-1.xwmc",
+      "sha1": "d653c683c91cef245bed96f351398cd5f2df1d63"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/null/cache_1/0_0.xwmc.outdated",
+      "sha1": "a02b25614b8ca509311e0af843e4152e5c6ae6a4"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/null/caves/3/cache_1/-1_-1.xwmc.outdated",
+      "sha1": "a312c1ffe7b407c7ae1f2e11744e84277859b4d6"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/null/caves/3/cache_1/-1_0.xwmc.outdated",
+      "sha1": "93512f16e327e13acd7c54f91f005d0ebd2f9990"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/null/caves/3/cache_1/0_-1.xwmc.outdated",
+      "sha1": "0025dbc5c4092bfe5a8949f08a88c8eb88c0c80d"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/null/caves/3/cache_1/0_0.xwmc.outdated",
+      "sha1": "ca37d819807bcc12d2d9f03657c763f9e8be4a68"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/null/dimension_config.txt",
+      "sha1": "a33b2cda96c216eb117bb126578b9564fdc9276c"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/server_config.txt",
+      "sha1": "b9103342f657311fe8dfae4f81743abc34c09eb2"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/cache_1/-1_0.xwmc",
+      "sha1": "e487ea0478ab6dc1ef06f75065a1948d7829e8a8"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/cache_1/-1_1.xwmc.outdated",
+      "sha1": "a40fb79a1b27e1fec107011f1663bd63e480aa06"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/cache_1/-1_2.xwmc.outdated",
+      "sha1": "b7c7c697a5e63e01fecdeb736f215bcd2d6adbe1"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/cache_1/-2_0.xwmc",
+      "sha1": "5c21aa10a1a95851a8a16d7abfa6aaae00a34d8d"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/cache_1/-2_1.xwmc.outdated",
+      "sha1": "05121dd9dd57c04f2e63f907584b464b1f290684"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/cache_1/0_0.xwmc",
+      "sha1": "1977e86e8764babe84caec09b125e6b807e33fc8"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/cache_1/0_1.xwmc",
+      "sha1": "d09422c6be6a02006fd3921c7cbd46d167f03699"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/caves/4/cache_1/-1_0.xwmc.outdated",
+      "sha1": "b0a4d31e80c755a67cf24b88da066732cc318acb"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/caves/4/cache_1/-1_1.xwmc.outdated",
+      "sha1": "a9d7f5c221ae76bc1b1075313c34554e8e697158"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/caves/4/cache_1/0_0.xwmc.outdated",
+      "sha1": "7e3d15fe83a82cf938a4083bc92a1f055c352033"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/caves/4/cache_1/0_1.xwmc.outdated",
+      "sha1": "a15d8eb3d8aa8bae3c5b2981932ee88d03540d9d"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/caves/5/cache_1/-1_0.xwmc",
+      "sha1": "c0b424fbc80ee4aad63abae873b17f5a80123b54"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/caves/5/cache_1/-1_1.xwmc.outdated",
+      "sha1": "4a1cfecb7d871c0b093389bd44eba380423442ef"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/caves/5/cache_1/-1_2.xwmc",
+      "sha1": "28843b83c6ce1c885e41110207cdda8b90f54526"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/caves/5/cache_1/-2_0.xwmc",
+      "sha1": "36a3bce6469beb80448d06a686c79b5a6a9052a0"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/caves/5/cache_1/-2_1.xwmc.outdated",
+      "sha1": "d3757255e1fdb1f382e1ba37cf4331be87434ebe"
+    },
+    {
+      "path": "overrides/xaero/world-map/testery/stellaris$mars/dimension_config.txt",
+      "sha1": "b09b4f0846702fe2f86d78301c61794d613e6232"
+    }
+  ]
+}

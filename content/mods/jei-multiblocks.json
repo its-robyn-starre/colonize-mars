@@ -1,0 +1,23 @@
+{
+  "name": "Just Enough Immersive Multiblocks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ffLYPaWN",
+      "slug": "jei-multiblocks",
+      "versionId": "kLhFXG0T",
+      "versionNumber": "1.21.1-1.0.6",
+      "filename": "jeimultiblocks-1.21.1-1.0.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ffLYPaWN/versions/kLhFXG0T/jeimultiblocks-1.21.1-1.0.6.jar",
+      "sha1": "3c0a8b4823083151572656c702e5a2b45720ab4f",
+      "sha512": "711ce793348d9cf8662bf7e13ed39c2b9d025f9eb3f3c90d7240de2fe2c38ee8c7abf654840e1c945ba66c1739bf77dfe8571a6186cca42cf472b4eaa74a416a",
+      "fileSize": 16964
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

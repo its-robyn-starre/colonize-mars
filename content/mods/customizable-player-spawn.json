@@ -1,0 +1,23 @@
+{
+  "name": "Customizable Player Spawn",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "eYBmMoG7",
+      "slug": "customizable-player-spawn",
+      "versionId": "83agKdNF",
+      "versionNumber": "2.0.0",
+      "filename": "customizableplayerspawn-neoforge-1.21.1-2.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eYBmMoG7/versions/83agKdNF/customizableplayerspawn-neoforge-1.21.1-2.0.0.jar",
+      "sha1": "7e81b22db01740be4b9638406b5a1bd4b2d5240c",
+      "sha512": "d08b6a213130c084969f2022b3388fbc05a759b70fe811868e5ec76022ed5ce2125fa223f4aa7978f8c6f7d4165b8a1fc415cf86d8dacfea4cf3ecc28d53dccd",
+      "fileSize": 121683
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

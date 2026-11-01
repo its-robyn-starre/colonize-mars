@@ -1,0 +1,137 @@
+#The dimension where the start spawn will be created.
+#If structure placement is enabled, the structure is generated there.
+#If structure placement is disabled, the player is spawned there directly.
+#Example: minecraft:overworld
+targetDimension = "ad_astra:mars"
+#Allowed biome ids for the start structure search.
+#Leave empty to allow any biome.
+#Examples: minecraft:plains, minecraft:forest
+allowedBiomes = []
+#Optional 2.0 profile id to force from config/customizableplayerspawn/profiles.
+#Leave empty to select the enabled valid profile with the highest priority.
+#Legacy settings below are used only when no enabled valid profile exists.
+selectedProfile = ""
+#The structure template resource location.
+#Can point to templates provided by vanilla, other mods, datapacks, or the world save.
+#The .nbt can be stored inside a datapack/mod resources under data/<namespace>/structure/<path>.nbt
+#or inside the world save under generated/<namespace>/structures/<path>.nbt
+#Examples: minecraft:end_city/ship, someothermod:start_house
+#Leave empty together with externalStructureFile to disable structure placement.
+structureTemplate = ""
+#Optional external .nbt file relative to config/customizableplayerspawn/structures.
+#Intended for modpacks that ship a loose structure file without rebuilding any jar.
+#When set, this file is loaded before structureTemplate and is available for every newly created world.
+#Examples: spawn.nbt, pack/start_house.nbt
+#Leave empty to use structureTemplate.
+externalStructureFile = "biodome.nbt"
+#Optional block id used as the spawn anchor inside the placed structure.
+#Can be a block from this mod, vanilla, or another mod.
+#Leave empty to disable block-based spawn anchors and use only dataMarker.
+spawnMarkerBlock = "customizableplayerspawn:player_spawn_marker"
+#Remove the configured spawn marker block after the structure is placed.
+#Disable this if you intentionally use a real decorative block from another mod as the anchor.
+removeSpawnMarkerBlock = true
+#Optional structure data marker name to use as spawn anchor when the custom marker block is absent.
+#Works with DATA structure_block markers from vanilla or other mods.
+#Useful for templates that already contain data markers, for example minecraft:end_city/ship with Elytra.
+#Leave empty to disable.
+dataMarker = "Elytra"
+#Max radius in blocks for finding a valid biome around 0 0.
+# Default: 0
+# Range: 0 ~ 30000000
+searchRadius = 0
+#How many candidate positions to try before failing.
+# Default: 1
+# Range: 1 ~ 100000
+searchAttempts = 1
+#How to determine the placement Y level.
+#HEIGHTMAP keeps the legacy behaviour.
+#SMART scans the column top-down and validates a real walkable floor.
+#ABSOLUTE_Y uses absoluteY as the base height.
+surfaceSearchMode = "HEIGHTMAP"
+#Base Y used when surfaceSearchMode is ABSOLUTE_Y.
+# Default: 96
+# Range: > -2147483648
+absoluteY = 96
+#Y offset from the top surface of the found position.
+#0 places the structure on the surface, positive values place it higher, negative values lower.
+# Default: 0
+# Range: > -2147483648
+placementY = 0
+#Additional legacy Y offset added after placementY. Usually keep this at 0.
+# Default: 0
+# Range: > -2147483648
+surfaceYOffset = 0
+#Extra offset applied to the top Y bound of SMART search before scanning downward.
+# Default: 0
+# Range: > -2147483648
+smartSearchTopOffset = 0
+#Extra offset applied to the bottom Y bound of SMART search before scanning downward.
+# Default: 0
+# Range: > -2147483648
+smartSearchBottomOffset = 0
+#Maximum allowed height difference across the placement footprint in SMART and ABSOLUTE_Y modes.
+# Default: 3
+# Range: > 0
+maxSurfaceStep = 3
+#Allow fluid blocks to be used as the supporting floor under the placement.
+allowFluidsBelow = false
+#Allow replaceable blocks such as grass at the feet position during SMART validation.
+allowReplaceableAtFeet = true
+#Allow replaceable blocks such as grass at the head position during SMART validation.
+allowReplaceableAtHead = true
+#Block ids that are never allowed as the support block in SMART and ABSOLUTE_Y modes.
+#Examples: minecraft:lava, minecraft:magma_block
+forbiddenSurfaceBlocks = ["minecraft:lava", "minecraft:magma_block"]
+#How to prepare terrain before placing the configured structure.
+#NONE places the structure directly.
+#ISLAND creates a deterministic natural-looking mound under the structure and clears the placement volume.
+terrainPreparationMode = "NONE"
+#Extra horizontal blocks around the structure footprint affected by ISLAND terrain preparation.
+# Default: 10
+# Range: 0 ~ 64
+terrainPadding = 10
+#Top block used by ISLAND terrain preparation.
+terrainTopBlock = "minecraft:grass_block"
+#Subsurface fill block used by ISLAND terrain preparation.
+terrainFillBlock = "minecraft:dirt"
+#Deep core block used by ISLAND terrain preparation.
+terrainCoreBlock = "minecraft:stone"
+#Use deterministic noise to break up ISLAND terrain edges.
+terrainEdgeNoise = true
+#Clear solid blocks, fluids, trees, and plants from the structure placement volume before placement.
+clearStructureVolume = true
+#Extra horizontal and vertical air clearance around the structure volume.
+# Default: 2
+# Range: 0 ~ 32
+clearVolumePadding = 2
+#Fill small air gaps directly under the placed structure without creating an artificial mound.
+fillSupportVoids = true
+#Maximum blocks to fill downward under each real structure support column.
+# Default: 8
+# Range: 0 ~ 32
+supportVoidMaxFillDepth = 8
+#Maximum Y drop from the structure floor to the outer ISLAND edge.
+# Default: 8
+# Range: 0 ~ 64
+islandMaxDrop = 8
+#How many blocks outside the structure footprint are used for the main ISLAND slope.
+# Default: 6
+# Range: 1 ~ 64
+islandEdgeFalloff = 6
+#Extra spawn offset X from the chosen marker position.
+# Default: 0
+# Range: > -2147483648
+spawnOffsetX = 0
+#Extra spawn offset Y from the chosen marker position.
+# Default: -1
+# Range: > -2147483648
+spawnOffsetY = -1
+#Extra spawn offset Z from the chosen marker position.
+# Default: 1
+# Range: > -2147483648
+spawnOffsetZ = 1
+#Yaw angle used for the saved spawn point.
+# Default: 180
+# Range: -360 ~ 360
+spawnAngle = 180

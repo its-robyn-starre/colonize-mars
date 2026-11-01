@@ -1,0 +1,23 @@
+{
+  "name": "Akashic Tome",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "JBthPdnp",
+      "slug": "akashic-tome",
+      "versionId": "MRro5nPG",
+      "versionNumber": "1.21.1-1.8-30",
+      "filename": "AkashicTome-1.8-30.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/JBthPdnp/versions/MRro5nPG/AkashicTome-1.8-30.jar",
+      "sha1": "6493e575f295e18fac1f7c5399c05c53caa1f7ce",
+      "sha512": "c0061c263e1d701e71a75355c3db11c9a975dd1e47da0fe6592973bf12d4f5b44aa476f5daaeec42a3146a8d94fe96f1d57f1a4e37dcd18357e4d752b1a194bb",
+      "fileSize": 50256
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

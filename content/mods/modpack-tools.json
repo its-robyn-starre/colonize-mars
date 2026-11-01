@@ -1,0 +1,23 @@
+{
+  "name": "ModPack-Tools",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Fdy5YeD1",
+      "slug": "modpack-tools",
+      "versionId": "9f0xTlLF",
+      "versionNumber": "1.0.0",
+      "filename": "modpack_tools-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Fdy5YeD1/versions/9f0xTlLF/modpack_tools-1.0.0.jar",
+      "sha1": "8c22fd8864a82d091d3f1f92c09012a83f6b8c33",
+      "sha512": "712d9c2a963ba6c82e8b15d39214604584ab1147370ebb22633bc2c19fd166312f487951492ec39d9ac858a52da1d127c88d2f914f6c352be75ad5de6bace671",
+      "fileSize": 166096
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

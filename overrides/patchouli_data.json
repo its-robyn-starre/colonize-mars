@@ -1,0 +1,16 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "forestry:foresters_manual": {
+      "viewedEntries": [
+        "forestry:core/machines/rainmaker",
+        "forestry:arboriculture/introduction",
+        "forestry:farming/multi_farms",
+        "forestry:beekeeping/introduction"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

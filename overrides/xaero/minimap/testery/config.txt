@@ -1,0 +1,18 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:northstar$mars:northstar$mars
+dimensionType:ad_astra$mars_orbit:ad_astra$mars_orbit
+dimensionType:stellaris$mars:stellaris$mars
+dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:ad_astra$mars:ad_astra$mars
+//third-party waypoints
