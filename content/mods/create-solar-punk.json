@@ -1,0 +1,23 @@
+{
+  "name": "Create: Solarpunk",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kAynBp83",
+      "slug": "create-solar-punk",
+      "versionId": "8F8bJVIC",
+      "versionNumber": "2.0.0-1.21.1",
+      "filename": "solarpunk-2.0.0-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kAynBp83/versions/8F8bJVIC/solarpunk-2.0.0-1.21.1.jar",
+      "sha1": "4ff9a5ebedfea831345f565a0e162fcdf37cb4af",
+      "sha512": "650b116116bebb69dfc50a6f4d093f70dd5aade0ccc799d97092e39fff4017d06afcc9dc49183cac0369d5f39c48eb4e340ad6e58f6360f3982166eb272b61d2",
+      "fileSize": 2558402
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

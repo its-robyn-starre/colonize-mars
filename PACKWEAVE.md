@@ -1,6 +1,6 @@
 # colonize mars
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 40 mods
+**Minecraft 1.21.1 · neoforge 21.1.265**, 45 mods (1 dependency)
 
 ## Contents
 
@@ -15,6 +15,7 @@
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Cooking for Blockheads](https://modrinth.com/project/cooking-for-blockheads) `21.1.24+neoforge-1.21.1`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
+- [Create: Solarpunk](https://modrinth.com/project/create-solar-punk) `2.0.0-1.21.1`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Customizable Player Spawn](https://modrinth.com/project/customizable-player-spawn) `2.0.0`
 - [Embers Re-Ignited](https://modrinth.com/project/embers-re-ignited) `1.21.1-1.5.9`
@@ -22,6 +23,7 @@
 - [ExtractinatorForked](https://modrinth.com/project/extractinatorforked) `3.1.0-alpha.2+neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
+- [HammerLib](https://modrinth.com/project/hammer-lib) `21.0.17`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
 - [Immersive Engineering](https://modrinth.com/project/immersiveengineering) `12.4.2-194`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
@@ -37,10 +39,13 @@
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Patchouli](https://modrinth.com/project/patchouli) `1.21.1-93-neoforge`
 - [Potentials](https://modrinth.com/project/potentials) `0.7.1`
+- [Powah!](https://modrinth.com/project/powah) `6.2.10-neoforge`
+- [Recipe Integration](https://modrinth.com/project/recipe-integration) `0.4.0`
 - [Resourceful Config](https://modrinth.com/project/resourceful-config) `3.0.11`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
+- [Solar Flux Reborn](https://modrinth.com/project/solar-flux-reborn) `21.1.8`
 - [WorldEdit](https://modrinth.com/project/worldedit) `7.3.8`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.6.0`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.47.0`

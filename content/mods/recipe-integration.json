@@ -1,0 +1,23 @@
+{
+  "name": "Recipe Integration",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "35hUUUwA",
+      "slug": "recipe-integration",
+      "versionId": "6vxfvFCK",
+      "versionNumber": "0.4.0",
+      "filename": "recipe_integration-0.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/35hUUUwA/versions/6vxfvFCK/recipe_integration-0.4.0.jar",
+      "sha1": "40a56de509e38d1d8c6a9cc408a62e838f285703",
+      "sha512": "1630a7c0b18d37cad7d66aeee78a3b8cab7e7805c137a89051117322056ae8280bac4c628d7a8459ef483fabddb8a87df75ef4abb77e5753b2d5092b3ba09ae6",
+      "fileSize": 2070204
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

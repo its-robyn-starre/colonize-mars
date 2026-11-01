@@ -1,0 +1,25 @@
+{
+  "name": "HammerLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "PlkSuVtM",
+      "slug": "hammer-lib",
+      "versionId": "xUFPUf7h",
+      "versionNumber": "21.0.17",
+      "filename": "HammerLib-1.21-21.0.17.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PlkSuVtM/versions/xUFPUf7h/HammerLib-1.21-21.0.17.jar",
+      "sha1": "0c6314c727d5f3911fbe289eba5101957e5b8860",
+      "sha512": "d5de4cecae6fe015b65b0bb53d76be0f3ce6893fb652a54e8e949ad8f3b65e431accbd452d3547373a01b2e6050c670c6ea2a9f4cee3e9020149e3a11e0f7aaa",
+      "fileSize": 2427649
+    }
+  },
+  "dependents": [
+    "4QG5lev4"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}
