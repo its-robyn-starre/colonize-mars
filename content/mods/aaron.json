@@ -1,0 +1,25 @@
+{
+  "name": "Aaron",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "usfxOp9L",
+      "slug": "aaron",
+      "versionId": "VsaBbH9Z",
+      "versionNumber": "1.22.0-build.44",
+      "filename": "aaron-1.21.1-1.22.0-build.44.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/usfxOp9L/versions/VsaBbH9Z/aaron-1.21.1-1.22.0-build.44.jar",
+      "sha1": "040835894af14374e9ad90472bc70b6b9d5cf886",
+      "sha512": "7579473e46c3a468038c4dc33dcbf34e060f65948e12286b382d076412b427210e426790f3df2d17a3417aaab7f9b2977b942e9cdeccad71b7f30f7ea5c0511a",
+      "fileSize": 381395
+    }
+  },
+  "dependents": [
+    "zI2FlF4Q"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

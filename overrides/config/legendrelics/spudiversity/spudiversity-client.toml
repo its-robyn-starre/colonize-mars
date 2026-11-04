@@ -1,0 +1,7 @@
+[rendering]
+	#是否渲染土豆护符
+	#Whether to render potato charms
+	render_potato_charms = true
+	#是否渲染永续土豆
+	#Whether to render perpetual potatoes
+	render_perpetual_potatoes = true

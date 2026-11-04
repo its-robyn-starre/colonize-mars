@@ -7,7 +7,32 @@
         "forestry:core/machines/rainmaker",
         "forestry:arboriculture/introduction",
         "forestry:farming/multi_farms",
-        "forestry:beekeeping/introduction"
+        "forestry:beekeeping/introduction",
+        "forestry:core/engines/peat_engine",
+        "forestry:beekeeping/bees_mundane",
+        "forestry:core/gears",
+        "forestry:core/machines/moistener",
+        "forestry:core/engines/clockwork_engine"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "ad_astra:astrodux": {
+      "viewedEntries": [
+        "ad_astra:surviving_mars/trophies",
+        "ad_astra:surviving_mars/industrial_lamps",
+        "ad_astra:surviving_mars/flags",
+        "ad_astra:surviving_mars/sliding_doors",
+        "ad_astra:the_moon/oxygen_distributor",
+        "ad_astra:the_moon/mars",
+        "ad_astra:the_moon/ti_69",
+        "ad_astra:the_moon/rover",
+        "ad_astra:the_hot_planets/proxima_centauri",
+        "ad_astra:surviving_mars/netherite_space_suit",
+        "ad_astra:surviving_mars/fluid_pipes",
+        "ad_astra:surviving_mars/energizer",
+        "ad_astra:surviving_mars/detection",
+        "ad_astra:surviving_mars/better_fuel"
       ],
       "bookmarks": [],
       "completedManualQuests": []

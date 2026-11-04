@@ -1,6 +1,10 @@
 {
   "files": [
     {
+      "path": "content/mods/aaron.json",
+      "sha1": "17a0c608364d8b2701cd46d1fde864a1c71b164d"
+    },
+    {
       "path": "content/mods/ad-astra.json",
       "sha1": "6ff9d1a4a97a073973adfef61d504d73d5952cd4"
     },
@@ -9,20 +13,20 @@
       "sha1": "6e7bc3d2c70fd1be6ca75466088f8c87b5c2ee14"
     },
     {
-      "path": "content/mods/appleskin.json",
-      "sha1": "0d7464a310020b7a0ce306927a2f66e63abf2d6b"
-    },
-    {
       "path": "content/mods/architectury-api.json",
-      "sha1": "68d57c00e51def26a3d9ac3cadc3482eb031aca1"
+      "sha1": "0d3d5a63d1606073b3962a07734d80fdf072343f"
     },
     {
       "path": "content/mods/balm.json",
-      "sha1": "d62769dd8ff0559ab3dd1fc76d5a2c04f4a84490"
+      "sha1": "22edca942e649b7795ae200909495ada6240ede4"
+    },
+    {
+      "path": "content/mods/better-advanced-tooltips.json",
+      "sha1": "c8f598e9ae79dbbc5f00c4ef2909b9432c0b3c0d"
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "0c304c1df6964fd33f4dbf87858210cdd9d82930"
+      "sha1": "6e05f95aa2625d21b949325198fadd9fd14b7aa4"
     },
     {
       "path": "content/mods/clumps.json",
@@ -50,11 +54,19 @@
     },
     {
       "path": "content/mods/curios.json",
-      "sha1": "ebcaa34f890c53b29967ba941fbeeb5dc786ca3f"
+      "sha1": "d5ff1d29d6c95dd7954e675d1a39e8d1510d932f"
     },
     {
       "path": "content/mods/customizable-player-spawn.json",
       "sha1": "da67f0b25055a2dfb28a7d85faa8c93c0bee587d"
+    },
+    {
+      "path": "content/mods/delight-lib.json",
+      "sha1": "10ecff1d21b031e5be578422301f9a5bdbed66cb"
+    },
+    {
+      "path": "content/mods/embers-questing.json",
+      "sha1": "cd0dfbbe0c43945530934e9f1b9c6b72186725de"
     },
     {
       "path": "content/mods/embers-re-ignited.json",
@@ -65,12 +77,32 @@
       "sha1": "2a95e205015292c7735186ca9d1888a3e3bda083"
     },
     {
-      "path": "content/mods/extractinatorforked.json",
-      "sha1": "5113cf6d2a8c398914717e93105e4a644a1fffbf"
+      "path": "content/mods/excessive-utilities.json",
+      "sha1": "a224bcc3207b33f1878334eb664e4cc198f205e8"
+    },
+    {
+      "path": "content/mods/extradelight.json",
+      "sha1": "2bf794b517dbcf1e5f9d32708926fcdf6ba17e81"
+    },
+    {
+      "path": "content/mods/farmers-delight.json",
+      "sha1": "66996f1d07a7ee0df2726af4ca1e8b0a55387f15"
     },
     {
       "path": "content/mods/ferrite-core.json",
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
+    },
+    {
+      "path": "content/mods/forestry-ce-farms.json",
+      "sha1": "de35fc6c7afced8d45cb756c9cfd7abc530f5ca5"
+    },
+    {
+      "path": "content/mods/forestry-ce-mail.json",
+      "sha1": "0a5a95f6f53582994fb0031ceac87da6e20c536b"
+    },
+    {
+      "path": "content/mods/forestry-community-edition.json",
+      "sha1": "e3640f5238145667088961174a3008fbfafe77d3"
     },
     {
       "path": "content/mods/geckolib.json",
@@ -78,11 +110,11 @@
     },
     {
       "path": "content/mods/guideme.json",
-      "sha1": "e215a46f89b3a6bf83acee5228a63b00f89bab6b"
+      "sha1": "8d41bc87e4b08eb5b6124e095a68163cfd3baf66"
     },
     {
       "path": "content/mods/hammer-lib.json",
-      "sha1": "186764a5ba91ebda89a09c27a555532a0f406e21"
+      "sha1": "8594be75ac8c0948761db3867ca275d173090fd8"
     },
     {
       "path": "content/mods/immediatelyfast.json",
@@ -106,11 +138,23 @@
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
-      "sha1": "8cf33532f113d1fca894707b7b98fd3e7d72275d"
+      "sha1": "3e2e898402009d0c9d8880883174cbcc80f2f451"
+    },
+    {
+      "path": "content/mods/kubejs-studio.json",
+      "sha1": "aa31a9915e3cd907dc1dfe3fc34d5a29aedf3aec"
+    },
+    {
+      "path": "content/mods/kubejs.json",
+      "sha1": "e07ee392ec70fd606d5959e37d0e2d60e63489e3"
     },
     {
       "path": "content/mods/lambdynamiclights.json",
       "sha1": "cec10ce7221dbac2be6a9ce0283fdb8f1c103d4f"
+    },
+    {
+      "path": "content/mods/legendreliclib.json",
+      "sha1": "2a2f5e0349ae898a9beb3f7fe2304d299fd18fa6"
     },
     {
       "path": "content/mods/lithium.json",
@@ -133,20 +177,28 @@
       "sha1": "c63b91debf328dfacc1206801bdcc03b6060f65c"
     },
     {
+      "path": "content/mods/more-delight.json",
+      "sha1": "b836926e4a7ed4b66d637006030563e8c3342839"
+    },
+    {
       "path": "content/mods/mouse-tweaks.json",
       "sha1": "9f6e2f2f1f2d235a51fb654250430398c8283a4f"
     },
     {
+      "path": "content/mods/oracle-index.json",
+      "sha1": "d071dc89c601f80898324d971540c9c82d759e99"
+    },
+    {
+      "path": "content/mods/particle-rain.json",
+      "sha1": "dd37639fa1267d04becc8543f916077a587f6bcb"
+    },
+    {
       "path": "content/mods/patchouli.json",
-      "sha1": "e285b184b2c74a4e86edf1ae6ae4c85f382ca9e3"
+      "sha1": "0c29d47c10edcc09a0ecc1c98db5cb79fb5c80b1"
     },
     {
       "path": "content/mods/potentials.json",
       "sha1": "a5975243172cbe64d51c848cd5c65ecd0e7bd460"
-    },
-    {
-      "path": "content/mods/powah.json",
-      "sha1": "2d9c0520626c114396643787c92fb6341ce40c17"
     },
     {
       "path": "content/mods/recipe-integration.json",
@@ -161,16 +213,32 @@
       "sha1": "7314d38395077938842630a4ec08475e009eecc3"
     },
     {
+      "path": "content/mods/rhino.json",
+      "sha1": "f082316c370a23c9e3a9b82c635b0dbff48e8772"
+    },
+    {
       "path": "content/mods/searchables.json",
       "sha1": "edb3eb1708af83391dfaf0ac87dad0bf59632069"
+    },
+    {
+      "path": "content/mods/simple-greenhouses.json",
+      "sha1": "cadf6a59b293697ad6769ed329f387894e31a82d"
     },
     {
       "path": "content/mods/sodium.json",
       "sha1": "592b4af0448f2cfb25e84058fc39f140eb4dd648"
     },
     {
-      "path": "content/mods/solar-flux-reborn.json",
-      "sha1": "2464cdfd6ab6a92e86ec63989149184f2af3d8b0"
+      "path": "content/mods/spice-of-life-valheim-reforged.json",
+      "sha1": "82aeb499938031c9f9d2a1e11c82706de1efba55"
+    },
+    {
+      "path": "content/mods/titanium.json",
+      "sha1": "6b38305f9add8d77f6df98b7496a898bdcf4f1f7"
+    },
+    {
+      "path": "content/mods/weatherforecast.json",
+      "sha1": "c4dcb9d9e995bfd4aeb89911a9ae1fe0b6e1ecb6"
     },
     {
       "path": "content/mods/worldedit.json",
@@ -213,6 +281,10 @@
       "sha1": "e3b64be4e4d635eaef5430a06d90a77600647477"
     },
     {
+      "path": "overrides/config/better-advanced-tooltips-client.toml",
+      "sha1": "02b1eb43cb55013ca0316287eb7f2f88eaacf4fb"
+    },
+    {
       "path": "overrides/config/cookingforblockheads-common.toml",
       "sha1": "b52affb956d2cb110d9391ca972666a98f7e5537"
     },
@@ -246,6 +318,10 @@
     },
     {
       "path": "overrides/config/customizableplayerspawn/structures/biodome.nbt",
+      "sha1": "fcd51ef71934cb6055a922177f2f707706d6fc9a"
+    },
+    {
+      "path": "overrides/config/customizableplayerspawn/structures/biodome_with_oxygen.nbt",
       "sha1": "a4e8a7c400128473ab89ddb4191ea78cae9994a8"
     },
     {
@@ -255,6 +331,38 @@
     {
       "path": "overrides/config/embers-common.toml",
       "sha1": "fea32d4875239efbf3464963d590f3c404a826ce"
+    },
+    {
+      "path": "overrides/config/embersquesting/book.json",
+      "sha1": "ba8fd29cb0e7dfc9a72c5ad65e78ae5fc863198a"
+    },
+    {
+      "path": "overrides/config/embersquesting/client.json",
+      "sha1": "7463a401d48d6376bad490ca583053eeabf2090e"
+    },
+    {
+      "path": "overrides/config/embersquesting/pack/pack.mcmeta",
+      "sha1": "2eb8ce95e4543c8aecb9fd6dd9ace40aeb6c5e46"
+    },
+    {
+      "path": "overrides/config/embersquesting/previews/sp_idk__2__4db1bb53.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/embersquesting/previews/sp_idk_c6e5e46c.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/embersquesting/previews/sp_new_world_411b5590.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/embersquesting/problems.txt",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/config/emi.css",
+      "sha1": "ce0fedbfa2556c8c1f1e320eb82af032ba81e8c3"
     },
     {
       "path": "overrides/config/entityculling.json",
@@ -279,6 +387,18 @@
     {
       "path": "overrides/config/extractinator.jsonc",
       "sha1": "952233c4922ea3319ae4832aaf43bf8b72f5a8e0"
+    },
+    {
+      "path": "overrides/config/extradelight-common.toml",
+      "sha1": "4cf81c495599847b5bcab631cba2c198a6046b72"
+    },
+    {
+      "path": "overrides/config/farmersdelight-client.toml",
+      "sha1": "376d9f84ec76953b4cd907387f4fc55069350250"
+    },
+    {
+      "path": "overrides/config/farmersdelight-common.toml",
+      "sha1": "7600f1899a7704d0cc4f0a81f4694b8c47026bcf"
     },
     {
       "path": "overrides/config/ferritecore-mixin.toml",
@@ -345,6 +465,34 @@
       "sha1": "8d166c2db98244aed1d68514358d7a535a93f974"
     },
     {
+      "path": "overrides/config/industrialforegoing/client-config.toml",
+      "sha1": "b75ec775f3e0bbd771631f3daa45abbe97a96ec3"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/item-core.toml",
+      "sha1": "b8d9c6ae72a57b89f87000ae2e93f69f1ec270ef"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-agriculture-husbandry.toml",
+      "sha1": "e474686b3b302d481020de6cdf592ad944b5324a"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-core.toml",
+      "sha1": "33a13b7aa92b0c4e79af0f2cac1e021d4f9aee31"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-generator.toml",
+      "sha1": "9cac70e5b24869d9a860cc4b1334a8767c064045"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-misc.toml",
+      "sha1": "fbd1f5066528b3dbf5e86dce389be672a9213f5a"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-resource-production.toml",
+      "sha1": "c7af86fde3fee183420fa2eac56b792fba5d367a"
+    },
+    {
       "path": "overrides/config/jade/hide-blocks.json",
       "sha1": "a503776a467ca75d97916f99bf665dbf64a521a9"
     },
@@ -358,11 +506,11 @@
     },
     {
       "path": "overrides/config/jade/plugins.json",
-      "sha1": "2142149c3acfb0c976d00c3966f5eada58f47aad"
+      "sha1": "33d0ffd2a0ef870fd82f52237216cabe8e8c2af5"
     },
     {
       "path": "overrides/config/jade/sort-order.json",
-      "sha1": "0272414e31858b95ef9e80735830d54a12283d71"
+      "sha1": "5c1aebc7774bb67022c9c1143763d5a765843933"
     },
     {
       "path": "overrides/config/jei/blacklist.json",
@@ -386,7 +534,7 @@
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-mod-sort-order.ini",
-      "sha1": "6fa88acd15cb510e149af1c91f21658b9d0cdc4a"
+      "sha1": "94399e1d56640841e3a77a36c9ec6fe4010ed44a"
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-type-sort-order.ini",
@@ -394,11 +542,23 @@
     },
     {
       "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
-      "sha1": "efda54d3f4d536a61598ef4a1ba8b7a65709f0c5"
+      "sha1": "61108ef6529000b56cad1f66dfac6ab182b0e897"
     },
     {
       "path": "overrides/config/jei/server/world/default/jei-server.ini",
       "sha1": "e8b195526ded143c1666adfab8f11f4015c5c911"
+    },
+    {
+      "path": "overrides/config/jei/world/local/New World/bookmarks.json",
+      "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39"
+    },
+    {
+      "path": "overrides/config/jei/world/local/New World/lookupHistory.json",
+      "sha1": "5e85244fce166757511ef674ae5a2aba530c53a2"
+    },
+    {
+      "path": "overrides/config/jei/world/local/idk/lookupHistory.json",
+      "sha1": "f7d1fceeb646fd5ca7c341fdd27f82295a57d6c2"
     },
     {
       "path": "overrides/config/jei/world/local/testery/lookupHistory.json",
@@ -407,6 +567,30 @@
     {
       "path": "overrides/config/lambdynlights.toml",
       "sha1": "f1802304ca2baab1cf4018c25267c203846fe7c2"
+    },
+    {
+      "path": "overrides/config/ldlib2-client.toml",
+      "sha1": "35c09ac07be09bba63c2c30a69d1b67971170e3d"
+    },
+    {
+      "path": "overrides/config/legendrelics/legendreliclib/legendreliclib-attr.toml",
+      "sha1": "0c6f12bb0b92d3557e9ed042236488a43929b198"
+    },
+    {
+      "path": "overrides/config/legendrelics/legendreliclib/legendreliclib-common.toml",
+      "sha1": "1d82a037ab89c68cc1eacd1b72259a6311c0b388"
+    },
+    {
+      "path": "overrides/config/legendrelics/legendreliclib/legendreliclib-effect.toml",
+      "sha1": "5dc10be9bd22065b0336e321bcefaba07aa05738"
+    },
+    {
+      "path": "overrides/config/legendrelics/spudiversity/spudiversity-client.toml",
+      "sha1": "3f3edd229c9976291a69c80d421a3eb0475f8683"
+    },
+    {
+      "path": "overrides/config/legendrelics/spudiversity/spudiversity-potato_config.toml",
+      "sha1": "7dc5830b96b783cad9bfba8c40ffbc18af16616c"
     },
     {
       "path": "overrides/config/lithium.properties",
@@ -447,6 +631,14 @@
     {
       "path": "overrides/config/northstar-server.toml",
       "sha1": "97ead992c70312f6854993fc8632de3968f220d7"
+    },
+    {
+      "path": "overrides/config/particlerain/config.json",
+      "sha1": "1676c71f3041cc4e42cbf5e2b53ea39be4fe5929"
+    },
+    {
+      "path": "overrides/config/particlerain/particles.json",
+      "sha1": "a3cda0c7a58a55ccc32db19869e13bc9e9a003e7"
     },
     {
       "path": "overrides/config/patchouli-client.toml",
@@ -509,12 +701,16 @@
       "sha1": "d1118794d443c07f1a848e67dd53c1da1bebd9ac"
     },
     {
-      "path": "overrides/config/stellaris-config.json",
-      "sha1": "abb187fcdbd3f330f0c50ece2ce0f441c2c64f3c"
-    },
-    {
       "path": "overrides/config/test-config.json",
       "sha1": "cf0ef60c922b648c022ad2b1a869c45f804baee4"
+    },
+    {
+      "path": "overrides/config/titanium/titanium-tags.toml",
+      "sha1": "0a0ca2fb210512d2c5a4acaf68540657b04ba657"
+    },
+    {
+      "path": "overrides/config/titanium/titanium.toml",
+      "sha1": "e573cdaba1ad7ccca323ca28a52f3aecb3db7bd8"
     },
     {
       "path": "overrides/config/transition.json",
@@ -523,6 +719,10 @@
     {
       "path": "overrides/config/trender.json",
       "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0"
+    },
+    {
+      "path": "overrides/config/weather_forecast/settings.json",
+      "sha1": "89a8039b04e42309a269e8f2641e58a547be5106"
     },
     {
       "path": "overrides/config/worldedit/.archive-unpack/5f7cd289/.unpack_finished",
@@ -1090,7 +1290,7 @@
     },
     {
       "path": "overrides/config/worldedit/worldedit.properties",
-      "sha1": "bfcaa96ec7593101184f0aaccb8e62769fa3b1b0"
+      "sha1": "92889e33565648b86fa1e632b81f61c0f17d73d1"
     },
     {
       "path": "overrides/config/xaero/lib/client.cfg",
@@ -1154,7 +1354,7 @@
     },
     {
       "path": "overrides/config/xaerohud.txt",
-      "sha1": "7235e01cb97f766d1411ce97cdf65329297093c2"
+      "sha1": "517916c1f2e0a8b75735859edb7d692bba2c079e"
     },
     {
       "path": "overrides/config/xaeropatreon.txt",
@@ -1165,12 +1365,48 @@
       "sha1": "1103c28228bba008f05431cb0dfdbfb9082e100c"
     },
     {
+      "path": "overrides/kubejs/README.txt",
+      "sha1": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/example_block.png",
+      "sha1": "87f5ec8c26493050fc83543af8d33f2d28a98766"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/example_item.png",
+      "sha1": "d9912cb709ad496b10f19f8b2c66d1e419eb760c"
+    },
+    {
+      "path": "overrides/kubejs/client_scripts/main.js",
+      "sha1": "e6f23e21b25a366f2216fbf7da00ed7d34542f20"
+    },
+    {
+      "path": "overrides/kubejs/config/client.json",
+      "sha1": "543ce77f954453d39da0ef6adad3f5e427fd4d8a"
+    },
+    {
+      "path": "overrides/kubejs/config/common.json",
+      "sha1": "72bc0862d970e44dd5075bef3e74110f69d65a7d"
+    },
+    {
+      "path": "overrides/kubejs/config/web_server.json",
+      "sha1": "341459fcbb9a067b34087a440b1c7b6a8836173a"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/main.js",
+      "sha1": "6249ded51466cfc7b94ae9796f8c2caec5dac539"
+    },
+    {
+      "path": "overrides/kubejs/startup_scripts/main.js",
+      "sha1": "05ec115c372985dc9f77dd2513933aa8e90eba61"
+    },
+    {
       "path": "overrides/options.txt",
-      "sha1": "85aa31081fdb51828122275ab1efc94d5d786a8e"
+      "sha1": "2bac8f17c2c982bfadd6bdaa0d54eef14b7d440f"
     },
     {
       "path": "overrides/patchouli_data.json",
-      "sha1": "2d32b0ee9681549c993fe8dad0a2331ef791c2e1"
+      "sha1": "9b283c9c7c600778a1cecd2900d2647e4757135f"
     },
     {
       "path": "overrides/xaero/minimap/builds/config.txt",
@@ -1186,7 +1422,11 @@
     },
     {
       "path": "overrides/xaero/minimap/idk/config.txt",
-      "sha1": "c432eb3153a202ab874c0460bc824d8dcf607cb4"
+      "sha1": "263a0d1c4308d6b62fb5dc60917aeb305dead89d"
+    },
+    {
+      "path": "overrides/xaero/minimap/idk/dim%northstar$mars/waypoints.txt",
+      "sha1": "35f063fc4f4ca3d25cc0f0e3853859cbff068e4e"
     },
     {
       "path": "overrides/xaero/minimap/testery/config.txt",
@@ -1199,6 +1439,14 @@
     {
       "path": "overrides/xaero/minimap/testery/dim%ad_astra$mars/waypoints.txt",
       "sha1": "ee31dda150be3533fc6bf8e9a1270769cbbe21e9"
+    },
+    {
+      "path": "overrides/xaero/world-map/New World/ad_astra$mars/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/New World/ad_astra$mars/dimension_config.txt",
+      "sha1": "db6eb516e9378f0835443d1a9c422d2de368e74a"
     },
     {
       "path": "overrides/xaero/world-map/New World/null/.lock",
@@ -1266,19 +1514,19 @@
     },
     {
       "path": "overrides/xaero/world-map/builds/null/cache_1/-1_-1.xwmc.outdated",
-      "sha1": "88c3e025884a43d964d6d2345480b41df93583c8"
+      "sha1": "a18472d30408fcfdc286c5970401a68846ebcd1d"
     },
     {
       "path": "overrides/xaero/world-map/builds/null/cache_1/-1_0.xwmc.outdated",
-      "sha1": "dd65989cef3cf51cd7b11c18029b687bc1d2d7f2"
+      "sha1": "15e6ba3e828bb65b2d9dfe8de6328a7b60024414"
     },
     {
       "path": "overrides/xaero/world-map/builds/null/cache_1/0_-1.xwmc.outdated",
-      "sha1": "8b7cae6bd59ccb8479eb971aba3ea9278c403cb8"
+      "sha1": "490479e5681aca59d9e926cbac84681c7212beba"
     },
     {
       "path": "overrides/xaero/world-map/builds/null/cache_1/0_0.xwmc.outdated",
-      "sha1": "6caf2460fa598a0fffb3ffb51c2bb10f60394ed1"
+      "sha1": "81ea7dbe1e49a992fe6de07e810d4140a4e3d74e"
     },
     {
       "path": "overrides/xaero/world-map/builds/null/dimension_config.txt",
@@ -1353,28 +1601,132 @@
       "sha1": "b9103342f657311fe8dfae4f81743abc34c09eb2"
     },
     {
+      "path": "overrides/xaero/world-map/idk (2)/ad_astra$mars/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk (2)/ad_astra$mars/dimension_config.txt",
+      "sha1": "db6eb516e9378f0835443d1a9c422d2de368e74a"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk (2)/null/dimension_config.txt",
+      "sha1": "94ae299c175c442bb7ebd168dc006c8d6582d01f"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk (2)/server_config.txt",
+      "sha1": "b9103342f657311fe8dfae4f81743abc34c09eb2"
+    },
+    {
       "path": "overrides/xaero/world-map/idk/ad_astra$mars/.lock",
       "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
     },
     {
+      "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache/1/-1_-1.xwmc",
+      "sha1": "f5173cbd689ba3cc7ee0758dea228558370698cc"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache/1/-1_0.xwmc",
+      "sha1": "a6fd23f1f0d05de1a2bd4e395bbf4c9cae4f1149"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache/1/0_-1.xwmc",
+      "sha1": "974a00bb13174f62b9f85e884f111e9522285667"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache/1/0_0.xwmc",
+      "sha1": "e1ac1b06ae53c9f22fde2f1bf05c75f9649248be"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache/2/-1_-1.xwmc",
+      "sha1": "de460b0f3c7ee4ddecf5c2347207daf8c5ef2722"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache/2/-1_0.xwmc",
+      "sha1": "0cf778781fda262aea90fe255565137f88683ff7"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache/2/0_-1.xwmc",
+      "sha1": "5dd528d74d7a48142471a5083b0521fb6f8b3e4a"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache/2/0_0.xwmc",
+      "sha1": "a8482a8446494445ba8b837693e893dba554f095"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache/3/-1_-1.xwmc",
+      "sha1": "ef9cead89e431764e35182327e7dc1587462a08e"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache/3/-1_0.xwmc",
+      "sha1": "2ed9679b8075fa8bad7732eba2bed6b191d435e1"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache/3/0_-1.xwmc",
+      "sha1": "8aefa6d9e5ac87979fee8dc8c3f53cd6679446ee"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache/3/0_0.xwmc",
+      "sha1": "b4cfff7d3fa28384e65b2a68e0ae007d373aabe1"
+    },
+    {
       "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache_1/-1_-1.xwmc.outdated",
-      "sha1": "da17773a7b9b90d501215fbb0d956623551b2aad"
+      "sha1": "35687d83f2970d48bd74fde3d5a1a5831fe42934"
     },
     {
       "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache_1/-1_0.xwmc.outdated",
-      "sha1": "76b7137c35775f728dda7b04351ceb5e005a3795"
+      "sha1": "86c1d794e95b2a5a46fb3e52c38485563e26d88b"
     },
     {
       "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache_1/0_-1.xwmc.outdated",
-      "sha1": "76f145c7db7ced4851de404b05e1c99243b09814"
+      "sha1": "a6059db6c864a9452fe42840e779ff39259bb3d6"
     },
     {
       "path": "overrides/xaero/world-map/idk/ad_astra$mars/cache_1/0_0.xwmc.outdated",
-      "sha1": "ec37a876abb797c4cd63b4b2d47631bb5a592124"
+      "sha1": "44fe4bddef6421a2876615e384368f2a8f1380cb"
     },
     {
       "path": "overrides/xaero/world-map/idk/ad_astra$mars/dimension_config.txt",
       "sha1": "db6eb516e9378f0835443d1a9c422d2de368e74a"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/northstar$mars/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/northstar$mars/cache_1/-1_-1.xwmc.outdated",
+      "sha1": "9a9096116052de4a3326e1eda1c04bd5a1f9e1cc"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/northstar$mars/cache_1/-1_0.xwmc.outdated",
+      "sha1": "f2da3389970f9bb8958e112808bf3dcd7f670573"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/northstar$mars/cache_1/0_-1.xwmc.outdated",
+      "sha1": "17c29631e69c3c9434c31d83235188daba898b4a"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/northstar$mars/cache_1/0_0.xwmc.outdated",
+      "sha1": "40ae14e357fbe33d261f58407a15ffc65a2a6d6f"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/northstar$mars/caves/3/cache_1/-1_-1.xwmc.outdated",
+      "sha1": "22c8ff2af3692e879fe7cc866b088d9ed7d0eea1"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/northstar$mars/caves/3/cache_1/-1_0.xwmc.outdated",
+      "sha1": "303a45b9cf7374e750a164c91c37a990aee87df1"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/northstar$mars/caves/3/cache_1/0_-1.xwmc.outdated",
+      "sha1": "06b174704f14061aeb74d0648e486e2113b8d5f6"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/northstar$mars/caves/3/cache_1/0_0.xwmc.outdated",
+      "sha1": "d320ec9c3f2888f71219c9b57b4e49ba5ab950e2"
+    },
+    {
+      "path": "overrides/xaero/world-map/idk/northstar$mars/dimension_config.txt",
+      "sha1": "6b1f8652d21610bcd4717f7fa9023c11b769d750"
     },
     {
       "path": "overrides/xaero/world-map/idk/null/.lock",

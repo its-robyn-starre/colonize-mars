@@ -1,0 +1,6 @@
+#效果相关属性配置
+[effects]
+	#药水效果黑名单。
+	#列在此处的效果不会受到 药水额外刻数 / 药水时长倍率 / 药水额外等级 的增幅。
+	#格式："命名空间:路径"，例如 "minecraft:resistance"
+	effectBlacklist = ["minecraft:resistance", "minecraft:saturation"]

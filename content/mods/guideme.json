@@ -1,7 +1,7 @@
 {
   "name": "GuideME",
   "side": "auto",
-  "explicit": false,
+  "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
@@ -17,9 +17,7 @@
       "fileSize": 9332340
     }
   },
-  "dependents": [
-    "KZO4S4DO"
-  ],
+  "dependents": [],
   "clientSide": "required",
   "serverSide": "required"
 }

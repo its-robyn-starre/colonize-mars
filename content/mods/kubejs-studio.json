@@ -1,0 +1,22 @@
+{
+  "name": "KubeJS Studio",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1597398",
+      "slug": "kubejs-studio",
+      "versionId": "9011849",
+      "versionNumber": "KubeJS Studio 1.3.0 (NeoForge 1.21.1)",
+      "filename": "kubejsstudio-neoforge-1.21.1-1.3.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9011/849/kubejsstudio-neoforge-1.21.1-1.3.0.jar",
+      "sha1": "d10b4b645fbb7b260de8a898a36637b6a89daa20",
+      "fileSize": 8769365
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

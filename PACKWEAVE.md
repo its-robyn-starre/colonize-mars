@@ -1,14 +1,14 @@
 # colonize mars
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 45 mods (1 dependency)
+**Minecraft 1.21.1 · neoforge 21.1.265**, 60 mods (3 dependencies)
 
 ## Contents
 
+- [Aaron](https://modrinth.com/project/aaron) `1.22.0-build.44`
 - [Ad Astra](https://modrinth.com/project/ad-astra) `1.16.26`
 - [Akashic Tome](https://modrinth.com/project/akashic-tome) `1.21.1-1.8-30`
-- [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
-- [Balm](https://modrinth.com/project/balm) `21.0.66+neoforge-1.21.1`
+- [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
 - [Common Storage Lib](https://modrinth.com/project/common-storage-lib) `0.0.10`
@@ -18,11 +18,19 @@
 - [Create: Solarpunk](https://modrinth.com/project/create-solar-punk) `2.0.0-1.21.1`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Customizable Player Spawn](https://modrinth.com/project/customizable-player-spawn) `2.0.0`
+- [Delight Lib](https://modrinth.com/project/delight-lib) `26.05.18-1.21-neoforge`
+- Ember's Questing `Ember's Questing 1.4.0 (NeoForge 1.21.1)` (curseforge)
 - [Embers Re-Ignited](https://modrinth.com/project/embers-re-ignited) `1.21.1-1.5.9`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
-- [ExtractinatorForked](https://modrinth.com/project/extractinatorforked) `3.1.0-alpha.2+neoforge`
+- [Excessive Utilities](https://modrinth.com/project/excessive-utilities) `1.11.0-build.69`
+- Extra Delight `extradelight-2.6.6.jar` (curseforge)
+- Farmer's Delight `Farmer's Delight 1.3.4 - 1.21.1` (curseforge)
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
+- Forestry: CE `Forestry: CE 1.21.1-3.0.0-alpha9` (curseforge)
+- Forestry: CE - Farms `Forestry: CE - Farms 3.0.0-alpha9` (curseforge)
+- Forestry: CE - Mail `Forestry: CE - Mail 3.0.0-alpha9` (curseforge)
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
+- [GuideME](https://modrinth.com/project/guideme) `21.1.22`
 - [HammerLib](https://modrinth.com/project/hammer-lib) `21.0.17`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
 - [Immersive Engineering](https://modrinth.com/project/immersiveengineering) `12.4.2-194`
@@ -30,22 +38,29 @@
 - [Just Enough Immersive Multiblocks](https://modrinth.com/project/jei-multiblocks) `1.21.1-1.0.6`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.468`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
+- KubeJS Studio `KubeJS Studio 1.3.0 (NeoForge 1.21.1)` (curseforge)
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
+- LegendRelicLib `legendreliclib-1.21.1-1.4.8.jar` (curseforge)
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [MezzConfig](https://modrinth.com/project/mezzconfig) `0.6.10`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - Modpack Assistant `[1.21.1] Modpack Assistant 1.0.8` (curseforge)
 - [ModPack-Tools](https://modrinth.com/project/modpack-tools) `1.0.0`
+- [More Delight (for Farmer's Delight)](https://modrinth.com/project/more-delight) `26.05.20a-1.21-neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
+- [Oracle Index](https://modrinth.com/project/oracle-index) `1.4.0`
+- [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.2+1.21.1-neoforge`
 - [Patchouli](https://modrinth.com/project/patchouli) `1.21.1-93-neoforge`
 - [Potentials](https://modrinth.com/project/potentials) `0.7.1`
-- [Powah!](https://modrinth.com/project/powah) `6.2.10-neoforge`
 - [Recipe Integration](https://modrinth.com/project/recipe-integration) `0.4.0`
 - [Resourceful Config](https://modrinth.com/project/resourceful-config) `3.0.11`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
+- [Simple Greenhouses](https://modrinth.com/project/simple-greenhouses) `2.0.0`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
-- [Solar Flux Reborn](https://modrinth.com/project/solar-flux-reborn) `21.1.8`
+- [Spice of Life: Valheim Reforged](https://modrinth.com/project/spice-of-life-valheim-reforged) `1.1.7`
+- [Titanium](https://modrinth.com/project/titanium) `1.21-4.0.43`
+- [WeatherForecast](https://modrinth.com/project/weatherforecast) `1.3.0`
 - [WorldEdit](https://modrinth.com/project/worldedit) `7.3.8`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.6.0`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.47.0`

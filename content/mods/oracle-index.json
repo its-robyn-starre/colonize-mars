@@ -1,0 +1,26 @@
+{
+  "name": "Oracle Index",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "J8MMsNrL",
+      "slug": "oracle-index",
+      "versionId": "7OqGasX2",
+      "versionNumber": "1.4.0",
+      "filename": "oracle_index-neoforge-1.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/J8MMsNrL/versions/7OqGasX2/oracle_index-neoforge-1.4.0.jar",
+      "sha1": "90415e944016b45bd3791bfa3705e9e8345e1dde",
+      "sha512": "3937fe508e7a077769d813662bf3e13dcd16874d63ac91a433810d7ee38a526e23ca0258f5810c5ea65d37cdff2cad7cb4067cf43cb9a4874316310b190e2a87",
+      "fileSize": 29675090
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "zI2FlF4Q"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

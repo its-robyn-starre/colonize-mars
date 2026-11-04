@@ -1,0 +1,23 @@
+{
+  "name": "More Delight (for Farmer's Delight)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "znHQQtuU",
+      "slug": "more-delight",
+      "versionId": "DpW4EgJo",
+      "versionNumber": "26.05.20a-1.21-neoforge",
+      "filename": "moredelight-26.05.20a-1.21-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/znHQQtuU/versions/DpW4EgJo/moredelight-26.05.20a-1.21-neoforge.jar",
+      "sha1": "53ba48fc2dc3d96f0bc24cc0f85586ff8d740942",
+      "sha512": "0c0a8eb68b071b6705e042fb87d5007d33b60899e2721032c6d31eb76f5a27b3482872964995f0add76d339bc92d7ce41ead91ea3014317d1776f1e5f7b36a1c",
+      "fileSize": 141933
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

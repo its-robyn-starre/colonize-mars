@@ -1,0 +1,11 @@
+[potato_time_config]
+	#矿石土豆的食用后效果的生效时长（单位：分钟） Ore potato effect duration in minutes
+	#Default: 5
+	# Default: 5
+	# Range: > 0
+	orePotatoTime = 5
+	#钻石水晶土豆的食用后效果的生效时长（单位：分钟） Diamond crystal potato effect duration in minutes
+	#Default: 2
+	# Default: 2
+	# Range: > 0
+	diamondCrystalTime = 2

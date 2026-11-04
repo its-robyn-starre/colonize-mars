@@ -1,0 +1,23 @@
+{
+  "name": "Spice of Life: Valheim Reforged",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "TYHpvAhl",
+      "slug": "spice-of-life-valheim-reforged",
+      "versionId": "ZfHgRqb1",
+      "versionNumber": "1.1.7",
+      "filename": "sol_valheim_reforged-1.1.7-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TYHpvAhl/versions/ZfHgRqb1/sol_valheim_reforged-1.1.7-neoforge-1.21.1.jar",
+      "sha1": "914eaa31577801a05f0f0f51ff20ece3e58834cd",
+      "sha512": "906e567527dc34af5b2616870067ef927143711de833d04610f5c4e01211a658c608342469d628ded01a0c0dc425500a0430b35f0880465f8addbbcbda53ea91",
+      "fileSize": 488034
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

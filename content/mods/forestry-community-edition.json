@@ -1,0 +1,25 @@
+{
+  "name": "Forestry: CE",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1056828",
+      "slug": "forestry-community-edition",
+      "versionId": "9390077",
+      "versionNumber": "Forestry: CE 1.21.1-3.0.0-alpha9",
+      "filename": "forestry-1.21.1-3.0.0-alpha9.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9390/77/forestry-1.21.1-3.0.0-alpha9.jar",
+      "sha1": "ec0520249797f31c9d8a3273971f73fc111eec55",
+      "fileSize": 8592532
+    }
+  },
+  "dependents": [
+    "1657614",
+    "1658912"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

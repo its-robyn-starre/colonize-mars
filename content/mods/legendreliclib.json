@@ -1,0 +1,22 @@
+{
+  "name": "LegendRelicLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1307366",
+      "slug": "legendreliclib",
+      "versionId": "8933703",
+      "versionNumber": "legendreliclib-1.21.1-1.4.8.jar",
+      "filename": "legendreliclib-1.21.1-1.4.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8933/703/legendreliclib-1.21.1-1.4.8.jar",
+      "sha1": "2ba894a0c1bdc02f004a42b3c9692014715e4f5b",
+      "fileSize": 220717
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

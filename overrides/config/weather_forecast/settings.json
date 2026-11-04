@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "anchorX": 0.005,
+  "anchorY": 0.01,
+  "scale": 1.0,
+  "background": true,
+  "opacity": 0.6901961,
+  "showSeconds": false,
+  "supportMessageShown": true
+}

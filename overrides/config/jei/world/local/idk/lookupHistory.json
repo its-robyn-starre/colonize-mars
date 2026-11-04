@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"immersiveengineering:concrete_sprayed"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:hopper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersiveengineering:crusher"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:red_sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"embers:caminite_blend"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
