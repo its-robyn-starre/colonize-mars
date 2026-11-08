@@ -6,6 +6,10 @@
   "cookingforblockheads:preservation_chamber": null,
   "cookingforblockheads:sink": null,
   "cookingforblockheads:toaster": null,
+  "eclipticseasons:animal": null,
+  "eclipticseasons:cauldron": null,
+  "eclipticseasons:crop": null,
+  "eclipticseasons:greenhouse_core": null,
   "embers:machine_details": null,
   "embersquesting:quest_block": null,
   "hammerlib:root": null,
@@ -71,5 +75,9 @@
   "minecraft:total_enchantment_power": null,
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "productivemetalworks:casting": null,
+  "supplementaries:hat_stand": null,
+  "supplementaries:present": null,
+  "supplementaries:safe": null
 }

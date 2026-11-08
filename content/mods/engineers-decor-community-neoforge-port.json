@@ -1,0 +1,22 @@
+{
+  "name": "Engineer's Decor: Community NeoForge Port",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1656377",
+      "slug": "engineers-decor-community-neoforge-port",
+      "versionId": "8723211",
+      "versionNumber": "Engineer's Decor NeoForge 1.4.0-beta.2+mc1.21.1",
+      "filename": "engineersdecor-1.4.0-beta.2+mc1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8723/211/engineersdecor-1.4.0-beta.2%2bmc1.21.1.jar",
+      "sha1": "3a2954d930e76e5319ec5bd5454044adde2b0013",
+      "fileSize": 1477156
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

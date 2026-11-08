@@ -1,6 +1,6 @@
 # colonize mars
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 60 mods (3 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 74 mods (14 dependencies)
 
 ## Contents
 
@@ -8,7 +8,9 @@
 - [Ad Astra](https://modrinth.com/project/ad-astra) `1.16.26`
 - [Akashic Tome](https://modrinth.com/project/akashic-tome) `1.21.1-1.8-30`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
+- [AU: Immersive Engineering](https://modrinth.com/project/almost-unified-ie) `1.21.1-1.0.1+neoforge`
 - [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
+- [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
 - [Common Storage Lib](https://modrinth.com/project/common-storage-lib) `0.0.10`
@@ -19,39 +21,50 @@
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Customizable Player Spawn](https://modrinth.com/project/customizable-player-spawn) `2.0.0`
 - [Delight Lib](https://modrinth.com/project/delight-lib) `26.05.18-1.21-neoforge`
-- Ember's Questing `Ember's Questing 1.4.0 (NeoForge 1.21.1)` (curseforge)
+- [Desertification](https://modrinth.com/project/desertification) `0.42.4`
+- [Ecliptic Seasons](https://modrinth.com/project/ecliptic-seasons) `0.15.0-rc-3`
+- [Ember's Questing](https://www.curseforge.com/projects/1752806) `Ember's Questing 1.6.0 (NeoForge 1.21.1)`
 - [Embers Re-Ignited](https://modrinth.com/project/embers-re-ignited) `1.21.1-1.5.9`
+- [Engineer's Decor: Community NeoForge Port](https://www.curseforge.com/projects/1656377) `Engineer's Decor NeoForge 1.4.0-beta.2+mc1.21.1`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
 - [Excessive Utilities](https://modrinth.com/project/excessive-utilities) `1.11.0-build.69`
-- Extra Delight `extradelight-2.6.6.jar` (curseforge)
-- Farmer's Delight `Farmer's Delight 1.3.4 - 1.21.1` (curseforge)
+- [Extra Delight](https://www.curseforge.com/projects/842106) `extradelight-2.6.6.jar`
+- [Farmer's Delight](https://www.curseforge.com/projects/398521) `Farmer's Delight 1.3.4 - 1.21.1`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
-- Forestry: CE `Forestry: CE 1.21.1-3.0.0-alpha9` (curseforge)
-- Forestry: CE - Farms `Forestry: CE - Farms 3.0.0-alpha9` (curseforge)
-- Forestry: CE - Mail `Forestry: CE - Mail 3.0.0-alpha9` (curseforge)
+- [Forestry: CE](https://www.curseforge.com/projects/1056828) `Forestry: CE 1.21.1-3.0.0-alpha9`
+- [Forestry: CE - Farms](https://www.curseforge.com/projects/1658912) `Forestry: CE - Farms 3.0.0-alpha9`
+- [Forestry: CE - Mail](https://www.curseforge.com/projects/1657614) `Forestry: CE - Mail 3.0.0-alpha9`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
 - [GuideME](https://modrinth.com/project/guideme) `21.1.22`
 - [HammerLib](https://modrinth.com/project/hammer-lib) `21.0.17`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
 - [Immersive Engineering](https://modrinth.com/project/immersiveengineering) `12.4.2-194`
+- [Immersive Petroleum](https://modrinth.com/project/immersivepetroleum) `4.5.0-39`
+- [In Control!](https://modrinth.com/project/in-control) `1.21-10.3.1`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
+- [Just Another Witchery Remake](https://modrinth.com/project/just-another-witchery-remake) `0.5.38`
 - [Just Enough Immersive Multiblocks](https://modrinth.com/project/jei-multiblocks) `1.21.1-1.0.6`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.468`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
-- KubeJS Studio `KubeJS Studio 1.3.0 (NeoForge 1.21.1)` (curseforge)
+- [KubeJS Studio](https://www.curseforge.com/projects/1597398) `KubeJS Studio 1.3.0 (NeoForge 1.21.1)`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
-- LegendRelicLib `legendreliclib-1.21.1-1.4.8.jar` (curseforge)
+- [LegendRelicLib](https://www.curseforge.com/projects/1307366) `legendreliclib-1.21.1-1.4.8.jar`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
+- [Little Geode](https://modrinth.com/project/little-geode) `1.6.2`
 - [MezzConfig](https://modrinth.com/project/mezzconfig) `0.6.10`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
-- Modpack Assistant `[1.21.1] Modpack Assistant 1.0.8` (curseforge)
+- [Modpack Assistant](https://www.curseforge.com/projects/1679492) `[1.21.1] Modpack Assistant 1.0.8`
 - [ModPack-Tools](https://modrinth.com/project/modpack-tools) `1.0.0`
 - [More Delight (for Farmer's Delight)](https://modrinth.com/project/more-delight) `26.05.20a-1.21-neoforge`
+- [More Immersive Wires](https://modrinth.com/project/more-immersive-wires) `1.21.1-1.1.9`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
+- [Open Loader](https://modrinth.com/project/open-loader) `21.1.5`
 - [Oracle Index](https://modrinth.com/project/oracle-index) `1.4.0`
-- [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.2+1.21.1-neoforge`
+- [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.3+1.21.1-neoforge`
 - [Patchouli](https://modrinth.com/project/patchouli) `1.21.1-93-neoforge`
+- [Ponder for KubeJS](https://modrinth.com/project/ponder-kjs) `1.21.1-2.4.0+neoforge`
 - [Potentials](https://modrinth.com/project/potentials) `0.7.1`
+- [ProbeJS](https://modrinth.com/project/probejs) `8.0.3`
 - [Recipe Integration](https://modrinth.com/project/recipe-integration) `0.4.0`
 - [Resourceful Config](https://modrinth.com/project/resourceful-config) `3.0.11`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
@@ -59,6 +72,7 @@
 - [Simple Greenhouses](https://modrinth.com/project/simple-greenhouses) `2.0.0`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Spice of Life: Valheim Reforged](https://modrinth.com/project/spice-of-life-valheim-reforged) `1.1.7`
+- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.2`
 - [Titanium](https://modrinth.com/project/titanium) `1.21-4.0.43`
 - [WeatherForecast](https://modrinth.com/project/weatherforecast) `1.3.0`
 - [WorldEdit](https://modrinth.com/project/worldedit) `7.3.8`

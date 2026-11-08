@@ -1,0 +1,36 @@
+#Multiplier to the base speed of the greenhouse
+# Default: 1.0
+# Range: 0.1 ~ 10.0
+speedMultiplier = 1.0
+#Penalty to the speed of the machine if water is not supplied
+# Default: 3.0
+# Range: 1.0 ~ 100.0
+waterPenalty = 3.0
+#Multiplier to the speed of the machine if fertilizer is supplied
+# Default: 3.0
+# Range: 1.0 ~ 100.0
+fertilizerBonus = 3.0
+#Multiplier to the amount of water used to grow crops
+# Default: 1.0
+# Range: 0.1 ~ 10.0
+waterUsageMultiplier = 1.0
+#Penalty to the drops of items in trees
+# Default: 3
+# Range: 1 ~ 10
+treePenalty = 3
+#Maximum size of a cultivated tree (horizontally). Higher values may lead to merged trees.
+# Default: 5
+# Range: 2 ~ 20
+maxTreeSize = 5
+#Maximum distance from the controller the greenhouse can extend to
+# Default: 10
+# Range: 2 ~ 100
+greenhouseWidth = 10
+#Maximum height from the controller the greenhouse can extend to
+# Default: 10
+# Range: 2 ~ 100
+greenhouseHeight = 10
+#A list of *item tags* to allow in the greenhouse (only items with the tag with loot from crops)
+tagsWhitelist = ["c:crops", "c:seeds", "c:foods/fruit", "c:foods/vegetable", "c:foods/berry", "c:mushrooms", "minecraft:flowers", "minecraft:saplings", "minecraft:logs"]
+#A list of *blocks* to forbid in the greenhouse
+blockBlacklist = ["minecraft:wither_rose"]

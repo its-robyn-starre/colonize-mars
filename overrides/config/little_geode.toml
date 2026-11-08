@@ -1,0 +1,100 @@
+["Geode Drop Chance"]
+	#the chance of getting a random geode for each broken block from 0 to 1000 (need an integer number)
+	"Random Geode Drop Chance From Stone" = 10.0
+	"Random Geode Drop Chance From Deepslate" = 10.0
+	"Random Geode Drop Chance From Andesite Diorite and Granite" = 10.0
+	"Random Geode Drop Chance From Sand" = 1.0
+	"Random Geode Drop Chance From Red Sand" = 1.0
+	"Random Geode Drop Chance From Clay" = 1.0
+	"Random Geode Drop Chance From All Dirts Variant" = 1.0
+	"Random Geode Drop Chance From Basalt Blackstone Netherrack and Nylium" = 5.0
+	"Random Geode Drop Chance From Endstone" = 5.0
+
+["Geode Drop From Stone"]
+	#the percentage chance for each geode to drop
+	"Mineral Geode Drop %" = 55.0
+	"Organic Geode Drop %" = 20.0
+	"Oceanic Geode Drop %" = 20.0
+	"Fire Geode Drop %" = 2.0
+	"Void Geode Drop %" = 2.0
+	"Egg Geode Drop %" = 1.0
+
+["Geode Drop From Deepslate"]
+	#the percentage chance for each geode to drop
+	"Mineral Geode Drop %" = 70.0
+	"Organic Geode Drop %" = 10.0
+	"Oceanic Geode Drop %" = 10.0
+	"Fire Geode Drop %" = 7.0
+	"Void Geode Drop %" = 2.0
+	"Egg Geode Drop %" = 1.0
+
+["Geode Drop From Andesite Diorite Granite and Tuff"]
+	#the percentage chance for each geode to drop
+	"Mineral Geode Drop %" = 63.0
+	"Organic Geode Drop %" = 15.0
+	"Oceanic Geode Drop %" = 15.0
+	"Fire Geode Drop %" = 4.0
+	"Void Geode Drop %" = 2.0
+	"Egg Geode Drop %" = 1.0
+
+["Geode Drop From Sand"]
+	#the percentage chance for each geode to drop
+	"Mineral Geode Drop %" = 15.0
+	"Organic Geode Drop %" = 15.0
+	"Oceanic Geode Drop %" = 65.0
+	"Fire Geode Drop %" = 2.0
+	"Void Geode Drop %" = 2.0
+	"Egg Geode Drop %" = 1.0
+
+["Geode Drop From Red Sand"]
+	#the percentage chance for each geode to drop
+	"Mineral Geode Drop %" = 20.0
+	"Organic Geode Drop %" = 20.0
+	"Oceanic Geode Drop %" = 55.0
+	"Fire Geode Drop %" = 2.0
+	"Void Geode Drop %" = 2.0
+	"Egg Geode Drop %" = 1.0
+
+["Geode Drop From Clay"]
+	#the percentage chance for each geode to drop
+	"Mineral Geode Drop %" = 18.0
+	"Organic Geode Drop %" = 17.0
+	"Oceanic Geode Drop %" = 60.0
+	"Fire Geode Drop %" = 2.0
+	"Void Geode Drop %" = 2.0
+	"Egg Geode Drop %" = 1.0
+
+["Geode Drop From All Dirts Variant"]
+	#the percentage chance for each geode to drop
+	"Mineral Geode Drop %" = 15.0
+	"Organic Geode Drop %" = 65.0
+	"Oceanic Geode Drop %" = 15.0
+	"Fire Geode Drop %" = 2.0
+	"Void Geode Drop %" = 2.0
+	"Egg Geode Drop %" = 1.0
+
+["Geode Drop From Netherrack and Nyliums"]
+	#the percentage chance for each geode to drop
+	"Mineral Geode Drop %" = 5.0
+	"Organic Geode Drop %" = 5.0
+	"Oceanic Geode Drop %" = 5.0
+	"Fire Geode Drop %" = 82.0
+	"Void Geode Drop %" = 2.0
+	"Egg Geode Drop %" = 1.0
+
+["Geode Drop From Endstone"]
+	#the percentage chance for each geode to drop
+	"Mineral Geode Drop %" = 5.0
+	"Organic Geode Drop %" = 5.0
+	"Oceanic Geode Drop %" = 5.0
+	"Fire Geode Drop %" = 2.0
+	"Void Geode Drop %" = 82.0
+	"Egg Geode Drop %" = 1.0
+
+["Custom Despawn Time"]
+	#Should the geodes use a custom despawn.
+	CustomDespawnTimeEnabled = false
+	#How long it take for the geodes to despawn in tick (1 seconde -> 20 ticks).
+	DespawnTime = 6000.0
+	#How far the custom despawn time should apply (centered around player, in block lenght).
+	DespawnDistance = 32.0

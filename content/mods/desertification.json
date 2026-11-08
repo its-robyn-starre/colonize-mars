@@ -1,0 +1,23 @@
+{
+  "name": "Desertification",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lPDDc5bC",
+      "slug": "desertification",
+      "versionId": "mdp4A7Hy",
+      "versionNumber": "0.42.4",
+      "filename": "desert_1.21.1-neo-forge-0.42.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lPDDc5bC/versions/mdp4A7Hy/desert_1.21.1-neo-forge-0.42.4.jar",
+      "sha1": "673785885b97322c6051e42352e266e196741943",
+      "sha512": "1903a293721f78ec69087505830437f2be7beaebedde293101aef26498437ad60caca75f7e107ad58135a2920e9cd968b99c9b628d246f2c710277aed9c32d59",
+      "fileSize": 4336393
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

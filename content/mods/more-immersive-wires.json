@@ -1,0 +1,23 @@
+{
+  "name": "More Immersive Wires",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ekzqyEZL",
+      "slug": "more-immersive-wires",
+      "versionId": "87TfvCVW",
+      "versionNumber": "1.21.1-1.1.9",
+      "filename": "more-immersive-wires-1.21.1-1.1.9.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ekzqyEZL/versions/87TfvCVW/more-immersive-wires-1.21.1-1.1.9.jar",
+      "sha1": "4f1a986222e5cc516d8d3ccc23371ae1c2a7d691",
+      "sha512": "72f505491c4fd86e3ad00b9d967ef869eba610b1aae97d5d3d7a3a8fa437a449cd94580581840fd70942b6341f570c484b18ffa448d1cba0cde80845ed7aefd0",
+      "fileSize": 220918
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

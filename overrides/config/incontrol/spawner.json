@@ -1,0 +1,19 @@
+[
+  {
+    "mob": "ad_astra:martian_raptor",
+    "persecond": 0.25,
+    "attempts": 20,
+    "amount": {
+      "minimum": 2,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": "ad_astra:mars",
+      "mindist": 25,
+      "maxdist": 80,
+      "minheight": -64,
+      "maxheight": 320,
+      "maxthis": 80
+    }
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "Ecliptic Seasons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ofdM7yJE",
+      "slug": "ecliptic-seasons",
+      "versionId": "Tok0V0sp",
+      "versionNumber": "0.15.0-rc-3",
+      "filename": "EclipticSeasons-1.21.1-neoforge-0.15.0-rc-3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ofdM7yJE/versions/Tok0V0sp/EclipticSeasons-1.21.1-neoforge-0.15.0-rc-3.jar",
+      "sha1": "30b0e73258cf6277b55bd150a491346a1906c9b0",
+      "sha512": "e69bf14ebea93b62373f9e1d5a6e62e32c60eb164f9056d775798a16dc0875940100accd1030d80f603f752fe342ec69b746791687644dc4e5a1b88c045f1250",
+      "fileSize": 10298359
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

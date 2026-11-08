@@ -8,12 +8,12 @@
     "curseforge": {
       "id": "1752806",
       "slug": "embers-questing",
-      "versionId": "9413381",
-      "versionNumber": "Ember's Questing 1.4.0 (NeoForge 1.21.1)",
-      "filename": "embersquesting-neoforge-1.21.1-1.4.0.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9413/381/embersquesting-neoforge-1.21.1-1.4.0.jar",
-      "sha1": "32576c1112251876c8c6f69fdb60147f1276dbaa",
-      "fileSize": 12917397
+      "versionId": "9446064",
+      "versionNumber": "Ember's Questing 1.6.0 (NeoForge 1.21.1)",
+      "filename": "embersquesting-neoforge-1.21.1-1.6.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9446/64/embersquesting-neoforge-1.21.1-1.6.0.jar",
+      "sha1": "4dacc021702a663e488fd5353cd0762e893f169e",
+      "fileSize": 12969025
     }
   },
   "dependents": [],

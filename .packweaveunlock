@@ -10,3 +10,5 @@
 # !config/somemod.toml#client.debug
 options.txt
 servers.dat
+config/burninthesun-common.toml#General.mobs
+config/burninthesun-common.toml#General.ignoredBlocks

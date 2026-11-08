@@ -1,0 +1,23 @@
+{
+  "name": "AU: Immersive Engineering",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hCyAnqqq",
+      "slug": "almost-unified-ie",
+      "versionId": "QNmpHq1W",
+      "versionNumber": "1.21.1-1.0.1+neoforge",
+      "filename": "almostunified_ie-neoforge-1.21.1-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hCyAnqqq/versions/QNmpHq1W/almostunified_ie-neoforge-1.21.1-1.0.1.jar",
+      "sha1": "0940f4ac40f87ba12e6978ad80eb8eb756822aba",
+      "sha512": "51f6b8d3b89ed5f5a241535360d3a208e30118a95858c2e1c585bc23802320387a221e9b0f07ba536def5617e3830f3065ee46fa307a96f8880fbe8ebe2f290b",
+      "fileSize": 8743
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}
