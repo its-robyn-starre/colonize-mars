@@ -1,0 +1,4 @@
+[automatic_melting]
+	#合成配方折算熔炼时可忽略的材料，填写物品 ID 或 #物品标签；被忽略的材料不计入熔炼量，配方仍需至少一个可熔炼材料。
+	#Ingredients ignored when deriving melting recipes from crafting recipes. Use item IDs or #item tags; ignored ingredients add no fluid, and the recipe still needs at least one meltable ingredient.
+	crafting_ignored_ingredients = ["minecraft:stick"]

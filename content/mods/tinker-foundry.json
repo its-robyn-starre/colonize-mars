@@ -1,0 +1,22 @@
+{
+  "name": "TIC Foundry",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1704414",
+      "slug": "tinker-foundry",
+      "versionId": "9371436",
+      "versionNumber": "1.21.1-neoforge-Tinker-Foundry-2.2-fix",
+      "filename": "1.21.1-neoforge-Tinker-Foundry-2.2-fix.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9371/436/1.21.1-neoforge-Tinker-Foundry-2.2-fix.jar",
+      "sha1": "7530fcd8d20b51fea45e4b644a569323c54c5abf",
+      "fileSize": 2291132
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

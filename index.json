@@ -34,11 +34,15 @@
     },
     {
       "path": "content/mods/blueprint.json",
-      "sha1": "3317148b5a0e1191e20e9a094b8c3ff6f0ab55b0"
+      "sha1": "9def291e07649174de8f7fec7d74f356f126ea30"
     },
     {
       "path": "content/mods/bookshelf-lib.json",
       "sha1": "81fa143b5b0b72d93a03e3741ffa7f53c92ea64c"
+    },
+    {
+      "path": "content/mods/clayworks.json",
+      "sha1": "a4a4046cd027f7b30af27d3b5320ce7807a94355"
     },
     {
       "path": "content/mods/cloth-config.json",
@@ -337,6 +341,14 @@
       "sha1": "d9ba63bba2f06f9bd6063d886a12c4a20e33e036"
     },
     {
+      "path": "content/mods/tinker-foundry.json",
+      "sha1": "f8043edb2870481fa11fdf0a00d28d2655246a01"
+    },
+    {
+      "path": "content/mods/tinkerers-smithing.json",
+      "sha1": "3149819297cc4a0ec0fb8170664a328caadc7703"
+    },
+    {
       "path": "content/mods/titanium.json",
       "sha1": "6b38305f9add8d77f6df98b7496a898bdcf4f1f7"
     },
@@ -566,7 +578,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "914dce530b7c1c39b3a36b27362497312ff6c8ab"
+      "sha1": "85ea48aa189c2bb47c349afb5f3efc7f79e91570"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -742,7 +754,7 @@
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-mod-sort-order.ini",
-      "sha1": "a5ff2854a9717e6f6e35f6d06fffea222acf3b1e"
+      "sha1": "185febfbac42968a71bc4c81a36eeb3223b65e82"
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-type-sort-order.ini",
@@ -754,7 +766,7 @@
     },
     {
       "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
-      "sha1": "96704cb8950184f9f0ee074f46671721867a8a14"
+      "sha1": "29af10192798c3a334c33cda0a11be7aca6768ac"
     },
     {
       "path": "overrides/config/jei/server/world/default/jei-server.ini",
@@ -774,7 +786,7 @@
     },
     {
       "path": "overrides/config/jei/world/local/idk/lookupHistory.json",
-      "sha1": "e6a9f2ff5e30b875c408d3034bbb210f1b854617"
+      "sha1": "2b3f0f586da43d395775290f25029f574bc90a2c"
     },
     {
       "path": "overrides/config/jei/world/local/testery/lookupHistory.json",
@@ -782,7 +794,7 @@
     },
     {
       "path": "overrides/config/kubejsstudio.json",
-      "sha1": "6dd576cb593840b1976e1ac19a97fb2c3471004e"
+      "sha1": "693e53c3288b68c7b7583b026d5973855842660c"
     },
     {
       "path": "overrides/config/kubejsstudio/pending.json",
@@ -967,6 +979,22 @@
     {
       "path": "overrides/config/test-config.json",
       "sha1": "cf0ef60c922b648c022ad2b1a869c45f804baee4"
+    },
+    {
+      "path": "overrides/config/tinker_foundry-common.toml",
+      "sha1": "c5c855db3c6307e99055cb98b00f812dac8a5e65"
+    },
+    {
+      "path": "overrides/config/tinker_foundry/fluids/example.json.disabled",
+      "sha1": "946f76fdfcd6ba450d76b9b3154cfe06e7123011"
+    },
+    {
+      "path": "overrides/config/tinker_foundry/fluids/说明.txt",
+      "sha1": "3217d9e8a0f181cc9be973af3aa44ebbffb889d4"
+    },
+    {
+      "path": "overrides/config/tinkerers_smithing.toml",
+      "sha1": "af0229a1426688959b8c06778da82c9b61001f55"
     },
     {
       "path": "overrides/config/titanium/titanium-tags.toml",
@@ -1558,7 +1586,7 @@
     },
     {
       "path": "overrides/config/worldedit/worldedit.properties",
-      "sha1": "8fe2a292df64eac7c3e30d299886c06711a67d68"
+      "sha1": "06e4772f0d33fd1b547ef7643c80b261c8778d5d"
     },
     {
       "path": "overrides/config/xaero/lib/client.cfg",
@@ -1662,7 +1690,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/recipes.js",
-      "sha1": "c5ba7d24c0b1d9c0cd3a0a5591e45125cc59612d"
+      "sha1": "118b5ae50fa25222d5288fdd95aae1895e75eafd"
     },
     {
       "path": "overrides/kubejs/server_scripts/main.js",
@@ -1674,7 +1702,7 @@
     },
     {
       "path": "overrides/kubejsstudio/intel.json",
-      "sha1": "44d247958853c5c35c840c04a31171b74328d9b9"
+      "sha1": "07bc97f8de389987dd81089bc031992aff295ac9"
     },
     {
       "path": "overrides/options.txt",

@@ -1,6 +1,6 @@
 # colonize mars
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 75 mods (14 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 78 mods (14 dependencies)
 
 ## Contents
 
@@ -11,6 +11,7 @@
 - [AU: Immersive Engineering](https://modrinth.com/project/almost-unified-ie) `1.21.1-1.0.1+neoforge`
 - [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
+- [Clayworks](https://modrinth.com/project/clayworks) `4.0.3`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
 - [Common Storage Lib](https://modrinth.com/project/common-storage-lib) `0.0.10`
@@ -74,6 +75,8 @@
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Spice of Life: Valheim Reforged](https://modrinth.com/project/spice-of-life-valheim-reforged) `1.1.7`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.2`
+- [TIC Foundry](https://www.curseforge.com/projects/1704414) `1.21.1-neoforge-Tinker-Foundry-2.2-fix`
+- [Tinkerer's Smithing](https://modrinth.com/project/tinkerers-smithing) `2.7.2+1.21`
 - [Titanium](https://modrinth.com/project/titanium) `1.21-4.0.43`
 - [WeatherForecast](https://modrinth.com/project/weatherforecast) `1.3.0`
 - [WorldEdit](https://modrinth.com/project/worldedit) `7.3.8`

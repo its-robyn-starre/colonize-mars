@@ -1,0 +1,10 @@
+将 example.json.disabled 复制为任意 .json 文件后编辑，支持子目录。
+每个 JSON 必须提供 material、color、temperature 三个字段。
+material 填材料 ID（tin）或完整本模组流体 ID（tinker_foundry:molten/tin）。
+color 支持 #RRGGBB 或 #AARRGGBB，temperature 是非负的开尔文整数。
+名称使用资源包 lang：
+fluid_type.tinker_foundry.molten.tin
+item.tinker_foundry.molten.tin_bucket
+双端配置必须一致，修改后完全重启，不能通过 /reload 注册新流体。
+文件按相对路径排序，同材料第一份有效配置生效；坏文件跳过并记录日志。
+已有带标准标签的外部流体优先复用，其颜色和温度不会被本配置修改。

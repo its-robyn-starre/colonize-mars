@@ -1,0 +1,23 @@
+{
+  "name": "Tinkerer's Smithing",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "RhVpNN5O",
+      "slug": "tinkerers-smithing",
+      "versionId": "lEwrO29F",
+      "versionNumber": "2.7.2+1.21",
+      "filename": "tinkerers-smithing-2.7.2+1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/RhVpNN5O/versions/lEwrO29F/tinkerers-smithing-2.7.2%2B1.21.jar",
+      "sha1": "ea40b32cd1af3b3d166f448063e03f7c808809ab",
+      "sha512": "d613e55f993af1787300839d2b95e8406a31f1e8a5b544726fcc710b12d081a945074509e64d3eadc7158049959cfb0983013e7ec7a61ea374c91b8f7117b509",
+      "fileSize": 436545
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

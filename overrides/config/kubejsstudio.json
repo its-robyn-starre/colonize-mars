@@ -45,8 +45,8 @@
   "pinnedFiles": [],
   "pinnedFolders": [],
   "favorites": [],
-  "recipesSelected": "immersiveengineering:crafting/basic_engineering",
-  "recipesSearch": "immersiveengineering:crafting/basic_engineering",
+  "recipesSelected": "ad_astra:astrodux",
+  "recipesSearch": "",
   "tagsRegistry": "item",
   "tagsSelected": "",
   "tagsSearch": "",
@@ -59,18 +59,18 @@
   "createSearch": "",
   "filesOpen": [],
   "recentPicks": [
-    "item #c:plates/steel",
+    "item tinker_foundry:seared_brick",
+    "item minecraft:nether_brick",
+    "item immersiveengineering:basic_engineering",
+    "item forestry:iron_gear",
+    "item #c:glass_blocks",
     "item minecraft:nether_bricks",
+    "item immersiveengineering:wirecoil_copper",
+    "item #c:plates/steel",
     "item minecraft:iron_nugget",
     "item immersiveengineering:plate_steel",
     "item create:transmitter",
-    "item forestry:iron_gear",
-    "item #minecraft:pickaxes",
-    "item ad_astra:radio",
-    "item immersiveengineering:plate_iron",
-    "item #c:gears",
-    "item minecraft:nether_brick",
-    "item minecraft:potato"
+    "item #minecraft:pickaxes"
   ],
   "filesActive": -1
 }
