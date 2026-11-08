@@ -79,6 +79,9 @@
   "supplementaries": {
     "hat_stand": true
   },
+  "productivemetalworks": {
+    "casting": true
+  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,

@@ -45,8 +45,8 @@
   "pinnedFiles": [],
   "pinnedFolders": [],
   "favorites": [],
-  "recipesSelected": "immersiveengineering:crafting/craftingtable",
-  "recipesSearch": "immersiveengineering:crafting/craftingtable",
+  "recipesSelected": "immersiveengineering:crafting/basic_engineering",
+  "recipesSearch": "immersiveengineering:crafting/basic_engineering",
   "tagsRegistry": "item",
   "tagsSelected": "",
   "tagsSearch": "",
@@ -59,6 +59,7 @@
   "createSearch": "",
   "filesOpen": [],
   "recentPicks": [
+    "item #c:plates/steel",
     "item minecraft:nether_bricks",
     "item minecraft:iron_nugget",
     "item immersiveengineering:plate_steel",
@@ -69,8 +70,7 @@
     "item immersiveengineering:plate_iron",
     "item #c:gears",
     "item minecraft:nether_brick",
-    "item minecraft:potato",
-    "item ad_astra:mars_sand"
+    "item minecraft:potato"
   ],
   "filesActive": -1
 }

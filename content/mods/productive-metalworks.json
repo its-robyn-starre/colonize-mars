@@ -1,0 +1,22 @@
+{
+  "name": "Productive Metalworks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1184570",
+      "slug": "productive-metalworks",
+      "versionId": "8558526",
+      "versionNumber": "productivemetalworks-1.21.1-1.15.1.jar",
+      "filename": "productivemetalworks-1.21.1-1.15.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8558/526/productivemetalworks-1.21.1-1.15.1.jar",
+      "sha1": "56fb61c28d5a1d053ae26abb3042bbfd75110c79",
+      "fileSize": 3033210
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

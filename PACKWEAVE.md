@@ -1,6 +1,6 @@
 # colonize mars
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 74 mods (14 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 75 mods (14 dependencies)
 
 ## Contents
 
@@ -65,6 +65,7 @@
 - [Ponder for KubeJS](https://modrinth.com/project/ponder-kjs) `1.21.1-2.4.0+neoforge`
 - [Potentials](https://modrinth.com/project/potentials) `0.7.1`
 - [ProbeJS](https://modrinth.com/project/probejs) `8.0.3`
+- [Productive Metalworks](https://www.curseforge.com/projects/1184570) `productivemetalworks-1.21.1-1.15.1.jar`
 - [Recipe Integration](https://modrinth.com/project/recipe-integration) `0.4.0`
 - [Resourceful Config](https://modrinth.com/project/resourceful-config) `3.0.11`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
