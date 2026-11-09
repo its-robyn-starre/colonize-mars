@@ -345,10 +345,6 @@
       "sha1": "f8043edb2870481fa11fdf0a00d28d2655246a01"
     },
     {
-      "path": "content/mods/tinkerers-smithing.json",
-      "sha1": "3149819297cc4a0ec0fb8170664a328caadc7703"
-    },
-    {
       "path": "content/mods/titanium.json",
       "sha1": "6b38305f9add8d77f6df98b7496a898bdcf4f1f7"
     },
@@ -437,6 +433,10 @@
       "sha1": "4732623baf36bcf3091f3fd2a75f6d989aaeda87"
     },
     {
+      "path": "overrides/config/clayworks-common.toml",
+      "sha1": "58b5720ac76cc5777d04e66184dea7940794022c"
+    },
+    {
       "path": "overrides/config/connector.json",
       "sha1": "de7faf7cefdc6be41a7a828c2d39f15517cf58c0"
     },
@@ -513,6 +513,46 @@
       "sha1": "ba8fd29cb0e7dfc9a72c5ad65e78ae5fc863198a"
     },
     {
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/chapter.json",
+      "sha1": "1eb8f0c870c40ce38c4c47579598b91131732dbe"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/environmental_hazards.json",
+      "sha1": "ab5f9a8e1afa3341a3a612d69a78096788b24f2a"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/food__you_need_it.json",
+      "sha1": "d6ba83fd2ee05b64241f29447d3c2d280009ecb1"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/quest.json",
+      "sha1": "5fd98b65a413d9a85e87a0a5f0c81b8605c3dc21"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/quest_2.json",
+      "sha1": "a9cb81e7beb87d06fbf113732aa1576a3153e860"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/quest_3.json",
+      "sha1": "80f23116d0f2237b0ab12067f182d4b2ef70aaf5"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/quest_4.json",
+      "sha1": "2713bc11f088f0d132f10c9e601e8b99917ceee7"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/quest_5.json",
+      "sha1": "439b8113c64c5fce65bf1c09ecd68b2785aa340c"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/quest_6.json",
+      "sha1": "6567aefd643bbf1fc0a8b91d02359872047e37f3"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/welcome_to_the_wild_red_yonder.json",
+      "sha1": "584da35ef54967fbfdfe0213813a780495fadaf3"
+    },
+    {
       "path": "overrides/config/embersquesting/client.json",
       "sha1": "7463a401d48d6376bad490ca583053eeabf2090e"
     },
@@ -539,6 +579,10 @@
     {
       "path": "overrides/config/embersquesting/problems.txt",
       "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/config/embersquesting/seen_quests.json",
+      "sha1": "5a502e94d008db3490ecb3ddd69650624ef7de6d"
     },
     {
       "path": "overrides/config/emi.css",
@@ -578,7 +622,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "85ea48aa189c2bb47c349afb5f3efc7f79e91570"
+      "sha1": "bcd3e87d9aa246fefb7026f28ceb0016fba810c5"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -754,7 +798,7 @@
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-mod-sort-order.ini",
-      "sha1": "185febfbac42968a71bc4c81a36eeb3223b65e82"
+      "sha1": "a7615c02cae27e4811c28ce086645eab0fad755e"
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-type-sort-order.ini",
@@ -766,7 +810,7 @@
     },
     {
       "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
-      "sha1": "29af10192798c3a334c33cda0a11be7aca6768ac"
+      "sha1": "58caf5a048bbcbbddec07b97ceb68f95e3017fb1"
     },
     {
       "path": "overrides/config/jei/server/world/default/jei-server.ini",
@@ -786,7 +830,7 @@
     },
     {
       "path": "overrides/config/jei/world/local/idk/lookupHistory.json",
-      "sha1": "2b3f0f586da43d395775290f25029f574bc90a2c"
+      "sha1": "68b6d7e63268cbc85c74d00f9d382c936bcc4f2c"
     },
     {
       "path": "overrides/config/jei/world/local/testery/lookupHistory.json",
@@ -794,7 +838,7 @@
     },
     {
       "path": "overrides/config/kubejsstudio.json",
-      "sha1": "693e53c3288b68c7b7583b026d5973855842660c"
+      "sha1": "13ae4d8ee6b8f3644b46930db7d45d95ed515511"
     },
     {
       "path": "overrides/config/kubejsstudio/pending.json",
@@ -994,7 +1038,7 @@
     },
     {
       "path": "overrides/config/tinkerers_smithing.toml",
-      "sha1": "af0229a1426688959b8c06778da82c9b61001f55"
+      "sha1": "a2311f752b6bbc0c447167b6f8a0cc90aeee916d"
     },
     {
       "path": "overrides/config/titanium/titanium-tags.toml",
@@ -1586,7 +1630,7 @@
     },
     {
       "path": "overrides/config/worldedit/worldedit.properties",
-      "sha1": "06e4772f0d33fd1b547ef7643c80b261c8778d5d"
+      "sha1": "490632dee5b29b516d6825d9d5ce79e2227e54be"
     },
     {
       "path": "overrides/config/xaero/lib/client.cfg",
@@ -1690,7 +1734,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/recipes.js",
-      "sha1": "118b5ae50fa25222d5288fdd95aae1895e75eafd"
+      "sha1": "c3eb443f11187f92339a9d847e2c2458d7b5f88e"
     },
     {
       "path": "overrides/kubejs/server_scripts/main.js",
@@ -1702,7 +1746,7 @@
     },
     {
       "path": "overrides/kubejsstudio/intel.json",
-      "sha1": "07bc97f8de389987dd81089bc031992aff295ac9"
+      "sha1": "8bfb2f5f45ba715379df3d644bce93efe037177d"
     },
     {
       "path": "overrides/options.txt",

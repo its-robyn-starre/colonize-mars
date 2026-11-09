@@ -1,0 +1,17 @@
+{
+  "title": "",
+  "x": 2,
+  "y": 1,
+  "deps": {
+    "all": [
+      "brick_by_brick_by_brick/welcome_to_the_wild_red_yonder"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "minecraft:nether_brick",
+      "type": "item"
+    }
+  ],
+  "size": 1.27
+}

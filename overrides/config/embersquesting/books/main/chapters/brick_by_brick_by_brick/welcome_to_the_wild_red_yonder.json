@@ -1,0 +1,10 @@
+{
+  "title": "Welcome to The Wild Red Yonder!",
+  "x": 3,
+  "y": 3,
+  "tasks": [
+    {
+      "type": "checkmark"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Food: You Need It",
+  "icon": "extradelight:jalapeno_stuffed_potato",
+  "x": 2,
+  "y": 4,
+  "deps": {
+    "all": [
+      "brick_by_brick_by_brick/welcome_to_the_wild_red_yonder"
+    ]
+  }
+}

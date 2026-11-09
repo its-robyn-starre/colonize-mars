@@ -1,6 +1,6 @@
 # colonize mars
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 78 mods (14 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 77 mods (14 dependencies)
 
 ## Contents
 
@@ -76,7 +76,6 @@
 - [Spice of Life: Valheim Reforged](https://modrinth.com/project/spice-of-life-valheim-reforged) `1.1.7`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.2`
 - [TIC Foundry](https://www.curseforge.com/projects/1704414) `1.21.1-neoforge-Tinker-Foundry-2.2-fix`
-- [Tinkerer's Smithing](https://modrinth.com/project/tinkerers-smithing) `2.7.2+1.21`
 - [Titanium](https://modrinth.com/project/titanium) `1.21-4.0.43`
 - [WeatherForecast](https://modrinth.com/project/weatherforecast) `1.3.0`
 - [WorldEdit](https://modrinth.com/project/worldedit) `7.3.8`

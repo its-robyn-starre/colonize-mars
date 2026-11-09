@@ -1,0 +1,16 @@
+{
+  "title": "",
+  "x": 4,
+  "y": 1,
+  "deps": {
+    "all": [
+      "brick_by_brick_by_brick/welcome_to_the_wild_red_yonder"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "ad_astra:radio",
+      "type": "item"
+    }
+  ]
+}

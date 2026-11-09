@@ -9,4 +9,5 @@ ServerEvents.generateData('after_mods', event => {
 })
 ServerEvents.recipes(event => {
     event.shapeless(Item.of('minecraft:nether_brick', 8), ['ad_astra:mars_sand', 'minecraft:potato', 'minecraft:water_bucket']).id('kubejsstudio:starcrete_bricks')
+    event.remove({ id: 'clayworks:nether_brick_from_baking' })
 })

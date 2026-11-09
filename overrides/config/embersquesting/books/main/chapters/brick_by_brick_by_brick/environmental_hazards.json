@@ -1,0 +1,19 @@
+{
+  "title": "Environmental Hazards",
+  "description": [
+    "lorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit amet"
+  ],
+  "icon": "immersiveengineering:warning_sign_cold",
+  "x": 4,
+  "y": 4,
+  "deps": {
+    "all": [
+      "brick_by_brick_by_brick/welcome_to_the_wild_red_yonder"
+    ]
+  },
+  "tasks": [
+    {
+      "type": "checkmark"
+    }
+  ]
+}

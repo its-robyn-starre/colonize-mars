@@ -1,0 +1,17 @@
+{
+  "title": "",
+  "x": 3,
+  "y": -1,
+  "deps": {
+    "all": [
+      "brick_by_brick_by_brick/quest",
+      "brick_by_brick_by_brick/quest_3"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "excessive_utilities:furnace",
+      "type": "item"
+    }
+  ]
+}

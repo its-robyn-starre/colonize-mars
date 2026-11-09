@@ -1,0 +1,16 @@
+{
+  "title": "",
+  "x": 4,
+  "y": -1,
+  "deps": {
+    "all": [
+      "brick_by_brick_by_brick/quest_2"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "forestry:clockwork_engine",
+      "type": "item"
+    }
+  ]
+}

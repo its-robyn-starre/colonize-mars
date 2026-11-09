@@ -1,0 +1,18 @@
+{
+  "title": "",
+  "x": 3.5625,
+  "y": -2.375,
+  "deps": {
+    "all": [
+      "brick_by_brick_by_brick/quest_4",
+      "brick_by_brick_by_brick/quest_5"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "tinker_foundry:seared_brick",
+      "type": "item"
+    }
+  ],
+  "size": 1.4
+}
