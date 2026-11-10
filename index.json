@@ -25,6 +25,10 @@
       "sha1": "0d3d5a63d1606073b3962a07734d80fdf072343f"
     },
     {
+      "path": "content/mods/baguettelib.json",
+      "sha1": "79cf20439ceae1dc5c032f00c04162eb0456cf3b"
+    },
+    {
       "path": "content/mods/balm.json",
       "sha1": "22edca942e649b7795ae200909495ada6240ede4"
     },
@@ -69,6 +73,14 @@
       "sha1": "5d1f3405173a09d87eed8ab0d3d35d1e53113e00"
     },
     {
+      "path": "content/mods/corpse-x-curios-api-compat.json",
+      "sha1": "8533c2630af8fa445d415fb6a0d5e4ea39bacec2"
+    },
+    {
+      "path": "content/mods/corpse.json",
+      "sha1": "0b14b1851fa116ea701cdff987e6556c1118b2d5"
+    },
+    {
       "path": "content/mods/create-solar-punk.json",
       "sha1": "1c590f66645854a470ea527e2ce239d425d58061"
     },
@@ -105,8 +117,16 @@
       "sha1": "31b77b45631ff5891e3c13de4259459305affad5"
     },
     {
+      "path": "content/mods/embers-text-api.json",
+      "sha1": "e6c2093dc926b28e33d21b1496cd92c8f9c43445"
+    },
+    {
       "path": "content/mods/engineers-decor-community-neoforge-port.json",
       "sha1": "617a938624b1b3e6e2e51aee46db0febce5d5364"
+    },
+    {
+      "path": "content/mods/engineers-delight.json",
+      "sha1": "29f001cc594ca5b9eff924c24dd4e7394de17194"
     },
     {
       "path": "content/mods/entityculling.json",
@@ -162,7 +182,7 @@
     },
     {
       "path": "content/mods/immersiveengineering.json",
-      "sha1": "c015029d17f666d15d3333c71f49893444fe3771"
+      "sha1": "f2877b48786a31504de1bca110895f4f8b5e22b0"
     },
     {
       "path": "content/mods/immersivepetroleum.json",
@@ -174,7 +194,7 @@
     },
     {
       "path": "content/mods/jade.json",
-      "sha1": "71a09e1c1e6a3436a1fdb40bfe446d06fc35a0cc"
+      "sha1": "688a2e2a48e7ce640a20f266d779462399094cd7"
     },
     {
       "path": "content/mods/jei-multiblocks.json",
@@ -182,7 +202,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "bcb8fcc72b787d3804eda808a85b6abfbf3f1bf7"
+      "sha1": "db7decb397581dbe8cb2ef18667653c5f1f590cf"
     },
     {
       "path": "content/mods/just-another-witchery-remake.json",
@@ -194,7 +214,7 @@
     },
     {
       "path": "content/mods/kubejs-2.json",
-      "sha1": "9cdc4930da054e86973f3b747fd7ee4bfcba9984"
+      "sha1": "e8a35acee07222f96338c501396675d568330097"
     },
     {
       "path": "content/mods/kubejs-studio.json",
@@ -303,6 +323,14 @@
     {
       "path": "content/mods/recipe-integration.json",
       "sha1": "2b835d7e39df9db9ca1dbceabeb0e0ecd10ce0e2"
+    },
+    {
+      "path": "content/mods/reliable-recipes.json",
+      "sha1": "a569c9a76ebe32a0f791b668790238ad0c1421ca"
+    },
+    {
+      "path": "content/mods/reliable-remover.json",
+      "sha1": "b14136965954fa0a634bcb878b1790de521a930b"
     },
     {
       "path": "content/mods/resourceful-config.json",
@@ -445,6 +473,14 @@
       "sha1": "b52affb956d2cb110d9391ca972666a98f7e5537"
     },
     {
+      "path": "overrides/config/corpse-server.toml",
+      "sha1": "a126740f724c04a86518e03c62c908568c9914e4"
+    },
+    {
+      "path": "overrides/config/corpsecurioscompat-common.toml",
+      "sha1": "f3576811902e4d45d3182179072130ef414e0966"
+    },
+    {
       "path": "overrides/config/create-client.toml",
       "sha1": "498fc51a3ee2b9b97479c5da3761eac070e5be69"
     },
@@ -513,8 +549,16 @@
       "sha1": "ba8fd29cb0e7dfc9a72c5ad65e78ae5fc863198a"
     },
     {
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/akashic_tome.json",
+      "sha1": "44fc114621ce9a187291f216fd3e6f7e6e35c347"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/better_bricks.json",
+      "sha1": "b02aabc675dca6e496b9ed43a011b06f12772446"
+    },
+    {
       "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/chapter.json",
-      "sha1": "1eb8f0c870c40ce38c4c47579598b91131732dbe"
+      "sha1": "dcaaa68b8ff892a0f7f4ed1ba6073ea887af20a7"
     },
     {
       "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/environmental_hazards.json",
@@ -525,12 +569,8 @@
       "sha1": "d6ba83fd2ee05b64241f29447d3c2d280009ecb1"
     },
     {
-      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/quest.json",
-      "sha1": "5fd98b65a413d9a85e87a0a5f0c81b8605c3dc21"
-    },
-    {
-      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/quest_2.json",
-      "sha1": "a9cb81e7beb87d06fbf113732aa1576a3153e860"
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/furnace.json",
+      "sha1": "5d24d61dcae1bf09462f3d7d36050325d256e160"
     },
     {
       "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/quest_3.json",
@@ -541,20 +581,32 @@
       "sha1": "2713bc11f088f0d132f10c9e601e8b99917ceee7"
     },
     {
-      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/quest_5.json",
-      "sha1": "439b8113c64c5fce65bf1c09ecd68b2785aa340c"
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/quest_6.json",
+      "sha1": "66e7bcf7fc7d30b4b5693e42cce8dd2960c169fb"
     },
     {
-      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/quest_6.json",
-      "sha1": "6567aefd643bbf1fc0a8b91d02359872047e37f3"
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/quest_7.json",
+      "sha1": "7743116e69cd13ea64b24d38be3bb9884b8a2389"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/radio_salvage.json",
+      "sha1": "bde95ceae1a64c0f60e3c0715195f471d31cb8ea"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/starcrete_bricks.json",
+      "sha1": "36773c400ad814105a41975858cf6e8c74b7a462"
     },
     {
       "path": "overrides/config/embersquesting/books/main/chapters/brick_by_brick_by_brick/welcome_to_the_wild_red_yonder.json",
       "sha1": "584da35ef54967fbfdfe0213813a780495fadaf3"
     },
     {
+      "path": "overrides/config/embersquesting/books/main/chapters/ice_and_fire/chapter.json",
+      "sha1": "a5169788882d44fcfea1621044cc5b23d15dc06a"
+    },
+    {
       "path": "overrides/config/embersquesting/client.json",
-      "sha1": "7463a401d48d6376bad490ca583053eeabf2090e"
+      "sha1": "d860f8c80ebc058f3ebdfb3ef4d04a16e2bec8ed"
     },
     {
       "path": "overrides/config/embersquesting/pack/pack.mcmeta",
@@ -582,7 +634,15 @@
     },
     {
       "path": "overrides/config/embersquesting/seen_quests.json",
-      "sha1": "5a502e94d008db3490ecb3ddd69650624ef7de6d"
+      "sha1": "e1456395120e83da6434ad2e66de06a6d6ad5d43"
+    },
+    {
+      "path": "overrides/config/emberstextapi-client.toml",
+      "sha1": "120832690767b79adad267e3c3d3392920978701"
+    },
+    {
+      "path": "overrides/config/emberstextapi-server.toml",
+      "sha1": "8c9db45685b6411bcb835531a4950a42192f4c1f"
     },
     {
       "path": "overrides/config/emi.css",
@@ -622,7 +682,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "bcd3e87d9aa246fefb7026f28ceb0016fba810c5"
+      "sha1": "52a7e72f38669a4d41b7943122743e68fd3f1a83"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -770,11 +830,11 @@
     },
     {
       "path": "overrides/config/jade/plugins.json",
-      "sha1": "4daba565a5821b326c08b85ab5a72105b0b863b5"
+      "sha1": "4a5e6f70249618bdd62a9eee6dd1361fb83a7625"
     },
     {
       "path": "overrides/config/jade/sort-order.json",
-      "sha1": "efb3972dab552bcc7cd3e460b3fa5cd93dd064bb"
+      "sha1": "3cea8da4ca45c151ea1baefdd8851757b70561b8"
     },
     {
       "path": "overrides/config/jei/blacklist.json",
@@ -798,7 +858,7 @@
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-mod-sort-order.ini",
-      "sha1": "a7615c02cae27e4811c28ce086645eab0fad755e"
+      "sha1": "0d6c79226d6444552b536365ae0ec239e008af82"
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-type-sort-order.ini",
@@ -830,7 +890,7 @@
     },
     {
       "path": "overrides/config/jei/world/local/idk/lookupHistory.json",
-      "sha1": "68b6d7e63268cbc85c74d00f9d382c936bcc4f2c"
+      "sha1": "f74a0736286477ede8fb38d7bb396183a6f848f8"
     },
     {
       "path": "overrides/config/jei/world/local/testery/lookupHistory.json",
@@ -838,7 +898,7 @@
     },
     {
       "path": "overrides/config/kubejsstudio.json",
-      "sha1": "13ae4d8ee6b8f3644b46930db7d45d95ed515511"
+      "sha1": "16d20606b66457070a993e0b63f9dccde29f3b3d"
     },
     {
       "path": "overrides/config/kubejsstudio/pending.json",
@@ -979,6 +1039,22 @@
     {
       "path": "overrides/config/productivemetalworks-common.toml",
       "sha1": "8792e38687718a84c3ea6808c45f68147a48e669"
+    },
+    {
+      "path": "overrides/config/reliable_recipes.json",
+      "sha1": "e5aac16ed27fb9595de76cdd20e25a9e223152b2"
+    },
+    {
+      "path": "overrides/config/reliable_recipes/recipe_example.json.disabled",
+      "sha1": "d82ebcadb5085e4d1f8da80b811d21b3b6ce1d9c"
+    },
+    {
+      "path": "overrides/config/reliable_remover.json",
+      "sha1": "89178df4f58ef3f4f8dbd8a5510535de188fe82e"
+    },
+    {
+      "path": "overrides/config/reliable_remover/removal_example.json.disabled",
+      "sha1": "c24a0c8204ebf3f29a475b8157416b0fb233f1ba"
     },
     {
       "path": "overrides/config/resourceful-config-web.json",
@@ -1630,7 +1706,7 @@
     },
     {
       "path": "overrides/config/worldedit/worldedit.properties",
-      "sha1": "490632dee5b29b516d6825d9d5ce79e2227e54be"
+      "sha1": "53edeed68b6986fe711476a93e0129f8f0b54a05"
     },
     {
       "path": "overrides/config/xaero/lib/client.cfg",
@@ -1705,6 +1781,42 @@
       "sha1": "a3c4a4317e4e7c682d2eff72d0527ee1822167a0"
     },
     {
+      "path": "overrides/emberstextapi/sdf-cache/55939a5664e06807_5b529844.msdfcache",
+      "sha1": "44c02dcfa19d52a95d2dca0db0daf1468ffa12ac"
+    },
+    {
+      "path": "overrides/emberstextapi/sdf-cache/5895ef04d0d56c60_39572d97.msdfcache",
+      "sha1": "134be52b467633f51c783b7aa262988e72f7ada6"
+    },
+    {
+      "path": "overrides/emberstextapi/sdf-cache/58a6303eeb45503f_9c58a9f4.msdfcache",
+      "sha1": "7dcb2907517f41e4cf12d4606802131c71c62f85"
+    },
+    {
+      "path": "overrides/emberstextapi/sdf-cache/6c9383b1471936ee_8a9361d2.msdfcache",
+      "sha1": "b90950687544361fe83fbe1ee3d4818e77086439"
+    },
+    {
+      "path": "overrides/emberstextapi/sdf-cache/af0031129f27dc75_dd302fda.msdfcache",
+      "sha1": "a595aad1c9afc9395368a12b003c1124398dd4ae"
+    },
+    {
+      "path": "overrides/emberstextapi/sdf-cache/b127a6121209353b_fd3c0b1c.msdfcache",
+      "sha1": "a6664c95a2e57a200c86af5b6a15168c38a22573"
+    },
+    {
+      "path": "overrides/emberstextapi/sdf-cache/bcb81f376f1c3892_358f3498.msdfcache",
+      "sha1": "04a969a41cb49d9dceb039c65c81a6cdaef5cff5"
+    },
+    {
+      "path": "overrides/emberstextapi/sdf-cache/c23ec565db45c55_4ab25f76.msdfcache",
+      "sha1": "70efc1639f6b12805d777dbc6f8c628ccc2e329f"
+    },
+    {
+      "path": "overrides/emberstextapi/sdf-cache/f675f9aaa02f9af3_b2c55f4c.msdfcache",
+      "sha1": "696f7c4a46713c733dbdfd20e81f0231bdae623b"
+    },
+    {
       "path": "overrides/icon.png",
       "sha1": "1103c28228bba008f05431cb0dfdbfb9082e100c"
     },
@@ -1730,11 +1842,11 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/kubejsstudio.js",
-      "sha1": "0b244549d3e73ac2bcef0f103be4641fad7780cc"
+      "sha1": "b7fd780631d2574f802ce889dfaae21c1849e852"
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/recipes.js",
-      "sha1": "c3eb443f11187f92339a9d847e2c2458d7b5f88e"
+      "sha1": "590ad48b866bdb6c074494164505d7b77dca2bf6"
     },
     {
       "path": "overrides/kubejs/server_scripts/main.js",
@@ -1746,7 +1858,7 @@
     },
     {
       "path": "overrides/kubejsstudio/intel.json",
-      "sha1": "8bfb2f5f45ba715379df3d644bce93efe037177d"
+      "sha1": "fb33ff5343b98a174e170d5a4c2d48277d2a90a0"
     },
     {
       "path": "overrides/options.txt",

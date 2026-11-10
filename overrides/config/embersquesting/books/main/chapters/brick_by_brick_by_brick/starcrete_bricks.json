@@ -1,0 +1,23 @@
+{
+  "title": "Starcrete Bricks",
+  "description": [
+    "By mixing together the starch from potatoes with water and sand and letting it set, you can make a primitive brick about as strong as concrete or stone! "
+  ],
+  "x": 2,
+  "y": 1,
+  "deps": {
+    "all": [
+      "brick_by_brick_by_brick/welcome_to_the_wild_red_yonder"
+    ]
+  },
+  "aliases": [
+    "brick_by_brick_by_brick/quest"
+  ],
+  "tasks": [
+    {
+      "item": "minecraft:nether_brick",
+      "type": "item"
+    }
+  ],
+  "size": 1.27
+}

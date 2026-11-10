@@ -1,6 +1,6 @@
 # colonize mars
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 77 mods (14 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 82 mods (16 dependencies)
 
 ## Contents
 
@@ -17,6 +17,8 @@
 - [Common Storage Lib](https://modrinth.com/project/common-storage-lib) `0.0.10`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Cooking for Blockheads](https://modrinth.com/project/cooking-for-blockheads) `21.1.24+neoforge-1.21.1`
+- [Corpse](https://modrinth.com/project/corpse) `neoforge-1.21.1-1.1.22`
+- [Corpse x Curios API Compat](https://modrinth.com/project/corpse-x-curios-api-compat) `3.1.3`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create: Solarpunk](https://modrinth.com/project/create-solar-punk) `2.0.0-1.21.1`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
@@ -26,7 +28,9 @@
 - [Ecliptic Seasons](https://modrinth.com/project/ecliptic-seasons) `0.15.0-rc-3`
 - [Ember's Questing](https://www.curseforge.com/projects/1752806) `Ember's Questing 1.6.0 (NeoForge 1.21.1)`
 - [Embers Re-Ignited](https://modrinth.com/project/embers-re-ignited) `1.21.1-1.5.9`
+- [Embers Text API](https://modrinth.com/project/embers-text-api) `3.0.4+neoforge-1.21.1`
 - [Engineer's Decor: Community NeoForge Port](https://www.curseforge.com/projects/1656377) `Engineer's Decor NeoForge 1.4.0-beta.2+mc1.21.1`
+- [Engineers Delight](https://www.curseforge.com/projects/861437) `engineers_delight-neoforge-1.21.1-2.0.1.jar`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
 - [Excessive Utilities](https://modrinth.com/project/excessive-utilities) `1.11.0-build.69`
 - [Extra Delight](https://www.curseforge.com/projects/842106) `extradelight-2.6.6.jar`
@@ -68,6 +72,7 @@
 - [ProbeJS](https://modrinth.com/project/probejs) `8.0.3`
 - [Productive Metalworks](https://www.curseforge.com/projects/1184570) `productivemetalworks-1.21.1-1.15.1.jar`
 - [Recipe Integration](https://modrinth.com/project/recipe-integration) `0.4.0`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.4+1.21.1-neoforge`
 - [Resourceful Config](https://modrinth.com/project/resourceful-config) `3.0.11`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`

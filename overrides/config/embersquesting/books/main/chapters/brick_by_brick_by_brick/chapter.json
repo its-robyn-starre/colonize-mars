@@ -1,4 +1,6 @@
 {
   "title": "Brick by Brick by Brick",
-  "icon": "clayworks:chiseled_bricks"
+  "icon": "immersiveengineering:textures/block/stone_decoration/clinker_brick/clinker_brick1.png",
+  "story": false,
+  "style": "default"
 }

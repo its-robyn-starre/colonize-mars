@@ -1,0 +1,23 @@
+{
+  "title": "Furnace",
+  "description": [
+    "Nothing burns on Mars, so you'll have to get creative with how you heat things up..."
+  ],
+  "x": 3,
+  "y": -1,
+  "deps": {
+    "all": [
+      "brick_by_brick_by_brick/starcrete_bricks",
+      "brick_by_brick_by_brick/quest_3"
+    ]
+  },
+  "aliases": [
+    "brick_by_brick_by_brick/quest_5"
+  ],
+  "tasks": [
+    {
+      "item": "excessive_utilities:furnace",
+      "type": "item"
+    }
+  ]
+}

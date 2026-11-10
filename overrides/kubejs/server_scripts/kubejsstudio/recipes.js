@@ -6,8 +6,10 @@ ServerEvents.generateData('after_mods', event => {
     event.json('forestry:recipe/clockwork_engine', {"type":"minecraft:crafting_shaped","category":"misc","pattern":[" # ","ABA","CBC"],"key":{"#":{"tag":"c:glass_blocks"},"A":{"item":"immersiveengineering:wirecoil_copper"},"B":{"item":"forestry:iron_gear"},"C":{"item":"minecraft:nether_bricks"}},"result":{"id":"forestry:clockwork_engine","count":1}})
     event.json('excessive_utilities:recipe/furnace', {"type":"minecraft:crafting_shaped","category":"misc","pattern":["###","#A#","###"],"key":{"#":{"tag":"c:bricks"},"A":{"item":"immersiveengineering:basic_engineering"}},"result":{"id":"excessive_utilities:furnace","count":1}})
     event.json('kubejsstudio:recipe/seared_bricks', {"type":"minecraft:smelting","ingredient":{"item":"minecraft:nether_brick"},"result":{"id":"tinker_foundry:seared_brick"},"experience":0.1,"cookingtime":200})
+    event.json('embers:recipe/caminite_blend', {"type":"minecraft:crafting_shapeless","category":"misc","ingredients":[{"item":"extradelight:salt"},{"item":"minecraft:bone_meal"},{"item":"minecraft:water_bucket"},{"item":"ad_astra:mars_sand"}],"result":{"id":"embers:caminite_blend","count":8}})
 })
 ServerEvents.recipes(event => {
     event.shapeless(Item.of('minecraft:nether_brick', 8), ['ad_astra:mars_sand', 'minecraft:potato', 'minecraft:water_bucket']).id('kubejsstudio:starcrete_bricks')
     event.remove({ id: 'clayworks:nether_brick_from_baking' })
+    event.remove({ id: 'kubejsstudio:ice_smeltery' })
 })

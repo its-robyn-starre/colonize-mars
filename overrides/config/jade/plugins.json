@@ -1,12 +1,4 @@
 {
-  "eclipticseasons": {
-    "greenhouse_core": true,
-    "animal": true,
-    "cauldron": true,
-    "crop": true,
-    "snowy_status": true,
-    "crop.shift_hint": true
-  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
@@ -60,9 +52,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "hammerlib": {
-    "root": true
-  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -70,17 +59,8 @@
     "entity": true,
     "entity_variant": true
   },
-  "embersquesting": {
-    "quest_block": true
-  },
   "immersiveengineering": {
     "multiblock_icon": true
-  },
-  "supplementaries": {
-    "hat_stand": true
-  },
-  "productivemetalworks": {
-    "casting": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -96,6 +76,32 @@
   "embers": {
     "machine_details": true
   },
+  "balm": {
+    "jade": true
+  },
+  "eclipticseasons": {
+    "greenhouse_core": true,
+    "animal": true,
+    "cauldron": true,
+    "crop": true,
+    "snowy_status": true,
+    "crop.shift_hint": true
+  },
+  "hammerlib": {
+    "root": true
+  },
+  "embersquesting": {
+    "quest_block": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "productivemetalworks": {
+    "casting": true
+  },
+  "corpse": {
+    "corpse": true
+  },
   "cookingforblockheads": {
     "fridge": true,
     "oven": true,
@@ -103,8 +109,5 @@
     "preservation_chamber": true,
     "milk_jar": true,
     "toaster": true
-  },
-  "balm": {
-    "jade": true
   }
 }

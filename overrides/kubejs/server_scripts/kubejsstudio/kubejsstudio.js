@@ -23,3 +23,16 @@ ServerEvents.generateData('after_mods', event => {
       }
     )
 })
+// kubejsstudio custom: kubejsstudio:ice_smeltery
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/ice_smeltery',
+      {
+        "type": "tinker_foundry:melting",
+        "ingredient": {"item":"forestry:ice_shard"},
+        "result": {"id":"forestry:crushed_ice","amount":250},
+        "temperature": 450,
+        "time": 24
+      }
+    )
+})

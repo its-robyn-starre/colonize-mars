@@ -17,7 +17,7 @@
   "filesExplorerW": 220,
   "filesConsoleH": 120,
   "recipesBrowserW": 127,
-  "previewH": 150,
+  "previewH": 191,
   "sideListW": 200,
   "pendingHeight": 60,
   "pickerW": 0,
@@ -45,8 +45,8 @@
   "pinnedFiles": [],
   "pinnedFolders": [],
   "favorites": [],
-  "recipesSelected": "clayworks:nether_brick_from_baking",
-  "recipesSearch": "clayworks:nether_brick_from_baking",
+  "recipesSelected": "embers:caminite_blend",
+  "recipesSearch": "embers:caminite_blend",
   "tagsRegistry": "item",
   "tagsSelected": "",
   "tagsSearch": "",
@@ -59,6 +59,10 @@
   "createSearch": "",
   "filesOpen": [],
   "recentPicks": [
+    "item ad_astra:mars_sand",
+    "item minecraft:water_bucket",
+    "item minecraft:bone_meal",
+    "item extradelight:salt",
     "item tinker_foundry:seared_brick",
     "item minecraft:nether_brick",
     "item immersiveengineering:basic_engineering",
@@ -66,11 +70,7 @@
     "item #c:glass_blocks",
     "item minecraft:nether_bricks",
     "item immersiveengineering:wirecoil_copper",
-    "item #c:plates/steel",
-    "item minecraft:iron_nugget",
-    "item immersiveengineering:plate_steel",
-    "item create:transmitter",
-    "item #minecraft:pickaxes"
+    "item #c:plates/steel"
   ],
   "filesActive": -1
 }

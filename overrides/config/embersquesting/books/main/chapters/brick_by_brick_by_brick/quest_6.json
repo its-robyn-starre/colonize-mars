@@ -1,5 +1,8 @@
 {
-  "title": "",
+  "title": "Melting",
+  "description": [
+    "Now you are able to get more metal per metal out of your ores, as well as shape them into various casts!"
+  ],
   "x": 3.5625,
   "y": -2.375,
   "deps": {
@@ -10,7 +13,11 @@
   },
   "tasks": [
     {
-      "item": "tinker_foundry:seared_brick",
+      "item": "tinker_foundry:seared_melter",
+      "type": "item"
+    },
+    {
+      "item": "tinker_foundry:seared_fuel_tank",
       "type": "item"
     }
   ],

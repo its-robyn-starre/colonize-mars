@@ -1,0 +1,22 @@
+{
+  "name": "Engineers Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "861437",
+      "slug": "engineers-delight",
+      "versionId": "8541209",
+      "versionNumber": "engineers_delight-neoforge-1.21.1-2.0.1.jar",
+      "filename": "engineers_delight-neoforge-1.21.1-2.0.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8541/209/engineers_delight-neoforge-1.21.1-2.0.1.jar",
+      "sha1": "90e310711f89926990e18782997e58087b814e39",
+      "fileSize": 175729
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

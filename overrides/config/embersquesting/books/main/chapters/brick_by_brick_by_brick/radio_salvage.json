@@ -1,5 +1,8 @@
 {
   "title": "",
+  "description": [
+    "You can salvage some mechanical components and scrap metal from the old radio we have lying around!"
+  ],
   "x": 4,
   "y": 1,
   "deps": {
@@ -7,6 +10,9 @@
       "brick_by_brick_by_brick/welcome_to_the_wild_red_yonder"
     ]
   },
+  "aliases": [
+    "brick_by_brick_by_brick/quest_2"
+  ],
   "tasks": [
     {
       "item": "ad_astra:radio",

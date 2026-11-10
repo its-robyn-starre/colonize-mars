@@ -1,0 +1,16 @@
+{
+  "title": "",
+  "x": 2,
+  "y": -3,
+  "deps": {
+    "all": [
+      "brick_by_brick_by_brick/quest_6"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "extradelight:evaporator",
+      "type": "item"
+    }
+  ]
+}

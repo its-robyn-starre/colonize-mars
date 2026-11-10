@@ -1,0 +1,24 @@
+{
+  "title": "Better Bricks",
+  "description": [
+    "You thought those bricks from before were good? You haven't seen anything yet!"
+  ],
+  "x": 3,
+  "y": -5,
+  "deps": {
+    "all": [
+      "brick_by_brick_by_brick/quest_7"
+    ]
+  },
+  "aliases": [
+    "brick_by_brick_by_brick/quest_8"
+  ],
+  "tasks": [
+    {
+      "item": "embers:caminite_brick",
+      "type": "item"
+    }
+  ],
+  "shape": "diamond",
+  "size": 1.76
+}

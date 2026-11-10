@@ -18,6 +18,9 @@
     }
   },
   "dependents": [],
+  "optionalDependents": [
+    "WrpuIfhw"
+  ],
   "clientSide": "optional",
   "serverSide": "optional"
 }
