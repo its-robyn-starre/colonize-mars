@@ -6,8 +6,8 @@
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
     "energy_storage.style": "PROGRESS_BAR",
-    "item_storage.normal_amount": 9,
     "item_storage": true,
+    "item_storage.normal_amount": 9,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -87,17 +87,47 @@
     "snowy_status": true,
     "crop.shift_hint": true
   },
+  "botania": {
+    "alfheim_portal": true,
+    "mana_storage": true,
+    "mana_spreader": true,
+    "show_numbers": true,
+    "compact_numbers": false,
+    "progress_bar_color": "#2ECC71",
+    "terra_plate": true,
+    "mana_pool": true,
+    "petal_apothecary": true,
+    "enabled": true,
+    "mana_enchanter": true,
+    "mana_spark": true,
+    "generating_flower": true,
+    "native_colors": false,
+    "brewery": true,
+    "show_binding": true,
+    "runic_altar": true,
+    "mana_pool.recipe": true,
+    "generating_flower.timers": true,
+    "functional_flower": true,
+    "mana_bar_color": "#0095FF"
+  },
+  "silentgear_jade_tiers": {
+    "required_tier": true
+  },
   "hammerlib": {
     "root": true
+  },
+  "hephaestus": {
+    "melter_progress": true,
+    "smeltery_progress": true
   },
   "embersquesting": {
     "quest_block": true
   },
-  "supplementaries": {
-    "hat_stand": true
-  },
   "productivemetalworks": {
     "casting": true
+  },
+  "supplementaries": {
+    "hat_stand": true
   },
   "corpse": {
     "corpse": true

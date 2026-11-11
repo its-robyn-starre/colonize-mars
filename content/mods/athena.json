@@ -1,0 +1,24 @@
+{
+  "name": "Athena",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "841890",
+      "slug": "athena",
+      "versionId": "8061947",
+      "versionNumber": "[NeoForge] Athena 4.0.6",
+      "filename": "athena-neoforge-1.21.1-4.0.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8061/947/athena-neoforge-1.21.1-4.0.6.jar",
+      "sha1": "4bcbdf388bd5e387beca7c627224aac33584b55b",
+      "fileSize": 99944
+    }
+  },
+  "dependents": [
+    "1542467"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

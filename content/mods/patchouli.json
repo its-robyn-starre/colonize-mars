@@ -18,7 +18,8 @@
     }
   },
   "dependents": [
-    "1056828"
+    "1056828",
+    "1725641"
   ],
   "clientSide": "required",
   "serverSide": "required"

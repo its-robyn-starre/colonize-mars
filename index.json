@@ -9,6 +9,14 @@
       "sha1": "6ff9d1a4a97a073973adfef61d504d73d5952cd4"
     },
     {
+      "path": "content/mods/advanced-core-info.json",
+      "sha1": "c9eeb578e573958d0b8efe05895692ae95fc99eb"
+    },
+    {
+      "path": "content/mods/advanced-loot-info.json",
+      "sha1": "53bf9780745c5bc2ab2252addea01ec66eb4a38e"
+    },
+    {
       "path": "content/mods/akashic-tome.json",
       "sha1": "6e7bc3d2c70fd1be6ca75466088f8c87b5c2ee14"
     },
@@ -23,6 +31,10 @@
     {
       "path": "content/mods/architectury-api.json",
       "sha1": "0d3d5a63d1606073b3962a07734d80fdf072343f"
+    },
+    {
+      "path": "content/mods/athena.json",
+      "sha1": "bc220fcc0abd2e5ddb77e53e086a9ecd959ff4d3"
     },
     {
       "path": "content/mods/baguettelib.json",
@@ -43,6 +55,10 @@
     {
       "path": "content/mods/bookshelf-lib.json",
       "sha1": "81fa143b5b0b72d93a03e3741ffa7f53c92ea64c"
+    },
+    {
+      "path": "content/mods/botania-revived.json",
+      "sha1": "669e7be2e1a50f2bb74e3bacd3d831c987ad0307"
     },
     {
       "path": "content/mods/clayworks.json",
@@ -177,6 +193,10 @@
       "sha1": "8594be75ac8c0948761db3867ca275d173090fd8"
     },
     {
+      "path": "content/mods/hephaestus-forge.json",
+      "sha1": "193151a266800bbf0e82fa00fa5ae210aa52eca0"
+    },
+    {
       "path": "content/mods/immediatelyfast.json",
       "sha1": "75fd9033066564b102e8076c9b7b347c0d1ee7ad"
     },
@@ -202,7 +222,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "db7decb397581dbe8cb2ef18667653c5f1f590cf"
+      "sha1": "19557edc7877aba7a4b4c0f72c98ab01e14e74f5"
     },
     {
       "path": "content/mods/just-another-witchery-remake.json",
@@ -246,7 +266,7 @@
     },
     {
       "path": "content/mods/mezzconfig.json",
-      "sha1": "d2e688333d196659cb02fb996941660884120559"
+      "sha1": "4409b283bd8f1524792a0887e32bb7c4691ee4b1"
     },
     {
       "path": "content/mods/midnightlib.json",
@@ -298,7 +318,7 @@
     },
     {
       "path": "content/mods/patchouli.json",
-      "sha1": "0c29d47c10edcc09a0ecc1c98db5cb79fb5c80b1"
+      "sha1": "e01f4151865523344cfb27aaace17322a46131db"
     },
     {
       "path": "content/mods/ponder-kjs.json",
@@ -315,10 +335,6 @@
     {
       "path": "content/mods/probejs.json",
       "sha1": "affcb7fe41f9f3d6e92a6cf542768bf23130eee0"
-    },
-    {
-      "path": "content/mods/productive-metalworks.json",
-      "sha1": "1cd319a7616bee35f6981139d0b99c97c81f0989"
     },
     {
       "path": "content/mods/recipe-integration.json",
@@ -369,10 +385,6 @@
       "sha1": "d9ba63bba2f06f9bd6063d886a12c4a20e33e036"
     },
     {
-      "path": "content/mods/tinker-foundry.json",
-      "sha1": "f8043edb2870481fa11fdf0a00d28d2655246a01"
-    },
-    {
       "path": "content/mods/titanium.json",
       "sha1": "6b38305f9add8d77f6df98b7496a898bdcf4f1f7"
     },
@@ -417,6 +429,10 @@
       "sha1": "abd89f465dc2292568cb964a14ce3d51024c99c1"
     },
     {
+      "path": "overrides/config/ali/ali_common.json",
+      "sha1": "7d8e263938211dd3693eca4fa925125cb887aa76"
+    },
+    {
       "path": "overrides/config/almostunified/.gitignore",
       "sha1": "99dad30392ca0165e3c4dff349f24bf0cbd7e8af"
     },
@@ -449,6 +465,10 @@
       "sha1": "e3b64be4e4d635eaef5430a06d90a77600647477"
     },
     {
+      "path": "overrides/config/architects_palette-common.toml",
+      "sha1": "c8d6835135091d1d0c645319e36b2e2173e7a0a6"
+    },
+    {
       "path": "overrides/config/better-advanced-tooltips-client.toml",
       "sha1": "02b1eb43cb55013ca0316287eb7f2f88eaacf4fb"
     },
@@ -459,6 +479,14 @@
     {
       "path": "overrides/config/blueprint-common.toml",
       "sha1": "4732623baf36bcf3091f3fd2a75f6d989aaeda87"
+    },
+    {
+      "path": "overrides/config/botania-client.toml",
+      "sha1": "a8a520171b3fb6c42516412495110b467d7568b2"
+    },
+    {
+      "path": "overrides/config/botania-common.toml",
+      "sha1": "c8a9ced9df5cb5dd255d663f55c7369cdcee2df2"
     },
     {
       "path": "overrides/config/clayworks-common.toml",
@@ -526,7 +554,7 @@
     },
     {
       "path": "overrides/config/eclipticseasons-common.toml",
-      "sha1": "6433f829db52374f3493e2406e6893dc478545bc"
+      "sha1": "51f13802739c3f13d721e7ba9e4cccefc8ecb858"
     },
     {
       "path": "overrides/config/eclipticseasons-mixins.toml",
@@ -682,7 +710,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "52a7e72f38669a4d41b7943122743e68fd3f1a83"
+      "sha1": "bb50966150e40f01cc725fdd0c13a34308c74394"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -830,11 +858,11 @@
     },
     {
       "path": "overrides/config/jade/plugins.json",
-      "sha1": "4a5e6f70249618bdd62a9eee6dd1361fb83a7625"
+      "sha1": "a3bde5e3c8c036d23d7a8fc965b41fad38e3d2d6"
     },
     {
       "path": "overrides/config/jade/sort-order.json",
-      "sha1": "3cea8da4ca45c151ea1baefdd8851757b70561b8"
+      "sha1": "7223dd56c3058627dabba81053c5e42bd30b00b3"
     },
     {
       "path": "overrides/config/jei/blacklist.json",
@@ -858,7 +886,7 @@
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-mod-sort-order.ini",
-      "sha1": "0d6c79226d6444552b536365ae0ec239e008af82"
+      "sha1": "7ea60354d7ad26d3d2726df95305bebf1af230e1"
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-type-sort-order.ini",
@@ -870,7 +898,7 @@
     },
     {
       "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
-      "sha1": "58caf5a048bbcbbddec07b97ceb68f95e3017fb1"
+      "sha1": "1453a9c255101aeebb23c53f5e1b8dfc1e0c0114"
     },
     {
       "path": "overrides/config/jei/server/world/default/jei-server.ini",
@@ -890,7 +918,7 @@
     },
     {
       "path": "overrides/config/jei/world/local/idk/lookupHistory.json",
-      "sha1": "f74a0736286477ede8fb38d7bb396183a6f848f8"
+      "sha1": "762f704d58b7ab71b1993e41d57ae67f53cbdda4"
     },
     {
       "path": "overrides/config/jei/world/local/testery/lookupHistory.json",
@@ -1059,6 +1087,22 @@
     {
       "path": "overrides/config/resourceful-config-web.json",
       "sha1": "edde73498fff40a010a9467d7d42e2f39c600a41"
+    },
+    {
+      "path": "overrides/config/silentgear-client.toml",
+      "sha1": "2413f8fda8cff4ba770462e1c28e3b99b158a089"
+    },
+    {
+      "path": "overrides/config/silentgear-common.toml",
+      "sha1": "6aad0bcdeec443ebcfa5319a55466a194c30d6c2"
+    },
+    {
+      "path": "overrides/config/silentgear_jade_tiers-common.toml",
+      "sha1": "6df2586d30f289fc963d6ad682af66175579b7f9"
+    },
+    {
+      "path": "overrides/config/silentgearjei-client.toml",
+      "sha1": "0f6b9766b73bb0e9c6a733bbdaa68e9ffd1858f8"
     },
     {
       "path": "overrides/config/simplegreenhouses-server.toml",
@@ -1706,7 +1750,7 @@
     },
     {
       "path": "overrides/config/worldedit/worldedit.properties",
-      "sha1": "53edeed68b6986fe711476a93e0129f8f0b54a05"
+      "sha1": "931f15775f348d7cdd6377af71ab990a0de3759c"
     },
     {
       "path": "overrides/config/xaero/lib/client.cfg",
@@ -1862,11 +1906,11 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "c387f54495b86d3c402c2772300a7e48b7dcbbec"
+      "sha1": "06c751d9bc9190b09cbdae5d4a83b6a3cbce7a33"
     },
     {
       "path": "overrides/patchouli_data.json",
-      "sha1": "9b283c9c7c600778a1cecd2900d2647e4757135f"
+      "sha1": "472f6c8903257930a65889b2b89e1e3606b08e5f"
     },
     {
       "path": "overrides/resourcepacks/Desertification - No Sand Rotation.zip",

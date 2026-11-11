@@ -1,0 +1,25 @@
+{
+  "name": "Advanced Core Info (ACI)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BaR4ijFC",
+      "slug": "advanced-core-info",
+      "versionId": "xaWwatoU",
+      "versionNumber": "1.21.1-1.5.0",
+      "filename": "AdvancedCoreInfo-neoforge-1.21.1-1.5.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BaR4ijFC/versions/xaWwatoU/AdvancedCoreInfo-neoforge-1.21.1-1.5.0.jar",
+      "sha1": "81974fbd6bb03193be8310b31b6879d0fe4169e4",
+      "sha512": "cbf59540e3317b424cadf96497091a8c69c799ff6727e3c67719e46156bf5f5e4d4253670e5035c8b40b259cf6d05c0413279b859c0ad933448f7d8b36ade4fe",
+      "fileSize": 270853
+    }
+  },
+  "dependents": [
+    "PEPVViac"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

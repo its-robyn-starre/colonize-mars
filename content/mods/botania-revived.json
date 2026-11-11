@@ -1,0 +1,22 @@
+{
+  "name": "Botania Revived",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1725641",
+      "slug": "botania-revived",
+      "versionId": "9545418",
+      "versionNumber": "BotaniaRevived-1.21.1-2.0.1-NeoForge",
+      "filename": "Botania-Revived-1.21.1-2.0.1-NeoForge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9545/418/Botania-Revived-1.21.1-2.0.1-NeoForge.jar",
+      "sha1": "efe93bbf6587d50e30924b0e9facb9a6af3ef78f",
+      "fileSize": 15018590
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

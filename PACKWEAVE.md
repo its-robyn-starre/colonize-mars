@@ -1,16 +1,19 @@
 # colonize mars
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 82 mods (16 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 84 mods (17 dependencies)
 
 ## Contents
 
 - [Aaron](https://modrinth.com/project/aaron) `1.22.0-build.44`
 - [Ad Astra](https://modrinth.com/project/ad-astra) `1.16.26`
+- [Advanced Core Info (ACI)](https://modrinth.com/project/advanced-core-info) `1.21.1-1.5.0`
+- [Advanced Loot Info (ALI)](https://modrinth.com/project/advanced-loot-info) `1.21.1-2.5.0`
 - [Akashic Tome](https://modrinth.com/project/akashic-tome) `1.21.1-1.8-30`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
 - [AU: Immersive Engineering](https://modrinth.com/project/almost-unified-ie) `1.21.1-1.0.1+neoforge`
 - [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
+- [Botania Revived](https://www.curseforge.com/projects/1725641) `BotaniaRevived-1.21.1-2.0.1-NeoForge`
 - [Clayworks](https://modrinth.com/project/clayworks) `4.0.3`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
@@ -42,6 +45,7 @@
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
 - [GuideME](https://modrinth.com/project/guideme) `21.1.22`
 - [HammerLib](https://modrinth.com/project/hammer-lib) `21.0.17`
+- [Hephaestus Forge](https://www.curseforge.com/projects/1542467) `hephaestus-neoforge-1.21.1-1.0.20`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
 - [Immersive Engineering](https://modrinth.com/project/immersiveengineering) `12.4.2-194`
 - [Immersive Petroleum](https://modrinth.com/project/immersivepetroleum) `4.5.0-39`
@@ -49,14 +53,14 @@
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [Just Another Witchery Remake](https://modrinth.com/project/just-another-witchery-remake) `0.5.38`
 - [Just Enough Immersive Multiblocks](https://modrinth.com/project/jei-multiblocks) `1.21.1-1.0.6`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.468`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.64.0.455`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
 - [KubeJS Studio](https://www.curseforge.com/projects/1597398) `KubeJS Studio 1.3.0 (NeoForge 1.21.1)`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [LegendRelicLib](https://www.curseforge.com/projects/1307366) `legendreliclib-1.21.1-1.4.8.jar`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Little Geode](https://modrinth.com/project/little-geode) `1.6.2`
-- [MezzConfig](https://modrinth.com/project/mezzconfig) `0.6.10`
+- [MezzConfig](https://modrinth.com/project/mezzconfig) `0.7.1`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - [Modpack Assistant](https://www.curseforge.com/projects/1679492) `[1.21.1] Modpack Assistant 1.0.8`
 - [ModPack-Tools](https://modrinth.com/project/modpack-tools) `1.0.0`
@@ -70,7 +74,6 @@
 - [Ponder for KubeJS](https://modrinth.com/project/ponder-kjs) `1.21.1-2.4.0+neoforge`
 - [Potentials](https://modrinth.com/project/potentials) `0.7.1`
 - [ProbeJS](https://modrinth.com/project/probejs) `8.0.3`
-- [Productive Metalworks](https://www.curseforge.com/projects/1184570) `productivemetalworks-1.21.1-1.15.1.jar`
 - [Recipe Integration](https://modrinth.com/project/recipe-integration) `0.4.0`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.4+1.21.1-neoforge`
 - [Resourceful Config](https://modrinth.com/project/resourceful-config) `3.0.11`
@@ -80,7 +83,6 @@
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Spice of Life: Valheim Reforged](https://modrinth.com/project/spice-of-life-valheim-reforged) `1.1.7`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.2`
-- [TIC Foundry](https://www.curseforge.com/projects/1704414) `1.21.1-neoforge-Tinker-Foundry-2.2-fix`
 - [Titanium](https://modrinth.com/project/titanium) `1.21-4.0.43`
 - [WeatherForecast](https://modrinth.com/project/weatherforecast) `1.3.0`
 - [WorldEdit](https://modrinth.com/project/worldedit) `7.3.8`
