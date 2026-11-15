@@ -17,7 +17,7 @@
   "filesExplorerW": 220,
   "filesConsoleH": 120,
   "recipesBrowserW": 127,
-  "previewH": 191,
+  "previewH": 188,
   "sideListW": 200,
   "pendingHeight": 60,
   "pickerW": 0,
@@ -45,8 +45,8 @@
   "pinnedFiles": [],
   "pinnedFolders": [],
   "favorites": [],
-  "recipesSelected": "embers:caminite_blend",
-  "recipesSearch": "embers:caminite_blend",
+  "recipesSelected": "modernfoundry:smeltery/red_sand_cast",
+  "recipesSearch": "modernfoundry:smeltery/red_sand_cast",
   "tagsRegistry": "item",
   "tagsSelected": "",
   "tagsSearch": "",
@@ -60,6 +60,8 @@
   "filesOpen": [],
   "recentPicks": [
     "item ad_astra:mars_sand",
+    "item modernfoundry:seared_brick",
+    "item hephaestus:forge_brick",
     "item minecraft:water_bucket",
     "item minecraft:bone_meal",
     "item extradelight:salt",
@@ -68,9 +70,7 @@
     "item immersiveengineering:basic_engineering",
     "item forestry:iron_gear",
     "item #c:glass_blocks",
-    "item minecraft:nether_bricks",
-    "item immersiveengineering:wirecoil_copper",
-    "item #c:plates/steel"
+    "item minecraft:nether_bricks"
   ],
   "filesActive": -1
 }

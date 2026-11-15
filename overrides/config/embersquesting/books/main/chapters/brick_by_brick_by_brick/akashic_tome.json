@@ -4,8 +4,8 @@
     "This pack contains many guidebooks for all the various mods. Here's a convenient book to keep them all in!"
   ],
   "icon": "akashictome:tome",
-  "x": 3,
-  "y": 4.3125,
+  "x": 4,
+  "y": 5,
   "deps": {
     "all": [
       "brick_by_brick_by_brick/welcome_to_the_wild_red_yonder"

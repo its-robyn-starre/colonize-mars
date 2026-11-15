@@ -1,0 +1,23 @@
+{
+  "name": "ResourceIgnorer",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "b0Lf4zp0",
+      "slug": "resourceignorer",
+      "versionId": "sy2ao2Dm",
+      "versionNumber": "1.0.0",
+      "filename": "resourceignorer-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/b0Lf4zp0/versions/sy2ao2Dm/resourceignorer-1.0.0.jar",
+      "sha1": "9cec6fccaaef0287daf4399fe1a61e45c3db2a03",
+      "sha512": "16a18836516dafcd077ba19835a80ba8f4a5d33a9ad30cd37aa242df43159a711a272f55331aa06c7d0b4e340020fbe33643f4b88aa66f0d7c9d9e1b34352458",
+      "fileSize": 181843
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

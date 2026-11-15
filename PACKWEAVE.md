@@ -1,6 +1,6 @@
 # colonize mars
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 84 mods (17 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 90 mods (18 dependencies), 1 resource pack
 
 ## Contents
 
@@ -14,6 +14,8 @@
 - [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Botania Revived](https://www.curseforge.com/projects/1725641) `BotaniaRevived-1.21.1-2.0.1-NeoForge`
+- [Brass Age](https://modrinth.com/project/brass-age) `1.0`
+- [Brewin' And Chewin'](https://modrinth.com/project/brewin-and-chewin) `4.5.0+1.21.1-neoforge`
 - [Clayworks](https://modrinth.com/project/clayworks) `4.0.3`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
@@ -37,15 +39,17 @@
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
 - [Excessive Utilities](https://modrinth.com/project/excessive-utilities) `1.11.0-build.69`
 - [Extra Delight](https://www.curseforge.com/projects/842106) `extradelight-2.6.6.jar`
+- [FancyMenu](https://modrinth.com/project/fancymenu) `3.10.0-1.21.1-neoforge`
 - [Farmer's Delight](https://www.curseforge.com/projects/398521) `Farmer's Delight 1.3.4 - 1.21.1`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
+- [Finite Water](https://modrinth.com/project/toffelsfinitewater) `1.21.1`
 - [Forestry: CE](https://www.curseforge.com/projects/1056828) `Forestry: CE 1.21.1-3.0.0-alpha9`
 - [Forestry: CE - Farms](https://www.curseforge.com/projects/1658912) `Forestry: CE - Farms 3.0.0-alpha9`
 - [Forestry: CE - Mail](https://www.curseforge.com/projects/1657614) `Forestry: CE - Mail 3.0.0-alpha9`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
 - [GuideME](https://modrinth.com/project/guideme) `21.1.22`
 - [HammerLib](https://modrinth.com/project/hammer-lib) `21.0.17`
-- [Hephaestus Forge](https://www.curseforge.com/projects/1542467) `hephaestus-neoforge-1.21.1-1.0.20`
+- [Hilt](https://modrinth.com/project/hilt) `1.13`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
 - [Immersive Engineering](https://modrinth.com/project/immersiveengineering) `12.4.2-194`
 - [Immersive Petroleum](https://modrinth.com/project/immersivepetroleum) `4.5.0-39`
@@ -60,7 +64,9 @@
 - [LegendRelicLib](https://www.curseforge.com/projects/1307366) `legendreliclib-1.21.1-1.4.8.jar`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Little Geode](https://modrinth.com/project/little-geode) `1.6.2`
+- [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
 - [MezzConfig](https://modrinth.com/project/mezzconfig) `0.7.1`
+- [Modern Foundry](https://modrinth.com/project/modern-foundry) `1.21.1-4.1.6-NeoForge`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - [Modpack Assistant](https://www.curseforge.com/projects/1679492) `[1.21.1] Modpack Assistant 1.0.8`
 - [ModPack-Tools](https://modrinth.com/project/modpack-tools) `1.0.0`
@@ -78,6 +84,7 @@
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.4+1.21.1-neoforge`
 - [Resourceful Config](https://modrinth.com/project/resourceful-config) `3.0.11`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
+- [ResourceIgnorer](https://modrinth.com/project/resourceignorer) `1.0.0`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
 - [Simple Greenhouses](https://modrinth.com/project/simple-greenhouses) `2.0.0`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`

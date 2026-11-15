@@ -12,7 +12,19 @@
         "forestry:beekeeping/bees_mundane",
         "forestry:core/gears",
         "forestry:core/machines/moistener",
-        "forestry:core/engines/clockwork_engine"
+        "forestry:core/engines/clockwork_engine",
+        "forestry:core/engines/biogas_engine"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:misc/cacophonium",
+        "botania:botania_extras/iridescent_sapling",
+        "botania:tools/overgrowth_seed",
+        "botania:baubles/tiny_planet",
+        "botania:tools/world_seed"
       ],
       "bookmarks": [],
       "completedManualQuests": []

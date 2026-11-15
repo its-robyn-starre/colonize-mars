@@ -1,0 +1,23 @@
+{
+  "name": "Brass Age",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "sxcNUtSO",
+      "slug": "brass-age",
+      "versionId": "LtZWv9W6",
+      "versionNumber": "1.0",
+      "filename": "brass age for 1.20~1.21.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/sxcNUtSO/versions/LtZWv9W6/brass%20age%20for%201.20~1.21.zip",
+      "sha1": "bc1d50d13dc40797b2d0b0f631996bd47ba36c3c",
+      "sha512": "dc6f58a369bb95df9e489e5e79bf7600c36f0e8f19aa9b36cd79651bec572dac6a9cb2711db7bb9e6eb1cfa4b91f06c069d777b177b5130609575247337911be",
+      "fileSize": 195209
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

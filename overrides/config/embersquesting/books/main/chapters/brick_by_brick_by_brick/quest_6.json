@@ -8,16 +8,28 @@
   "deps": {
     "all": [
       "brick_by_brick_by_brick/quest_4",
-      "brick_by_brick_by_brick/quest_5"
+      "brick_by_brick_by_brick/furnace"
     ]
   },
   "tasks": [
     {
-      "item": "tinker_foundry:seared_melter",
+      "item": "modernfoundry:seared_melter",
       "type": "item"
     },
     {
-      "item": "tinker_foundry:seared_fuel_tank",
+      "item": "modernfoundry:seared_fuel_tank",
+      "type": "item"
+    },
+    {
+      "item": "modernfoundry:seared_faucet",
+      "type": "item"
+    },
+    {
+      "item": "modernfoundry:seared_basin",
+      "type": "item"
+    },
+    {
+      "item": "modernfoundry:seared_table",
       "type": "item"
     }
   ],

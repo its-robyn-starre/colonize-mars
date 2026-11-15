@@ -4,10 +4,11 @@
     "You thought those bricks from before were good? You haven't seen anything yet!"
   ],
   "x": 3,
-  "y": -5,
+  "y": -6,
   "deps": {
     "all": [
-      "brick_by_brick_by_brick/quest_7"
+      "brick_by_brick_by_brick/quest_7",
+      "brick_by_brick_by_brick/big_furnace"
     ]
   },
   "aliases": [
@@ -16,6 +17,13 @@
   "tasks": [
     {
       "item": "embers:caminite_brick",
+      "type": "item"
+    }
+  ],
+  "rewards": [
+    {
+      "item": "embers:caminite_brick",
+      "count": 16,
       "type": "item"
     }
   ],

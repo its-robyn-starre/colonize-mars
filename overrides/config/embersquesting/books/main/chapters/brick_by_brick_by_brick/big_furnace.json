@@ -1,0 +1,32 @@
+{
+  "title": "Big Furnace",
+  "description": [
+    "In your pursuit of better bricks, the small electric furnace you've scrounged together simply isn't hot enough!"
+  ],
+  "x": 2,
+  "y": -3,
+  "deps": {
+    "all": [
+      "brick_by_brick_by_brick/quest_3"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "immersiveengineering:alloybrick",
+      "count": 8,
+      "type": "item"
+    },
+    {
+      "obtainable": true,
+      "optional": true,
+      "item": "immersiveengineering:alloy_smelter",
+      "type": "item"
+    }
+  ],
+  "rewards": [
+    {
+      "item": "immersiveengineering:hammer",
+      "type": "item"
+    }
+  ]
+}

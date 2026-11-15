@@ -1,4 +1,5 @@
 {
   "title": "Ice and Fire",
-  "icon": "embers:explosion_pedestal"
+  "icon": "supplementaries:fire_pit",
+  "order": 2
 }

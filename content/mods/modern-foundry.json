@@ -1,0 +1,23 @@
+{
+  "name": "Modern Foundry",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BYjCALKP",
+      "slug": "modern-foundry",
+      "versionId": "AQNC3CFB",
+      "versionNumber": "1.21.1-4.1.6-NeoForge",
+      "filename": "ModernFoundry-1.21.1-4.1.6-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BYjCALKP/versions/AQNC3CFB/ModernFoundry-1.21.1-4.1.6-NeoForge.jar",
+      "sha1": "df82705f50b24e88816e57a8f9b654de2b0f9f17",
+      "sha512": "e70b89110b9eb429953519352d50d6f6783d46ae476f1f09ad5995266cb600db91a12fd74734659dcfe90afac668e1b1901e13d72da133fa517a89ad924c42bb",
+      "fileSize": 23385070
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

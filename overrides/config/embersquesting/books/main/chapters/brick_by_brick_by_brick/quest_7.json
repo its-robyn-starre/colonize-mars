@@ -1,7 +1,7 @@
 {
   "title": "",
-  "x": 2,
-  "y": -3,
+  "x": 4,
+  "y": -4,
   "deps": {
     "all": [
       "brick_by_brick_by_brick/quest_6"

@@ -1,6 +1,7 @@
 {
-  "title": "Brick by Brick by Brick",
-  "icon": "immersiveengineering:textures/block/stone_decoration/clinker_brick/clinker_brick1.png",
+  "title": "Hot Bricks In Your Area",
+  "icon": "immersiveengineering:textures/block/stone_decoration/alloybrick.png",
+  "order": 1,
   "story": false,
   "style": "default"
 }

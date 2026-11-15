@@ -19,5 +19,11 @@
       "type": "item"
     }
   ],
+  "rewards": [
+    {
+      "item": "botania:tiny_potato",
+      "type": "item"
+    }
+  ],
   "size": 1.27
 }

@@ -1,0 +1,28 @@
+{
+  "title": "Oxygen",
+  "description": [
+    "We spent a pretty penny getting Mars to a breathable state, so you won't have to worry about managing your oxygen, thirst, or hunger while you're up there. You're welcome!",
+    "",
+    "",
+    "&o(And oxygen mechanics are reaallly not fun to play with...)&o"
+  ],
+  "icon": "ad_astra:space_helmet",
+  "x": 2,
+  "y": 5,
+  "deps": {
+    "all": [
+      "brick_by_brick_by_brick/welcome_to_the_wild_red_yonder"
+    ]
+  },
+  "tasks": [
+    {
+      "type": "checkmark"
+    }
+  ],
+  "rewards": [
+    {
+      "item": "ad_astra:space_painting",
+      "type": "item"
+    }
+  ]
+}

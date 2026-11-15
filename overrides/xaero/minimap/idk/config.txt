@@ -10,7 +10,8 @@ sortReversed:false
 ignoreHeightmaps:false
 
 //dimension types (DO NOT EDIT)
-dimensionType:ad_astra$mars:ad_astra$mars
 dimensionType:northstar$mars:northstar$mars
 dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:ad_astra$mars:ad_astra$mars
+dimensionType:ad_astra$venus:ad_astra$venus
 //third-party waypoints

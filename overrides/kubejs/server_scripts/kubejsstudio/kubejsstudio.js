@@ -23,16 +23,16 @@ ServerEvents.generateData('after_mods', event => {
       }
     )
 })
-// kubejsstudio custom: kubejsstudio:ice_smeltery
+
+// kubejsstudio custom: kubejsstudio:caminite_alloy
 ServerEvents.generateData('after_mods', event => {
     event.json(
-      'kubejsstudio:recipe/ice_smeltery',
+      'kubejsstudio:recipe/caminite_alloy',
       {
-        "type": "tinker_foundry:melting",
-        "ingredient": {"item":"forestry:ice_shard"},
-        "result": {"id":"forestry:crushed_ice","amount":250},
-        "temperature": 450,
-        "time": 24
+        "type": "immersiveengineering:alloy",
+        "input0": {"basePredicate":{"item":"minecraft:bone_meal"},"count":1},
+        "input1": {"tag":"c:dusts/salt"},
+        "result": {"basePredicate":{"item":"embers:caminite_blend"},"count":8}
       }
     )
 })
