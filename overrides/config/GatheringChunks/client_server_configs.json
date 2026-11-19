@@ -1,0 +1,8 @@
+{
+  "singleplayer": {
+    "preventFluidFlowIntoVoid": true,
+    "autoSpawnTrees": true,
+    "mobsDropFragments": true,
+    "fragmentDropChance": 5
+  }
+}

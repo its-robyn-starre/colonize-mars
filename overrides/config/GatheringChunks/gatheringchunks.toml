@@ -1,0 +1,194 @@
+# GatheringChunks Config
+# This config is automatically migrated between mod versions
+config_version = 3
+
+
+[ChunkGeneration]
+	#Is ChunkByChunk generation enabled
+	enabled = true
+	#Should empty chunks be generated as bedrock
+	seal_world = false
+	#Should the nether start empty with chunks spawning in response to overworld spawns
+	synch_nether_chunk_spawn = false
+	#Should the generated chest be a bedrock chest
+	use_bedrock_chest = false
+	#The type of items the bedrock chest provides
+	#Allowed Values: Random, WorldCore, WorldCrystal, WorldFragment, WorldForge
+	chest_contents = "Random"
+	#The number of items the bedrock chest provides
+	#Range: 1 ~ 64
+	chest_quantity = 1
+	#The number of chests to spawn per newly generated chunk (1-1500, >1500 may cause performance issues)
+	#Range: 1 ~ 65536
+	chests_per_chunk = 1
+	#How the chunk spawner works: Edge = spawn adjacent chunks, Void = spawn in void, Both = allow both
+	#Allowed Values: Edge, Void, Both
+	chunk_spawner_mode = "Both"
+	#The minimum depth at which the chunk spawner chest can spawn
+	#Range: -64 ~ 128
+	min_chest_spawn_depth = -60
+	#The maximum depth at which the chunk spawner chest can spawn
+	#Range: -64 ~ 128
+	max_chest_spawn_depth = -53
+	#The number of chunks to spawn initially
+	#Range: 0 ~ 1000
+	initial_chunks = 1
+	#Range: 1 ~ 512
+	chunk_layer_spawn_rate = 8
+	#Enable World Fragment Ore generation
+	fragment_ore_enabled = true
+	#The minimum height at which World Fragment Ore can spawn
+	#Range: -64 ~ 320
+	fragment_ore_min_height = -64
+	#The maximum height at which World Fragment Ore can spawn
+	#Range: -64 ~ 320
+	fragment_ore_max_height = 32
+	#The size of World Fragment Ore veins
+	#Range: 1 ~ 64
+	fragment_ore_vein_size = 3
+	#The number of World Fragment Ore veins per chunk
+	#Range: 1 ~ 64
+	fragment_ore_count = 10
+	#Prevent spawning chunks that are mostly water (for biome spawners)
+	disable_water_only_chunks = true
+	#List of biome IDs allowed for the initial chunk spawn location.
+	#Leave empty to allow any biome.
+	#Example: ["minecraft:plains", "minecraft:forest"]
+	initial_chunk_biomes = ["minecraft:plains", "minecraft:sunflower_plains", "minecraft:forest", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:old_growth_birch_forest", "minecraft:dark_forest", "minecraft:taiga", "minecraft:old_growth_pine_taiga", "minecraft:old_growth_spruce_taiga", "minecraft:savanna", "minecraft:savanna_plateau", "minecraft:windswept_savanna", "minecraft:jungle", "minecraft:sparse_jungle", "minecraft:bamboo_jungle", "minecraft:cherry_grove", "minecraft:meadow", "minecraft:windswept_forest", "minecraft:windswept_hills", "minecraft:grove"]
+
+[Difficulty]
+	#Does the Chunk Engine require fuel to operate?
+	Chunk Engine Requires Fuel = false
+	#Enable the experimental chunk limit (Start with 9, upgrade via Engine)
+	Experimental Chunk Limit = false
+	#Enable automatic progression helper (gives chunk spawner if stuck)
+	Enable Progression Helper = false
+	#What restriction to place on starting location
+	#Allowed Values: Biome, None, Village
+	start_restriction = "Village"
+	#The tag or name of the biome the starting spawn should be in (if not a village, blank for any)
+	starting_biome = #minecraft:is_forest
+	#Always attempt to spawn the initial chunk in a village (overridden by Hard Mode)
+	always_spawn_village = true
+	#Should chunks include a chest with materials for generating further chunks?
+	spawn_new_chunk_chest = true
+	#Whether to spawn a full strip of chunks along an axis
+	spawn_chunk_strip = false
+	#Should the chest spawn in the initial chunk only?
+	spawn_chest_in_initial_chunk_only = false
+
+[Difficulty.Hard Mode]
+	#Enable Hard Mode
+	enabled = false
+	#Prevent players from leaving spawned chunks
+	enforce_chunk_boundaries = true
+	#Disable village spawning
+	disable_villages = true
+	#Spawn a Chunk Engine in the first chunk
+	spawn_initial_engine = true
+	#Give the initial Chunk Engine some starting fuel
+	initial_engine_fuel = true
+	#Disable the /chests command
+	disable_chests_command = true
+
+[Gameplay]
+	#Can blocks be placed outside spawned chunks
+	block_placement_allowed_outside_spawned_chunks = false
+	#Prevent leaves spawned by the chunk spawners from decaying
+	chunk_spawn_leaf_decay_disabled = false
+	#If enabled, barrier blocks will be placed around the edges of each chunk
+	#to prevent water, lava, and other liquids from flowing between chunks.
+	#Barriers are automatically removed when adjacent chunks are spawned.
+	#This prevents players from easily reaching lower chunks by following liquids.
+	enable_chunk_barriers = true
+	#Percentage chance for unstable chunks to spawn in chests (0-100)
+	#Range: -2147483648 ~ 2147483647
+	unstable_chunk_chance = 20
+	#If disabled, World Fragment Ores will not generate in the world
+	enable_world_fragment_ore = true
+	#If disabled, the Cave Scanner will be non-functional
+	enable_cave_scanner = true
+
+[GatheringChunks]
+	#Allow mobs to drop world fragments when killed
+	Mobs Drop Fragments = true
+	#Percentage chance for mobs to drop fragments (0-100)
+	#Range: 0 ~ 100
+	Fragment Drop Chance (%) = 5
+	#Minimum fragments dropped by mobs (when they do drop)
+	#Range: 1 ~ 16
+	Min Fragment Drop = 1
+	#Maximum fragments dropped by mobs (when they do drop)
+	#Range: 1 ~ 16
+	Max Fragment Drop = 3
+	#Enable automatic tree spawning in chunks without wood
+	Auto-Spawn Trees = true
+	#Prevent fluids from flowing into the void
+	Prevent Fluid Flow Into Void = true
+	#Where a themed chunk spawner draws its terrain from. DIRECT: the same coordinate as the target chunk, so the terrain matches the surrounding world (biome-only change). RANDOM: a random coordinate inside the theme's own dimension, giving terrain suited to the theme but no longer lined up with neighbouring chunks. Applies to themed spawner blocks and the World Mender alike.
+	#Allowed Values: RANDOM, DIRECT
+	Themed Spawner Source = "DIRECT"
+
+[WorldForge]
+	#The rate at which the world forge processes consumed blocks, in fuel per tick
+	#Range: 1 ~ 256
+	production_rate = 1
+	#The value of fuel provided by soils (dirt, sand, gravel, etc). 0 to disallow use as fuel
+	#Range: 0 ~ 256
+	soil_fuel_value = 2
+	#The value of fuel provided by raw stones (cobblestone, deep slate cobblestone, etc). 0 to disallow use as fuel
+	#Range: 0 ~ 256
+	stone_fuel_value = 4
+	#The value of fuel provided by more valuable materials (none by default, this is for modpacks and extensions)
+	#Range: 0 ~ 256
+	strong_fuel_value = 8
+	#The cost in fuel to produce a single world fragment
+	#Range: 1 ~ 256
+	fragment_fuel_cost = 32
+
+[WorldScanner]
+	MANUAL_SYSTEM_ENABLED = true
+	#The amount of fuel provided by each world fragment (and then scaled up for world shard, crystal and core)
+	#Range: 1 ~ 512
+	fuel_per_fragment = 32
+	#The amount of fuel provided by each world fragment for the Cave Scanner
+	#Range: 1 ~ 512
+	cave_scanner_fuel_per_fragment = 32
+	#The amount of fuel required to scan each chunk
+	#Range: 1 ~ 65534
+	fuel_required_per_chunk = 32
+	#The amount of fuel required for the Cave Scanner to scan each chunk
+	#Range: 1 ~ 65534
+	cave_scanner_fuel_required_per_chunk = 32
+	#The amount of fuel consumed each tick
+	#Range: 1 ~ 65534
+	fuel_consumed_per_tick = 1
+	#The amount of fuel consumed each tick by the Cave Scanner
+	#Range: 1 ~ 65534
+	cave_scanner_fuel_consumed_per_tick = 1
+	#Enable experimental mode for the world scanner which highlights blocks in the world
+	experimental_mode = false
+	#World Scanner scan mode: Auto = scan from center, Manual = select chunks to scan
+	#Allowed Values: Auto, Manual
+	world_scanner_scan_mode = "Auto"
+	#Allow manually selecting which chunk to scan instead of scanning from center
+	allow_manual_chunk_selection = false
+	#X offset from scanner position for manual chunk selection (in chunks, -15 to 15)
+	#Range: -15 ~ 15
+	manual_chunk_offset_x = 0
+	#Z offset from scanner position for manual chunk selection (in chunks, -15 to 15)
+	#Range: -15 ~ 15
+	manual_chunk_offset_z = 0
+
+[WorldMender]
+	#Ticks between chunk spawns per world mender (world menders will not spawn chunks if chunks are already being spawned)
+	#Range: 1 ~ 72000
+	cooldown = 1
+	#When a world mender finds no empty chunks to fill, it sleeps this many ticks before scanning again. Keeps the empty-chunk scan off the tick loop in settled areas, while letting a dormant mender notice chunks erased nearby (e.g. by a Chunk Eraser) within about half a minute at the default value. Upstream Chunk By Chunk hard-coded 1200000 (~16.7 in-game hours), which made menders effectively permanently dormant.
+	#Range: 1 ~ 1200000
+	emptyRescanInterval = 600
+
+[BedrockChest]
+	#The number of blocks within the chunk above the bedrock chest allowed to remain before it will open
+	#Range: 0 ~ 65534
+	bedrock_chest_unlock_at_blocks_remaining = 16

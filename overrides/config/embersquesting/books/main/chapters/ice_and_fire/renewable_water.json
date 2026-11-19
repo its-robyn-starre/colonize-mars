@@ -1,0 +1,28 @@
+{
+  "title": "Renewable Water",
+  "description": [
+    "TODO: FIX THIS. MELTER RUNS ON EMBER WHICH WE DONT HAVE YET",
+    "Need water? Not to worry! You can dig up snow for an infinite supply."
+  ],
+  "x": 4,
+  "y": 4,
+  "deps": {
+    "all": [
+      "ice_and_fire/ember_bore"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "embers:melter",
+      "type": "item"
+    },
+    {
+      "item": "embers:fluid_extractor",
+      "type": "item"
+    },
+    {
+      "item": "embers:fluid_pipe",
+      "type": "item"
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 {
   "title": "Ice and Fire",
   "icon": "supplementaries:fire_pit",
-  "order": 2
+  "order": 1,
+  "visibility": "hidden",
+  "group": "main_chapters"
 }

@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"embers:excavation_buckets"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"embers:mechanical_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"excessive_utilities:furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"embers:ember_bore"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra:mars_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"forestry:iron_gear"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersiveengineering:storage_steel"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

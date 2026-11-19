@@ -1,0 +1,22 @@
+{
+  "title": "Excavation",
+  "description": [
+    "The Ember Bore is a multiblock that can dig up various valuables from the earth. Contrary to its name, Ember is not the only thing it can dig up, though!"
+  ],
+  "x": 3,
+  "y": 4,
+  "tasks": [
+    {
+      "item": "embers:ember_bore",
+      "type": "item"
+    },
+    {
+      "item": "embers:mechanical_core",
+      "type": "item"
+    },
+    {
+      "item": "embers:excavation_buckets",
+      "type": "item"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "title": "Hot Bricks In Your Area",
   "icon": "immersiveengineering:textures/block/stone_decoration/alloybrick.png",
-  "order": 1,
   "story": false,
+  "group": "main_chapters",
   "style": "default"
 }

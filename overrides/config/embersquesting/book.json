@@ -1,6 +1,17 @@
 {
+  "item": {
+    "spawn": {
+      "give": true
+    },
+    "soulbound": true
+  },
   "inventory": {
     "mode": "icon"
+  },
+  "groups": {
+    "main_chapters": {
+      "title": "Main Chapters"
+    }
   },
   "world_toggle": false
 }

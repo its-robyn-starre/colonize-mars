@@ -1,0 +1,23 @@
+{
+  "name": "Haunt Furnace",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "G05u0Ety",
+      "slug": "haunt-furnace",
+      "versionId": "eoCbeQ3W",
+      "versionNumber": "0.5.9-1.21.1",
+      "filename": "hauntfurnace-neoforge-0.5.9-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/G05u0Ety/versions/eoCbeQ3W/hauntfurnace-neoforge-0.5.9-1.21.1.jar",
+      "sha1": "5512638d80a0b35f4c0c92d14d07aba0a304296c",
+      "sha512": "40b3636dd38853d6c9e0577c5935dabd204f8c2dd691746008a4c5d8214658b852f96ad7922cf5066b19304fa437981bf77e0f151d578c9894386e54a3f6d035",
+      "fileSize": 288699
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

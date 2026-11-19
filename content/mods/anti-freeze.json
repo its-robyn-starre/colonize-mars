@@ -1,0 +1,23 @@
+{
+  "name": "AntiFreeze",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LHNgXKhy",
+      "slug": "anti-freeze",
+      "versionId": "9Bz26v8X",
+      "versionNumber": "2.0.0",
+      "filename": "antifreeze-neoforge-1.21+-2.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LHNgXKhy/versions/9Bz26v8X/antifreeze-neoforge-1.21%2B-2.0.0.jar",
+      "sha1": "54678deffbf28e226ca427a5dac089a13b6d46d8",
+      "sha512": "aabb598a457971e9eef2e7f72847c0709a4064b225f3d90504a15b737b9df7339facfbaae9ace74629adf0d7d141c4d5da89588659f4f35617900ae198678586",
+      "fileSize": 94210
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

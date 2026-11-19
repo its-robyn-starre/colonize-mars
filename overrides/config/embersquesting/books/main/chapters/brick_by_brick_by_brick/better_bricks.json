@@ -25,6 +25,15 @@
       "item": "embers:caminite_brick",
       "count": 16,
       "type": "item"
+    },
+    {
+      "item": "embers:tinker_wrench",
+      "type": "item"
+    },
+    {
+      "chapter": "ice_and_fire",
+      "type": "chapter",
+      "auto": "claim"
     }
   ],
   "shape": "diamond",

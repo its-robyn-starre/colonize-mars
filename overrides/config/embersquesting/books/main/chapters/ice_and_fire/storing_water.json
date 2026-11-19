@@ -1,0 +1,33 @@
+{
+  "title": "Storing Water",
+  "description": [
+    "Water will freeze on the surface of Mars. You'll have to store it in tanks to keep it usable."
+  ],
+  "x": 4,
+  "y": 5,
+  "deps": {
+    "all": [
+      "ice_and_fire/renewable_water"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "embers:reservoir",
+      "type": "item"
+    }
+  ],
+  "rewards": [
+    {
+      "item": "embers:caminite_ring",
+      "type": "item"
+    },
+    {
+      "item": "embers:caminite_gauge",
+      "type": "item"
+    },
+    {
+      "item": "embers:caminite_valve",
+      "type": "item"
+    }
+  ]
+}

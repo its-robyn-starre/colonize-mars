@@ -1,0 +1,27 @@
+{
+  "title": "Tinker's Tools",
+  "description": [
+    "Now you can make tools! Go mine some ores!"
+  ],
+  "x": 4.96875,
+  "y": -2.375,
+  "deps": {
+    "all": [
+      "brick_by_brick_by_brick/quest_6"
+    ]
+  },
+  "tasks": [
+    {
+      "obtainable": true,
+      "item": "modernfoundry:pickaxe",
+      "type": "item"
+    }
+  ],
+  "rewards": [
+    {
+      "item": "modernfoundry:seared_brick",
+      "count": 16,
+      "type": "item"
+    }
+  ]
+}

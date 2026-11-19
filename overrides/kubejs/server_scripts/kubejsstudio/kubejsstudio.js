@@ -36,3 +36,78 @@ ServerEvents.generateData('after_mods', event => {
       }
     )
 })
+// kubejsstudio custom: kubejsstudio:stone_to_gravel
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/stone_to_gravel',
+      {
+        "type": "embers:excavation",
+        "chance": 0.9,
+        "max_height": 2147483647,
+        "output": {"id":"minecraft:gravel"},
+        "required_block": {"amount":5,"block_tag":"ad_astra:mars_stone_replaceables"},
+        "weight": 50
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:brick_melting
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/brick_melting',
+      {
+        "type": "modernfoundry:melting",
+        "ingredient": {"tag":"c:bricks/nether"},
+        "result": {"amount":90,"fluid":"modernfoundry:molten_clay"},
+        "temperature": 600,
+        "time": 57
+      }
+    )
+})
+// kubejsstudio custom: modernfoundry:smeltery/melting/clay/brick
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'modernfoundry:recipe/smeltery/melting/clay/brick',
+      {
+        "type": "modernfoundry:melting",
+        "id": "modernfoundry:smeltery/melting/clay/brick",
+        "ingredient": [
+          {"item":"minecraft:brick"},
+          {"item":"minecraft:nether_brick"},
+          {"tag":"minecraft:decorated_pot_sherds"}
+        ],
+        "result": {"amount":250,"fluid":"modernfoundry:molten_clay"},
+        "temperature": 450,
+        "time": 48
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:lightbulb_casting
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/lightbulb_casting',
+      {
+        "type": "modernfoundry:casting_table",
+        "id": "kubejsstudio:lightbulb_casting",
+        "cast": {"tag":"c:nuggets/iron"},
+        "cast_consumed": true,
+        "cooling_time": 83,
+        "fluid": {"amount":250,"fluid":"modernfoundry:molten_glass"},
+        "result": "immersiveengineering:light_bulb"
+      }
+    )
+})
+// kubejsstudio custom: modernfoundry:smeltery/casting/seared/stone/block_from_clay
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'modernfoundry:recipe/smeltery/casting/seared/stone/block_from_clay',
+      {
+        "type": "modernfoundry:casting_basin",
+        "id": "modernfoundry:smeltery/casting/seared/stone/block_from_clay",
+        "cast": [{"tag":"c:stone"},{"item":"ad_astra:mars_stone"}],
+        "cast_consumed": true,
+        "cooling_time": 113,
+        "fluid": {"amount":500,"tag":"modernfoundry:molten_clay"},
+        "result": "modernfoundry:seared_stone"
+      }
+    )
+})

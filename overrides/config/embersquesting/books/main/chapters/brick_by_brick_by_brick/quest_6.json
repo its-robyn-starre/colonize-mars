@@ -33,5 +33,15 @@
       "type": "item"
     }
   ],
+  "rewards": [
+    {
+      "item": "modernfoundry:part_builder",
+      "type": "item"
+    },
+    {
+      "item": "modernfoundry:tinker_station",
+      "type": "item"
+    }
+  ],
   "size": 1.4
 }
