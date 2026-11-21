@@ -44,7 +44,9 @@
         "botania:botania_extras/prismatic_lake_rod",
         "botania:devices/animated_torch",
         "botania:misc/azulejo",
-        "botania:misc/head_creating"
+        "botania:misc/head_creating",
+        "botania:basics/lexicon",
+        "botania:tools/grass_seeds"
       ],
       "bookmarks": [],
       "completedManualQuests": []

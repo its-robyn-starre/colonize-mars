@@ -1,0 +1,72 @@
+{
+  "title": "Selling Your Soul To The Devil",
+  "description": [
+    "Tired of waiting for crops to go bad on their own? You can make a furnace that converts items into their hellish, twisted variants! All it takes is a little bit of melted soul..",
+    {
+      "type": "divider"
+    },
+    "A simple Foundry can be made like this. It will allow you to up your melting game.",
+    {
+      "optional": [
+        "m"
+      ],
+      "pitch": 35.0,
+      "ortho": true,
+      "interactive": true,
+      "loop": false,
+      "yaw": -125.0,
+      "layers": [
+        [
+          "mmmm",
+          "mmmm",
+          "mmmm",
+          "mmmm"
+        ],
+        [
+          "    ",
+          " ss ",
+          " ss ",
+          "    "
+        ],
+        [
+          " ss ",
+          "s  s",
+          "s  s",
+          " ss "
+        ],
+        [
+          " ss ",
+          "S  s",
+          "e  s",
+          " ss "
+        ]
+      ],
+      "key": {
+        "S": "modernfoundry:smeltery_controller[facing=west,in_structure=true]{fuel:0,inventory:{size:8b},multiblock:{max:[I;3,0,2],min:[I;0,-2,-1],tanks:[{pos:[I;0,0,1]}]},rate:0,tank:{capacity:8640,fluids:[{amount:250,id:\"modernfoundry:liquid_soul\"}]},temperature:0}",
+        "s": "modernfoundry:seared_bricks[in_structure=true]",
+        "m": "ad_astra:mars_sand",
+        "e": "modernfoundry:seared_fuel_tank[in_structure=true,light=15]{tank:{Fluid:{amount:3550,id:\"minecraft:lava\"}}}"
+      },
+      "type": "scene"
+    }
+  ],
+  "icon": "hauntfurnace:haunt_furnace",
+  "x": 3,
+  "y": 3,
+  "deps": {
+    "all": [
+      "ice_and_fire/renwable_potatoes",
+      "ice_and_fire/potato__potahto"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "modernfoundry:smeltery_controller",
+      "type": "item"
+    },
+    {
+      "item": "hauntfurnace:powered_haunt_furnace",
+      "type": "item"
+    }
+  ]
+}

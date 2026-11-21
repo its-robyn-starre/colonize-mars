@@ -1,6 +1,6 @@
 {
-  "title": "Ice and Fire",
-  "icon": "supplementaries:fire_pit",
+  "title": "Mycolorology",
+  "icon": "farmersdelight:red_mushroom_colony",
   "order": 1,
   "visibility": "hidden",
   "group": "main_chapters"

@@ -25,4 +25,5 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'clayworks:nether_brick_from_baking' })
     event.remove({ id: 'embers:caminite_blend' })
     event.remove({ id: 'minecraft:furnace' })
+    event.shapeless('botania:metamorphic_fungal_cobblestone', ['ad_astra:conglomerate', ['farmersdelight:rotten_tomato', 'minecraft:poisonous_potato']]).id('kubejsstudio:mycelite_from_rotten')
 })

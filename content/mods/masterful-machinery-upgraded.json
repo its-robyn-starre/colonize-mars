@@ -1,0 +1,22 @@
+{
+  "name": "Masterful Machinery Upgraded",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1643402",
+      "slug": "masterful-machinery-upgraded",
+      "versionId": "9643052",
+      "versionNumber": "MasterfulMachinery-1.21.1-0.18.1.jar",
+      "filename": "MasterfulMachinery-1.21.1-0.18.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9643/52/MasterfulMachinery-1.21.1-0.18.1.jar",
+      "sha1": "26b3fd456d07c676d9babdd4bd532450e0067c72",
+      "fileSize": 1980443
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

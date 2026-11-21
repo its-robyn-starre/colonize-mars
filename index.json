@@ -238,7 +238,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "424c8d95a05ad7533f4566809dc49df56638bb4c"
+      "sha1": "19557edc7877aba7a4b4c0f72c98ab01e14e74f5"
     },
     {
       "path": "content/mods/just-another-witchery-remake.json",
@@ -289,12 +289,16 @@
       "sha1": "0c8f8e9ef062126f686f2c6d1a056b1dbddeba17"
     },
     {
+      "path": "content/mods/masterful-machinery-upgraded.json",
+      "sha1": "dbf9bcabdb5804aa6757096e3c9c367c020570d8"
+    },
+    {
       "path": "content/mods/melody.json",
       "sha1": "f2e94c7ecc8fd43fe8016b05b98ad76e162111c8"
     },
     {
       "path": "content/mods/mezzconfig.json",
-      "sha1": "d2e688333d196659cb02fb996941660884120559"
+      "sha1": "4409b283bd8f1524792a0887e32bb7c4691ee4b1"
     },
     {
       "path": "content/mods/midnightlib.json",
@@ -706,23 +710,39 @@
     },
     {
       "path": "overrides/config/embersquesting/books/main/chapters/ice_and_fire/chapter.json",
-      "sha1": "ecd3798dbaa98395d7d36e522ba46a8d91778e4a"
+      "sha1": "15e6977206f476a7a4649092e9c869869483158b"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/ice_and_fire/dude__i_can_taste_color.json",
+      "sha1": "61b825a95522bf89c5915244e31f2d415d13fefc"
     },
     {
       "path": "overrides/config/embersquesting/books/main/chapters/ice_and_fire/ember_bore.json",
-      "sha1": "4f17240d52af67b76df71810717d9186198b341c"
+      "sha1": "87b261fa888d92f66a11ca009559e944010fcc19"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/ice_and_fire/infested_stone.json",
+      "sha1": "5fe2a259b909acafd4505f065b35f5225eaec4a7"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/ice_and_fire/potato__potahto.json",
+      "sha1": "b7cb997faa05c54f3c05e45715258e0ca3c96a1f"
     },
     {
       "path": "overrides/config/embersquesting/books/main/chapters/ice_and_fire/renewable_water.json",
-      "sha1": "dde12ea2a5b5fdcc541ea8ee717d034ad22f2488"
+      "sha1": "fb0134c3785f14045656ffbca6c23d4b82a27b81"
     },
     {
       "path": "overrides/config/embersquesting/books/main/chapters/ice_and_fire/renwable_potatoes.json",
-      "sha1": "a9e53306f8f0f311300becd19311111d813e2e64"
+      "sha1": "da472c0904cdff01dcb6a31a25ae8c5f9350176f"
+    },
+    {
+      "path": "overrides/config/embersquesting/books/main/chapters/ice_and_fire/selling_your_soul_to_the_devil.json",
+      "sha1": "0662ab259857ed8f4bba83ab4e0b68764d609fe9"
     },
     {
       "path": "overrides/config/embersquesting/books/main/chapters/ice_and_fire/storing_water.json",
-      "sha1": "086e920467f49dc6304b3c68dfe15d5bba041028"
+      "sha1": "03dc3a7f06cda3896521bf2f0e6a1c0dc53bd0fb"
     },
     {
       "path": "overrides/config/embersquesting/books/test/book.json",
@@ -758,7 +778,7 @@
     },
     {
       "path": "overrides/config/embersquesting/client.json",
-      "sha1": "9e064a79ede39203fb35a3f227a8fa959e1dcf73"
+      "sha1": "91d5dca6c5d4c4bc69f67f2a9d51aaac80d50a38"
     },
     {
       "path": "overrides/config/embersquesting/collapsed_groups.json",
@@ -802,7 +822,7 @@
     },
     {
       "path": "overrides/config/embersquesting/seen_quests.json",
-      "sha1": "f8d0fb25049c2ebf8a22e49396ea0f565c3f234c"
+      "sha1": "25efa4e9714cfa28775e5da03b2f5e931f449d81"
     },
     {
       "path": "overrides/config/emberstextapi-client.toml",
@@ -850,7 +870,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "34c61d2cd6a96aa1bcd2babe8abfd4c0cabeb19a"
+      "sha1": "fdf99ec6037198051bb33767116c87a9984d0702"
     },
     {
       "path": "overrides/config/fancymenu/custom_gui_screens.txt",
@@ -1098,11 +1118,11 @@
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-mod-sort-order.ini",
-      "sha1": "21d4c733d506374b11e95920d6833bd9dc1ae7d3"
+      "sha1": "c6ba08e683f77824407a87b8db1279b3df134da4"
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-type-sort-order.ini",
-      "sha1": "8ac56b2a1f0ac451d112e947d363a0dae6025e81"
+      "sha1": "047beafe00e5614e74be8647faef63d274f3217e"
     },
     {
       "path": "overrides/config/jei/client/jei-client.ini",
@@ -1110,7 +1130,7 @@
     },
     {
       "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
-      "sha1": "b009e18f4e83297ba6bc72da04c94df27f29e097"
+      "sha1": "4798e310420d39bb50b38b1cd87bc886e16509bc"
     },
     {
       "path": "overrides/config/jei/server/world/default/jei-server.ini",
@@ -1138,7 +1158,7 @@
     },
     {
       "path": "overrides/config/jei/world/local/idk/lookupHistory.json",
-      "sha1": "229e95f7391b00e45892567483313c8b1be77a09"
+      "sha1": "3812af1033c86c9c1a7d7f9e05eb4531a23e89d4"
     },
     {
       "path": "overrides/config/jei/world/local/testery/lookupHistory.json",
@@ -1162,7 +1182,7 @@
     },
     {
       "path": "overrides/config/kubejsstudio.json",
-      "sha1": "d7ef4d0a5bca0b2c598eea3f215e79fde324dfb8"
+      "sha1": "7abb9e0a581993601694d5cd9a8018775ca4b49c"
     },
     {
       "path": "overrides/config/kubejsstudio/pending.json",
@@ -1239,6 +1259,22 @@
     {
       "path": "overrides/config/midnightlib.json",
       "sha1": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db"
+    },
+    {
+      "path": "overrides/config/mm-client.toml",
+      "sha1": "033ca9fb93b20d38132ff427636f9002a1d5b435"
+    },
+    {
+      "path": "overrides/config/mm-common.toml",
+      "sha1": "7d0579108d809cfbbaae1693dfa2c3d3fc3fd763"
+    },
+    {
+      "path": "overrides/config/mm/pack/data/minecraft/tags/block/mineable/pickaxe.json",
+      "sha1": "960d0a6c012e6dafa2447aa3d0a13339ab9fdc9f"
+    },
+    {
+      "path": "overrides/config/mm/working_effects.json",
+      "sha1": "59ae1db0618e2e0e2fd23054c325959ade9b7a2d"
     },
     {
       "path": "overrides/config/modernfix-common.toml",
@@ -2018,7 +2054,7 @@
     },
     {
       "path": "overrides/config/worldedit/worldedit.properties",
-      "sha1": "cd53bc51197a0601dfadac1dbd4955d9039b1f7a"
+      "sha1": "ae2aa73a1d5c3021c9f55581de25e75b8eecffbc"
     },
     {
       "path": "overrides/config/xaero/lib/client.cfg",
@@ -2254,11 +2290,15 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/kubejsstudio.js",
-      "sha1": "41c2007ea09cc93d7e3a6ee4cbbe81d3d0ead997"
+      "sha1": "d4d26f3f7bf6c52735920aee89e56a57e8ac0140"
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/recipes.js",
-      "sha1": "c29ea59fe9b7ed91b047ee6497eb78a61963b523"
+      "sha1": "cc5fce31d129939721a62b8737abe07a0b1cdba1"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/kubejsstudio/tags/block.js",
+      "sha1": "f4a24466384c95d5839e2f02882f468c89745571"
     },
     {
       "path": "overrides/kubejs/server_scripts/main.js",
@@ -2270,7 +2310,7 @@
     },
     {
       "path": "overrides/kubejsstudio/intel.json",
-      "sha1": "ae4cdd3511838c3828ea831ff895cb906fc1f578"
+      "sha1": "81610d6d391f0f9588b4f78d0b25ab4cd3dcb5a2"
     },
     {
       "path": "overrides/options.txt",
@@ -2278,7 +2318,7 @@
     },
     {
       "path": "overrides/patchouli_data.json",
-      "sha1": "e11e480b1765b4dc2fbe01de708306ab3260eef5"
+      "sha1": "81887ae821ce32fe43f104567a365ee9547cc27b"
     },
     {
       "path": "overrides/resourcepacks/Desertification - No Sand Rotation.zip",

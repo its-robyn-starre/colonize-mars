@@ -1,6 +1,6 @@
 # colonize mars
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 94 mods (18 dependencies), 1 resource pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 95 mods (18 dependencies), 1 resource pack
 
 ## Contents
 
@@ -60,7 +60,7 @@
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [Just Another Witchery Remake](https://modrinth.com/project/just-another-witchery-remake) `0.5.38`
 - [Just Enough Immersive Multiblocks](https://modrinth.com/project/jei-multiblocks) `1.21.1-1.0.6`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.468`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.64.0.455`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
 - [KubeJS Studio](https://www.curseforge.com/projects/1597398) `KubeJS Studio 1.3.0 (NeoForge 1.21.1)`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
@@ -68,7 +68,8 @@
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Little Geode](https://modrinth.com/project/little-geode) `1.6.2`
 - [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
-- [MezzConfig](https://modrinth.com/project/mezzconfig) `0.6.10`
+- [Masterful Machinery Upgraded](https://www.curseforge.com/projects/1643402) `MasterfulMachinery-1.21.1-0.18.1.jar`
+- [MezzConfig](https://modrinth.com/project/mezzconfig) `0.7.1`
 - [Modern Foundry](https://modrinth.com/project/modern-foundry) `1.21.1-4.1.6-NeoForge`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - [Modpack Assistant](https://www.curseforge.com/projects/1679492) `[1.21.1] Modpack Assistant 1.0.8`

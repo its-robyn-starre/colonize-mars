@@ -1,0 +1,20 @@
+{
+  "title": "Infested Stone",
+  "description": [
+    "You can combine the fungus from rotten crops with the conglomerate stone you've found on the planet to make a strange petrified mushroom rock."
+  ],
+  "x": 3,
+  "y": 1,
+  "deps": {
+    "all": [
+      "ice_and_fire/selling_your_soul_to_the_devil",
+      "ice_and_fire/potato__potahto"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "botania:metamorphic_fungal_cobblestone",
+      "type": "item"
+    }
+  ]
+}

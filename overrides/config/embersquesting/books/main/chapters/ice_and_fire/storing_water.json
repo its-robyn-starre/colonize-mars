@@ -3,7 +3,7 @@
   "description": [
     "Water will freeze on the surface of Mars. You'll have to store it in tanks to keep it usable."
   ],
-  "x": 4,
+  "x": 6,
   "y": 5,
   "deps": {
     "all": [

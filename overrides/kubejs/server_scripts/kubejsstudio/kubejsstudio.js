@@ -111,3 +111,14 @@ ServerEvents.generateData('after_mods', event => {
       }
     )
 })
+// kubejsstudio custom: kubejsstudio:sealed_planks_daisy
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/sealed_planks_daisy',
+      {
+        "type": "botania:pure_daisy",
+        "input": {"type":"block","block":"embers:dwarven_oil_block"},
+        "output": {"name":"embers:sealed_planks"}
+      }
+    )
+})

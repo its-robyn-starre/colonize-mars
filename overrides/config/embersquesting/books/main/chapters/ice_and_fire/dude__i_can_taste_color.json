@@ -1,0 +1,28 @@
+{
+  "title": "Dude, I can taste color....",
+  "description": [
+    "You can grow some colorful new mushrooms by using some Floral Fertilizer on your mycelite!"
+  ],
+  "x": 3,
+  "deps": {
+    "all": [
+      "ice_and_fire/infested_stone"
+    ]
+  },
+  "tasks": [
+    {
+      "tag": "botania:shimmering_mushrooms",
+      "type": "item"
+    },
+    {
+      "item": "botania:fertilizer",
+      "type": "item"
+    }
+  ],
+  "rewards": [
+    {
+      "item": "botania:flower_bag",
+      "type": "item"
+    }
+  ]
+}

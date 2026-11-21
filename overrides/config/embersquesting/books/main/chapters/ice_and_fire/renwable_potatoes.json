@@ -3,12 +3,13 @@
   "description": [
     "You've managed to cook up an \"incubation chamber\" of sorts for your crops. Your days of having to watch what you eat are over! You can use potatoes as frivolously as you please."
   ],
-  "x": 2,
-  "y": 4,
+  "x": 1,
+  "y": 5,
   "tasks": [
     {
       "item": "immersiveengineering:cloche",
       "type": "item"
     }
-  ]
+  ],
+  "size": 1.14
 }

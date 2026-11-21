@@ -1,0 +1,33 @@
+{
+  "title": "Potato, Potahto",
+  "description": [
+    "We've managed to scrounge up the money to send a supply drop from Earth. Prove that you've got a sustainable food source up there and we'll send you over a couple of tomatoes!"
+  ],
+  "x": 2,
+  "y": 3,
+  "deps": {
+    "all": [
+      "ice_and_fire/renwable_potatoes"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "farmersdelight:potato_crate",
+      "count": 2,
+      "mode": "consume",
+      "type": "item"
+    }
+  ],
+  "rewards": [
+    {
+      "item": "farmersdelight:tomato_seeds",
+      "count": 4,
+      "type": "item"
+    },
+    {
+      "item": "farmersdelight:tomato",
+      "count": 4,
+      "type": "item"
+    }
+  ]
+}

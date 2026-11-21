@@ -3,7 +3,7 @@
   "description": [
     "The Ember Bore is a multiblock that can dig up various valuables from the earth. Contrary to its name, Ember is not the only thing it can dig up, though!"
   ],
-  "x": 3,
+  "x": 5,
   "y": 4,
   "tasks": [
     {
