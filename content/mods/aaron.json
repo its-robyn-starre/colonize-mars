@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "usfxOp9L",
       "slug": "aaron",
-      "versionId": "VsaBbH9Z",
-      "versionNumber": "1.22.0-build.44",
-      "filename": "aaron-1.21.1-1.22.0-build.44.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/usfxOp9L/versions/VsaBbH9Z/aaron-1.21.1-1.22.0-build.44.jar",
-      "sha1": "040835894af14374e9ad90472bc70b6b9d5cf886",
-      "sha512": "7579473e46c3a468038c4dc33dcbf34e060f65948e12286b382d076412b427210e426790f3df2d17a3417aaab7f9b2977b942e9cdeccad71b7f30f7ea5c0511a",
-      "fileSize": 381395
+      "versionId": "a6zvLKUZ",
+      "versionNumber": "1.23.0-build.46",
+      "filename": "aaron-1.21.1-1.23.0-build.46.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/usfxOp9L/versions/a6zvLKUZ/aaron-1.21.1-1.23.0-build.46.jar",
+      "sha1": "223feebcbd41ba114e764c9bccbca864c4279667",
+      "sha512": "d3ac154cfd724936bba831e29e4cf6506853312e78e70147057761eefca3da207ad9696f7ef2ed497301517014c1d8f34b97e3a938814a71f4fc547c5845cee2",
+      "fileSize": 381606
     }
   },
   "dependents": [

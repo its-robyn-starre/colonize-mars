@@ -1,4 +1,5 @@
 [
   {"version":2},
-  {"ingredient":{"id":"minecraft:spruce_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:spruce_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"agricraft:quartzanthemum","type":"com.agricraft.agricraft.api.plant.AgriPlant","bookmarkType":"INGREDIENT"}
 ]

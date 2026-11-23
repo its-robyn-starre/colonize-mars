@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "J8MMsNrL",
       "slug": "oracle-index",
-      "versionId": "7OqGasX2",
-      "versionNumber": "1.4.0",
-      "filename": "oracle_index-neoforge-1.4.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/J8MMsNrL/versions/7OqGasX2/oracle_index-neoforge-1.4.0.jar",
-      "sha1": "90415e944016b45bd3791bfa3705e9e8345e1dde",
-      "sha512": "3937fe508e7a077769d813662bf3e13dcd16874d63ac91a433810d7ee38a526e23ca0258f5810c5ea65d37cdff2cad7cb4067cf43cb9a4874316310b190e2a87",
-      "fileSize": 29675090
+      "versionId": "8UTmNa3g",
+      "versionNumber": "1.4.1",
+      "filename": "oracle_index-neoforge-1.4.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/J8MMsNrL/versions/8UTmNa3g/oracle_index-neoforge-1.4.1.jar",
+      "sha1": "2fabcb36b40c8b4ab363c4c26f5306a4d129abb5",
+      "sha512": "3d7fdc821ad5f7ee814f47e0701e0f816b300f1541ae6f52df9264fd454ff97acb83fc259f1e25bf7947dfd8520bd86059af8033f6ecd62447a7e7016999caef",
+      "fileSize": 29675780
     }
   },
   "dependents": [],

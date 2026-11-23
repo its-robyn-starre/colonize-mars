@@ -4,7 +4,7 @@
     "We've managed to scrounge up the money to send a supply drop from Earth. Prove that you've got a sustainable food source up there and we'll send you over a couple of tomatoes!"
   ],
   "x": 2,
-  "y": 3,
+  "y": 4,
   "deps": {
     "all": [
       "ice_and_fire/renwable_potatoes"

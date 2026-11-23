@@ -3,8 +3,7 @@
   "description": [
     "Water will freeze on the surface of Mars. You'll have to store it in tanks to keep it usable."
   ],
-  "x": 6,
-  "y": 5,
+  "x": 8,
   "deps": {
     "all": [
       "ice_and_fire/renewable_water"

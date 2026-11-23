@@ -8,12 +8,12 @@
     "curseforge": {
       "id": "842106",
       "slug": "extradelight",
-      "versionId": "8261063",
-      "versionNumber": "extradelight-2.6.6.jar",
-      "filename": "extradelight-2.6.6.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8261/63/extradelight-2.6.6.jar",
-      "sha1": "a04ddf96b39a0f909d4184d326cc09c54650737d",
-      "fileSize": 10959956
+      "versionId": "9672972",
+      "versionNumber": "extradelight-2.7.2.jar",
+      "filename": "extradelight-2.7.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9672/972/extradelight-2.7.2.jar",
+      "sha1": "4b543ab53a09304481d29ea663328d91346f48f7",
+      "fileSize": 11569224
     }
   },
   "dependents": [],

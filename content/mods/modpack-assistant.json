@@ -8,12 +8,12 @@
     "curseforge": {
       "id": "1679492",
       "slug": "modpack-assistant",
-      "versionId": "9082493",
-      "versionNumber": "[1.21.1] Modpack Assistant 1.0.8",
-      "filename": "modpackassistant-1.21.1-1.0.8.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9082/493/modpackassistant-1.21.1-1.0.8.jar",
-      "sha1": "0a4ffa672bc1cb4dde8e9e707ec7017f3c5ab145",
-      "fileSize": 533617
+      "versionId": "9764713",
+      "versionNumber": "[1.21.1] Modpack Assistant 1.0.9",
+      "filename": "modpackassistant-1.21.1-1.0.9.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9764/713/modpackassistant-1.21.1-1.0.9.jar",
+      "sha1": "47b64ec744feb05245a613208820447253580745",
+      "fileSize": 549663
     }
   },
   "dependents": [],

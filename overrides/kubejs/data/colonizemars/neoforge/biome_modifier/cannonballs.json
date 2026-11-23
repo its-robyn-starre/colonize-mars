@@ -1,0 +1,9 @@
+    {
+        "type": "neoforge:add_features",
+        "biomes": [
+        "ad_astra:martian_canyon_creek",
+        "ad_astra:martian_wastelands"
+        ],
+        "features": ["colonizemars:cannonball"],
+        "step": "local_modifications",
+    }

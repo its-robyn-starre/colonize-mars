@@ -1,11 +1,10 @@
 {
   "title": "Renewable Water",
   "description": [
-    "TODO: FIX THIS. MELTER RUNS ON EMBER WHICH WE DONT HAVE YET",
     "Need water? Not to worry! You can dig up snow for an infinite supply."
   ],
-  "x": 6,
-  "y": 4,
+  "x": 8,
+  "y": 2,
   "deps": {
     "all": [
       "ice_and_fire/ember_bore"

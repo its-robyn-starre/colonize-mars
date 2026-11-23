@@ -1,0 +1,20 @@
+{
+  "title": "Flower Power",
+  "x": 2,
+  "deps": {
+    "all": [
+      "ice_and_fire/dude__i_can_taste_color"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "botania:apothecary_fungal",
+      "type": "item"
+    },
+    {
+      "tag": "botania:seed_apothecary_reagent",
+      "type": "item"
+    }
+  ],
+  "size": 1.34
+}

@@ -46,7 +46,17 @@
         "botania:misc/azulejo",
         "botania:misc/head_creating",
         "botania:basics/lexicon",
-        "botania:tools/grass_seeds"
+        "botania:tools/grass_seeds",
+        "botania:functional_flowers/bellethorne",
+        "botania:botania_extras/iridescent_grass",
+        "botania:generating_flowers/narslimmus",
+        "botania:functional_flowers/orechid_ignem",
+        "botania:misc/shiny_flowers",
+        "botania:devices/teru_teru_bozu",
+        "botania:botania_extras/bifrost_flowers",
+        "botania:botania_extras/crysanthermum",
+        "botania:functional_flowers/spectranthemum",
+        "botania:ender/flight_tiara"
       ],
       "bookmarks": [],
       "completedManualQuests": []

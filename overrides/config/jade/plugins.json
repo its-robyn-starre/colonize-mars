@@ -52,6 +52,10 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "agricraft": {
+    "soil": true,
+    "crop_block": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -110,21 +114,16 @@
     "functional_flower": true,
     "mana_bar_color": "#0095FF"
   },
-  "silentgear_jade_tiers": {
-    "required_tier": true
+  "sporenexus": {
+    "mushroom_harvester": true,
+    "mushroom_growth": true,
+    "growth_accelerator": true
   },
   "hammerlib": {
     "root": true
   },
-  "hephaestus": {
-    "melter_progress": true,
-    "smeltery_progress": true
-  },
   "embersquesting": {
     "quest_block": true
-  },
-  "productivemetalworks": {
-    "casting": true
   },
   "supplementaries": {
     "hat_stand": true

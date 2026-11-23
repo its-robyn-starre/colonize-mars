@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "pJGcKPh1",
       "slug": "corpse-x-curios-api-compat",
-      "versionId": "zrZBuGfY",
-      "versionNumber": "3.1.3",
-      "filename": "corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/pJGcKPh1/versions/zrZBuGfY/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
-      "sha1": "2aa5e83940a26c6e529e58a3a8a0260df3078c6d",
-      "sha512": "a0d63bf5b37b6315e078513fe67c8297ab36e451b7ef57e73ea16d9879c3aa09d45f7052905c481fc298003df656ead65e3e1349174901983bc66e088d158c16",
-      "fileSize": 24683
+      "versionId": "hTWoiitP",
+      "versionNumber": "4.2.1",
+      "filename": "corpsecurioscompat-1.21.1-NeoForge-4.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pJGcKPh1/versions/hTWoiitP/corpsecurioscompat-1.21.1-NeoForge-4.2.1.jar",
+      "sha1": "2461e8df65eb46810ed15ca0771e8fcdaa28edef",
+      "sha512": "4f6d25bc63d3881ef77ee2adc0d5e776c85707be301b41e7a41c324389e4c9f2ccde144f5904617d2bb072016d63cc2633e0781a1b0607d6f2a6062fb7e3e848",
+      "fileSize": 24162
     }
   },
   "dependents": [],

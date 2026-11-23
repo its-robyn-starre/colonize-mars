@@ -1,0 +1,59 @@
+
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+        "type": "lithostitched:weighted",
+        "entries": [
+            {
+                "data": {
+                    "type": "minecraft:simple_state_provider",
+                    "state": {
+                        "Name": "supplementaries:cannonball",
+                        "Properties": {
+                            "balls": "1"
+                        }
+                    }
+                },
+                "weight": 8
+            },
+            {
+                "data": {
+                    "type": "minecraft:simple_state_provider",
+                    "state": {
+                        "Name": "supplementaries:cannonball",
+                        "Properties": {
+                            "balls": "2"
+                        }
+                    }
+                },
+                "weight": 4
+            },
+            {
+                "data": {
+                    "type": "minecraft:simple_state_provider",
+                    "state": {
+                        "Name": "supplementaries:cannonball",
+                        "Properties": {
+                            "balls": "3"
+                        }
+                    }
+                },
+                "weight": 2
+            },
+            {
+                "data": {
+                    "type": "minecraft:simple_state_provider",
+                    "state": {
+                        "Name": "supplementaries:cannonball",
+                        "Properties": {
+                            "balls": "4"
+                        }
+                    }
+                },
+                "weight": 1
+            }
+        ]
+    }
+  }
+}

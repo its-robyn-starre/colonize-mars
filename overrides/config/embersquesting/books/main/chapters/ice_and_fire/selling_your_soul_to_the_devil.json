@@ -50,9 +50,9 @@
       "type": "scene"
     }
   ],
-  "icon": "hauntfurnace:haunt_furnace",
-  "x": 3,
-  "y": 3,
+  "icon": "modernfoundry:scorched_soul_glass_pane",
+  "x": 4,
+  "y": 4,
   "deps": {
     "all": [
       "ice_and_fire/renwable_potatoes",

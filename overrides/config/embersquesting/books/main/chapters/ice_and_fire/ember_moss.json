@@ -1,0 +1,19 @@
+{
+  "title": "Ember Moss",
+  "x": 4,
+  "deps": {
+    "all": [
+      "ice_and_fire/flower_power"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "witchery:ember_moss",
+      "type": "item"
+    },
+    {
+      "item": "embers:ember_shard",
+      "type": "item"
+    }
+  ]
+}

@@ -8,12 +8,12 @@
     "curseforge": {
       "id": "1725641",
       "slug": "botania-revived",
-      "versionId": "9545418",
-      "versionNumber": "BotaniaRevived-1.21.1-2.0.1-NeoForge",
-      "filename": "Botania-Revived-1.21.1-2.0.1-NeoForge.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9545/418/Botania-Revived-1.21.1-2.0.1-NeoForge.jar",
-      "sha1": "efe93bbf6587d50e30924b0e9facb9a6af3ef78f",
-      "fileSize": 15018590
+      "versionId": "9695259",
+      "versionNumber": "BotaniaRevived-1.21.1-2.0.4-NeoForge",
+      "filename": "Botania-Revived-1.21.1-2.0.4-NeoForge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9695/259/Botania-Revived-1.21.1-2.0.4-NeoForge.jar",
+      "sha1": "00ebd14c970335dc695c06631cbd299dff12a60c",
+      "fileSize": 15053199
     }
   },
   "dependents": [],

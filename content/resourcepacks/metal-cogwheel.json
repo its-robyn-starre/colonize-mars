@@ -1,0 +1,22 @@
+{
+  "name": "Metal Cogwheel",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "917828",
+      "slug": "metal-cogwheel",
+      "versionId": "4777391",
+      "versionNumber": "Metal Cogwheel(Industrial Iron).zip",
+      "filename": "Metal Cogwheel(Industrial Iron).zip",
+      "downloadUrl": "https://edge.forgecdn.net/files/4777/391/Metal%20Cogwheel(Industrial%20Iron).zip",
+      "sha1": "f1c21f3b6a730da148726de69b30623caa600962",
+      "fileSize": 7908
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

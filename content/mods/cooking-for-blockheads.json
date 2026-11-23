@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "vJnhuDde",
       "slug": "cooking-for-blockheads",
-      "versionId": "MQCIy6VF",
-      "versionNumber": "21.1.24+neoforge-1.21.1",
-      "filename": "cookingforblockheads-neoforge-1.21.1-21.1.24.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/vJnhuDde/versions/MQCIy6VF/cookingforblockheads-neoforge-1.21.1-21.1.24.jar",
-      "sha1": "7494e5650d13f178c6b0f21b30345ee70d1f2b13",
-      "sha512": "bec8bb71b9540fd33bd4e5d1e5f151abc03c4fb97f1477f690d222c9710eabed876e5b2380a37bfdbc24649e1f66d8c963f13e6e738a336e9a0fdc88012d8447",
-      "fileSize": 1266042
+      "versionId": "ZjiYlt4A",
+      "versionNumber": "21.1.25+neoforge-1.21.1",
+      "filename": "cookingforblockheads-neoforge-1.21.1-21.1.25.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vJnhuDde/versions/ZjiYlt4A/cookingforblockheads-neoforge-1.21.1-21.1.25.jar",
+      "sha1": "aa09d3801fa6534a07ae1572fece23ca7f5ff852",
+      "sha512": "46e666189f3120519a84a583f64ea9d3255e3d3a1a5cea71554dd9914e0fb870d7a98967b30e117f964e045201f203693e360eb9c18a8663dd71e2b1a4ff71b4",
+      "fileSize": 1266873
     }
   },
   "dependents": [],

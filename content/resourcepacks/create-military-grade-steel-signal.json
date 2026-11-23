@@ -1,0 +1,23 @@
+{
+  "name": "CMG:SS",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qKfTn3kW",
+      "slug": "create-military-grade-steel-signal",
+      "versionId": "H31pKNqc",
+      "versionNumber": "2.0.0",
+      "filename": "CMGSS 2.0.0 neo.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/qKfTn3kW/versions/H31pKNqc/CMGSS%202.0.0%20neo.zip",
+      "sha1": "953d6c630aec9a02a092402ee3dcd53dbb993cf7",
+      "sha512": "f591762ac01733afc83e7469f460673f49655453e1425ca36a6ef262aba85ef258fb92a4c2a335921a10d1ad10ae70f8357b792d3fbf586c7581bf935010bb78",
+      "fileSize": 1456780
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

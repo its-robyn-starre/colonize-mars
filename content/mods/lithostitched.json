@@ -1,7 +1,7 @@
 {
   "name": "Lithostitched",
   "side": "auto",
-  "explicit": false,
+  "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
@@ -17,9 +17,7 @@
       "fileSize": 1023751
     }
   },
-  "dependents": [
-    "LCO8KZvC"
-  ],
+  "dependents": [],
   "clientSide": "unsupported",
   "serverSide": "required"
 }

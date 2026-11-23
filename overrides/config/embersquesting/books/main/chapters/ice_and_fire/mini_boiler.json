@@ -1,0 +1,14 @@
+{
+  "title": "Mini Boiler",
+  "x": -1,
+  "y": -2,
+  "aliases": [
+    "ice_and_fire/boiler"
+  ],
+  "tasks": [
+    {
+      "item": "embers:mini_boiler",
+      "type": "item"
+    }
+  ]
+}

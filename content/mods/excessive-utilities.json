@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "zI2FlF4Q",
       "slug": "excessive-utilities",
-      "versionId": "eCzEtY1x",
-      "versionNumber": "1.11.0-build.69",
-      "filename": "excessive-utilities-1.21.1-1.11.0-build.69.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/zI2FlF4Q/versions/eCzEtY1x/excessive-utilities-1.21.1-1.11.0-build.69.jar",
-      "sha1": "d8a0b71b26b271e53ec86e2725fbccf50f472a34",
-      "sha512": "4f3811588428c536cbec8c8f2e1afb0cf9ad8a67073aad983ee447e49dd3b3eedadd6a3564d4044f41acd50812942da28cb1139c639fa64a24fbbf2e84259673",
-      "fileSize": 17600432
+      "versionId": "bekfrB2h",
+      "versionNumber": "1.12.0-build.77",
+      "filename": "excessive-utilities-1.21.1-1.12.0-build.77.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zI2FlF4Q/versions/bekfrB2h/excessive-utilities-1.21.1-1.12.0-build.77.jar",
+      "sha1": "b9d26e6fbff1b2b26f7f0bce8de231cd3cb0f9cd",
+      "sha512": "cf07e581d80bd788f7aa8ea02de4a287d64ec3ea95ad102978b095f31014675be071daee45aaac9dd4e140a3cf97a0a2f58294bdf5e0f8ad889c547fd5f76047",
+      "fileSize": 17638229
     }
   },
   "dependents": [],

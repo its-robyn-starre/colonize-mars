@@ -122,3 +122,39 @@ ServerEvents.generateData('after_mods', event => {
       }
     )
 })
+// kubejsstudio custom: embers:mixing/dwarven_oil_steam
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'embers:recipe/mixing/dwarven_oil_steam',
+      {
+        "type": "embers:mixing",
+        "inputs": [
+          {"amount":5,"fluid":"modernfoundry:liquid_soul"},
+          {"amount":20,"tag":"c:steam"}
+        ],
+        "output": {"amount":10,"fluid":"embers:dwarven_oil"}
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:mycelite_from_rotten
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/mycelite_from_rotten',
+      {
+        "type": "kubejs:shapeless",
+        "result": {"id":"botania:metamorphic_fungal_cobblestone","count":1},
+        "ingredients": [
+          {"item":"ad_astra:conglomerate"},
+          {"item":"embers:caminite_blend"},
+          [
+            {"item":"farmersdelight:rotten_tomato"},
+            {"item":"minecraft:poisonous_potato"}
+          ]
+        ],
+        "_kubejs_changed_marker": {
+          "source": "server_scripts:kubejsstudio/recipes.js",
+          "line": 28
+        }
+      }
+    )
+})

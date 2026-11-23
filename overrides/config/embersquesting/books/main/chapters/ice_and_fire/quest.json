@@ -1,0 +1,19 @@
+{
+  "title": "",
+  "x": 5,
+  "y": 1,
+  "tasks": [
+    {
+      "item": "embers:ember_activator",
+      "type": "item"
+    },
+    {
+      "item": "embers:ember_emitter",
+      "type": "item"
+    },
+    {
+      "item": "embers:ember_receiver",
+      "type": "item"
+    }
+  ]
+}

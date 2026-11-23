@@ -4,6 +4,7 @@
     "You can grow some colorful new mushrooms by using some Floral Fertilizer on your mycelite!"
   ],
   "x": 3,
+  "y": 2,
   "deps": {
     "all": [
       "ice_and_fire/infested_stone"

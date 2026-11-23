@@ -1,4 +1,6 @@
 {
+  "agricraft:crop_block": null,
+  "agricraft:soil": null,
   "balm:jade": null,
   "botania:alfheim_portal": null,
   "botania:brewery": null,
@@ -94,6 +96,9 @@
   "minecraft:zombie_villager": null,
   "productivemetalworks:casting": null,
   "silentgear_jade_tiers:required_tier": null,
+  "sporenexus:growth_accelerator": null,
+  "sporenexus:mushroom_growth": null,
+  "sporenexus:mushroom_harvester": null,
   "supplementaries:hat_stand": null,
   "supplementaries:present": null,
   "supplementaries:safe": null

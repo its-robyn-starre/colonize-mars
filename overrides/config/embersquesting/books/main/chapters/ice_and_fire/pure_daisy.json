@@ -1,0 +1,16 @@
+{
+  "title": "Pure Daisy",
+  "x": 3,
+  "y": -1,
+  "deps": {
+    "all": [
+      "ice_and_fire/flower_power"
+    ]
+  },
+  "tasks": [
+    {
+      "item": "botania:pure_daisy",
+      "type": "item"
+    }
+  ]
+}
