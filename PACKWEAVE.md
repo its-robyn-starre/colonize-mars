@@ -1,6 +1,6 @@
 # colonize mars
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 89 mods (14 dependencies), 3 resource packs
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 93 mods (14 dependencies), 3 resource packs
 
 ## Contents
 
@@ -8,7 +8,6 @@
 - [Ad Astra](https://modrinth.com/project/ad-astra) `1.16.26`
 - [Advanced Core Info (ACI)](https://modrinth.com/project/advanced-core-info) `1.21.1-1.5.0`
 - [Advanced Loot Info (ALI)](https://modrinth.com/project/advanced-loot-info) `1.21.1-2.5.0`
-- [AgriCraft ReReloaded](https://www.curseforge.com/projects/1616052) `AgriCraft-neoforge-1.21.1-4.0.29.jar`
 - [Akashic Tome](https://modrinth.com/project/akashic-tome) `1.21.1-1.8-30`
 - [AntiFreeze](https://modrinth.com/project/anti-freeze) `2.0.0`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.12+neoforge`
@@ -32,13 +31,11 @@
 - [Delight Lib](https://modrinth.com/project/delight-lib) `26.05.18-1.21-neoforge`
 - [Desertification](https://modrinth.com/project/desertification) `0.42.4`
 - [Ecliptic Seasons](https://modrinth.com/project/ecliptic-seasons) `0.15.5.1`
-- [Ember's Questing](https://www.curseforge.com/projects/1752806) `Ember's Questing 1.10.0 (NeoForge 1.21.1)`
 - [Embers Re-Ignited](https://modrinth.com/project/embers-re-ignited) `1.21.1-1.5.9`
-- [Embers Text API](https://modrinth.com/project/embers-text-api) `3.0.5+neoforge-1.21.1`
 - [Engineers Delight](https://www.curseforge.com/projects/861437) `engineers_delight-neoforge-1.21.1-2.0.1.jar`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.12.2`
 - [Excessive Utilities](https://modrinth.com/project/excessive-utilities) `1.12.0-build.77`
-- [Extra Delight](https://www.curseforge.com/projects/842106) `extradelight-2.7.2.jar`
+- [ExtraDelight](https://modrinth.com/project/extradelight) `2.6.6`
 - [FancyMenu](https://modrinth.com/project/fancymenu) `3.11.0-1.21.1-neoforge`
 - [Farmer's Delight](https://www.curseforge.com/projects/398521) `Farmer's Delight 1.3.4 - 1.21.1`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
@@ -46,17 +43,24 @@
 - [Forestry: CE](https://www.curseforge.com/projects/1056828) `Forestry: CE 1.21.1-3.0.0-alpha9`
 - [Forestry: CE - Farms](https://www.curseforge.com/projects/1658912) `Forestry: CE - Farms 3.0.0-alpha9`
 - [Forestry: CE - Mail](https://www.curseforge.com/projects/1657614) `Forestry: CE - Mail 3.0.0-alpha9`
+- [Framework](https://www.curseforge.com/projects/549225) `Framework 0.13.11`
+- [FTB Filter System](https://www.curseforge.com/projects/943925) `[NEOFORGE][1.21.1] FTB Filter System 21.1.5`
+- [FTB Library (NeoForge)](https://www.curseforge.com/projects/404465) `[NEOFORGE][1.21.1] FTB Library 2101.1.40`
+- [FTB Quests (NeoForge)](https://www.curseforge.com/projects/289412) `[NEOFORGE][1.21.1] FTB Quests 2101.1.39`
+- [FTB Teams (NeoForge)](https://www.curseforge.com/projects/404468) `[NEOFORGE][1.21.1] FTB Teams 2101.1.12`
+- [FTB XMod Compat](https://www.curseforge.com/projects/889915) `[NEOFORGE][1.21.1] FTB XMod Compat 21.1.14`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.4`
 - [GuideME](https://modrinth.com/project/guideme) `21.1.22`
 - [HammerLib](https://modrinth.com/project/hammer-lib) `21.1.21`
 - [Haunt Furnace](https://modrinth.com/project/haunt-furnace) `0.5.9-1.21.1`
+- [Hilt](https://modrinth.com/project/hilt) `1.13`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
 - [Immersive Engineering](https://modrinth.com/project/immersiveengineering) `12.4.2-194`
 - [Immersive Petroleum](https://modrinth.com/project/immersivepetroleum) `4.5.0-39`
 - [In Control!](https://modrinth.com/project/in-control) `1.21-10.3.1`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [Just Enough Immersive Multiblocks](https://modrinth.com/project/jei-multiblocks) `1.21.1-1.0.6`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.468`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.64.0.455`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.13.0`
 - [KubeJS Studio](https://www.curseforge.com/projects/1597398) `KubeJS Studio 1.3.0 (NeoForge 1.21.1)`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
@@ -66,14 +70,13 @@
 - [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
 - [Masterful Machinery Upgraded](https://www.curseforge.com/projects/1643402) `MasterfulMachinery-1.21.1-0.18.1.jar`
 - [Metal Cogwheel](https://www.curseforge.com/projects/917828) `Metal Cogwheel(Industrial Iron).zip`
-- [MezzConfig](https://modrinth.com/project/mezzconfig) `0.6.10`
+- [MezzConfig](https://modrinth.com/project/mezzconfig) `0.7.1`
 - [Modern Foundry](https://modrinth.com/project/modern-foundry) `1.21.1-4.1.6-NeoForge`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - [Modpack Assistant](https://www.curseforge.com/projects/1679492) `[1.21.1] Modpack Assistant 1.0.9`
 - [ModPack-Tools](https://modrinth.com/project/modpack-tools) `1.0.0`
 - [More Delight (for Farmer's Delight)](https://modrinth.com/project/more-delight) `26.05.20a-1.21-neoforge`
 - [More Immersive Wires](https://modrinth.com/project/more-immersive-wires) `1.21.1-1.1.9`
-- [More Sniffer Flowers](https://modrinth.com/project/more-sniffer-flowers) `6.8`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Oracle Index](https://modrinth.com/project/oracle-index) `1.4.1`
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.4+1.21.1-neoforge`
@@ -86,6 +89,7 @@
 - [Resourceful Config](https://modrinth.com/project/resourceful-config) `3.0.11`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
 - [ResourceIgnorer](https://modrinth.com/project/resourceignorer) `1.0.0`
+- [Scorched Guns Neoforged](https://modrinth.com/project/scorched-guns-neoforged) `1.5`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Spice of Life: Valheim Reforged](https://modrinth.com/project/spice-of-life-valheim-reforged) `1.1.7`

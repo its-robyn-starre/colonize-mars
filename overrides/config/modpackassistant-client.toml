@@ -1,0 +1,3 @@
+[display]
+	#Draw barrier blocks as a see-through red cube at all times. Set in game with /mpa showBarriers on or off.
+	show_barriers = false

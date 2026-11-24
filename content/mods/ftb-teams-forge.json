@@ -1,0 +1,24 @@
+{
+  "name": "FTB Teams (NeoForge)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "404468",
+      "slug": "ftb-teams-forge",
+      "versionId": "9434081",
+      "versionNumber": "[NEOFORGE][1.21.1] FTB Teams 2101.1.12",
+      "filename": "ftb-teams-neoforge-2101.1.12.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9434/81/ftb-teams-neoforge-2101.1.12.jar",
+      "sha1": "9c831fbbbccf2178827c3ccf278b2f2a0ce57306",
+      "fileSize": 308430
+    }
+  },
+  "dependents": [
+    "289412"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

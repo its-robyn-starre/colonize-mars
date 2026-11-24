@@ -1,0 +1,22 @@
+{
+  "name": "FTB Filter System",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "943925",
+      "slug": "ftb-filter-system",
+      "versionId": "9698388",
+      "versionNumber": "[NEOFORGE][1.21.1] FTB Filter System 21.1.5",
+      "filename": "ftb-filter-system-neoforge-21.1.5.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9698/388/ftb-filter-system-neoforge-21.1.5.jar",
+      "sha1": "77181915b5850f6e6685f4a3145b0dce84e01f73",
+      "fileSize": 228337
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

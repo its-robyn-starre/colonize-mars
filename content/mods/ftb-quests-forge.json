@@ -1,0 +1,25 @@
+{
+  "name": "FTB Quests (NeoForge)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "289412",
+      "slug": "ftb-quests-forge",
+      "versionId": "9650792",
+      "versionNumber": "[NEOFORGE][1.21.1] FTB Quests 2101.1.39",
+      "filename": "ftb-quests-neoforge-2101.1.39.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9650/792/ftb-quests-neoforge-2101.1.39.jar",
+      "sha1": "d5a0de6ad0517fd843ea830b49b06287c0686906",
+      "fileSize": 1670999
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "889915"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

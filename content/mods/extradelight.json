@@ -1,19 +1,20 @@
 {
-  "name": "Extra Delight",
+  "name": "ExtraDelight",
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "curseforge",
+  "preferred": "modrinth",
   "sources": {
-    "curseforge": {
-      "id": "842106",
+    "modrinth": {
+      "id": "yRrY3XII",
       "slug": "extradelight",
-      "versionId": "9672972",
-      "versionNumber": "extradelight-2.7.2.jar",
-      "filename": "extradelight-2.7.2.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9672/972/extradelight-2.7.2.jar",
-      "sha1": "4b543ab53a09304481d29ea663328d91346f48f7",
-      "fileSize": 11569224
+      "versionId": "1SSgrmDa",
+      "versionNumber": "2.6.6",
+      "filename": "extradelight-2.6.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/yRrY3XII/versions/1SSgrmDa/extradelight-2.6.6.jar",
+      "sha1": "a04ddf96b39a0f909d4184d326cc09c54650737d",
+      "sha512": "39ac6beee0111d45abab3129f275d7f342edb993528d7045538fa42369d995cb4a1b292d271e21ccfe25f822420ebd9e4896beb6028c65b98f891303951219b8",
+      "fileSize": 10959956
     }
   },
   "dependents": [],

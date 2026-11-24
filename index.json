@@ -34,7 +34,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "83668e8f0f810d07d82936eddb121a7ab50d8c74"
+      "sha1": "267a96c629eb4de02c42b58c8dc2acf1297dd7b9"
     },
     {
       "path": "content/mods/athena-ctm.json",
@@ -117,16 +117,8 @@
       "sha1": "364d3a8bb0443e241282a6de85a5931a1f28e1a8"
     },
     {
-      "path": "content/mods/embers-questing.json",
-      "sha1": "4e5dc475a6bc076e62ac7bbdc0f7eb1bcd174fc9"
-    },
-    {
       "path": "content/mods/embers-re-ignited.json",
       "sha1": "31b77b45631ff5891e3c13de4259459305affad5"
-    },
-    {
-      "path": "content/mods/embers-text-api.json",
-      "sha1": "9dcff5a3e6bfe05bf62d320ad39568a3f5fc9d36"
     },
     {
       "path": "content/mods/engineers-delight.json",
@@ -142,7 +134,7 @@
     },
     {
       "path": "content/mods/extradelight.json",
-      "sha1": "cc8418a81915857c258af2b006e2fbd249e7d81b"
+      "sha1": "d4fe10f7076e73f7931ed7ef820182dbde14bf97"
     },
     {
       "path": "content/mods/fancymenu.json",
@@ -150,7 +142,7 @@
     },
     {
       "path": "content/mods/farmers-delight.json",
-      "sha1": "66996f1d07a7ee0df2726af4ca1e8b0a55387f15"
+      "sha1": "235ed57754aa7df2078b914ef707757a5f737dcf"
     },
     {
       "path": "content/mods/ferrite-core.json",
@@ -173,6 +165,30 @@
       "sha1": "9ac02fa10a2febdc25028de15ae8d9952304309b"
     },
     {
+      "path": "content/mods/framework.json",
+      "sha1": "cd52ba7e3d483140ff967b31fd839970aed05f70"
+    },
+    {
+      "path": "content/mods/ftb-filter-system.json",
+      "sha1": "3660347425d3527fcaa11d922bfa98b296c78451"
+    },
+    {
+      "path": "content/mods/ftb-library-forge.json",
+      "sha1": "cb59bcd96cfa0a15df43ef1d4c514c2fea63b4fc"
+    },
+    {
+      "path": "content/mods/ftb-quests-forge.json",
+      "sha1": "2ba566082568b4844cfd6d8b18eb44fae034c79b"
+    },
+    {
+      "path": "content/mods/ftb-teams-forge.json",
+      "sha1": "4ebcc563d53c48be55a8a09c69023c623b460e32"
+    },
+    {
+      "path": "content/mods/ftb-xmod-compat.json",
+      "sha1": "985c0c92c57f6785cd5853c6723bcf845ebb5782"
+    },
+    {
       "path": "content/mods/geckolib.json",
       "sha1": "cc313599efcd09d60e669992727e197b8645df70"
     },
@@ -187,6 +203,10 @@
     {
       "path": "content/mods/haunt-furnace.json",
       "sha1": "6a44d892bec3373e84d35fe3e975bab9808e295f"
+    },
+    {
+      "path": "content/mods/hilt.json",
+      "sha1": "0643df4bef0874d7e1829fcc9213f13840a16c2c"
     },
     {
       "path": "content/mods/immediatelyfast.json",
@@ -214,7 +234,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "dbd625371e664d9eca718bf4fe5ea03d62f1257b"
+      "sha1": "408d4b554497c34999a838215174c0c2714d920f"
     },
     {
       "path": "content/mods/konkrete.json",
@@ -226,7 +246,7 @@
     },
     {
       "path": "content/mods/kubejs-2.json",
-      "sha1": "e8a35acee07222f96338c501396675d568330097"
+      "sha1": "9cdc4930da054e86973f3b747fd7ee4bfcba9984"
     },
     {
       "path": "content/mods/kubejs-studio.json",
@@ -234,7 +254,7 @@
     },
     {
       "path": "content/mods/kubejs.json",
-      "sha1": "e07ee392ec70fd606d5959e37d0e2d60e63489e3"
+      "sha1": "c3699fe0630528567b3053763ad3ac783983ea3a"
     },
     {
       "path": "content/mods/lambdynamiclights.json",
@@ -266,7 +286,7 @@
     },
     {
       "path": "content/mods/mezzconfig.json",
-      "sha1": "d2e688333d196659cb02fb996941660884120559"
+      "sha1": "4409b283bd8f1524792a0887e32bb7c4691ee4b1"
     },
     {
       "path": "content/mods/midnightlib.json",
@@ -342,7 +362,7 @@
     },
     {
       "path": "content/mods/resourceful-config.json",
-      "sha1": "43c73e5800bbc15ad93fa9736605acf87ed1f42c"
+      "sha1": "10b4d075c1e7b8bbb40fdece82fef2c623673690"
     },
     {
       "path": "content/mods/resourceful-lib.json",
@@ -359,6 +379,10 @@
     {
       "path": "content/mods/rhino.json",
       "sha1": "f082316c370a23c9e3a9b82c635b0dbff48e8772"
+    },
+    {
+      "path": "content/mods/scorched-guns-neoforged.json",
+      "sha1": "bfffd6732c0fb07d9134af694869f8870d76a52e"
     },
     {
       "path": "content/mods/searchables.json",
@@ -538,7 +562,7 @@
     },
     {
       "path": "overrides/config/corpsecurioscompat-common.toml",
-      "sha1": "f3576811902e4d45d3182179072130ef414e0966"
+      "sha1": "a334a293c84b2cd92c868c85284fe395f0aa95c2"
     },
     {
       "path": "overrides/config/create-client.toml",
@@ -586,11 +610,11 @@
     },
     {
       "path": "overrides/config/eclipticseasons-common.toml",
-      "sha1": "51f13802739c3f13d721e7ba9e4cccefc8ecb858"
+      "sha1": "a7c13c65b7d762c79a80d5f54222328f28c5067d"
     },
     {
       "path": "overrides/config/eclipticseasons-mixins.toml",
-      "sha1": "dad3d9b460c32e2e008d57868361a77753a8e2f0"
+      "sha1": "b62299036dcaa84346deae4adbcc934fdd60ea07"
     },
     {
       "path": "overrides/config/eclipticseasons-startup.toml",
@@ -762,7 +786,7 @@
     },
     {
       "path": "overrides/config/embersquesting/client.json",
-      "sha1": "91d5dca6c5d4c4bc69f67f2a9d51aaac80d50a38"
+      "sha1": "be2530519cf5b42724a44e3c8bfea7f28fe84160"
     },
     {
       "path": "overrides/config/embersquesting/collapsed_groups.json",
@@ -801,8 +825,12 @@
       "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
     },
     {
+      "path": "overrides/config/embersquesting/previews/sp_worldgen_test_27be0adc.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
       "path": "overrides/config/embersquesting/problems.txt",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      "sha1": "33af5267f2e2f12d75bdc287d0b3b27a7e2cc56a"
     },
     {
       "path": "overrides/config/embersquesting/seen_quests.json",
@@ -854,7 +882,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "7e5bc18f7934d7243c1318913251f34bb9949b10"
+      "sha1": "51fe82b1a0d100ee99f333339244adfa8470ec4c"
     },
     {
       "path": "overrides/config/fancymenu/custom_gui_screens.txt",
@@ -870,7 +898,7 @@
     },
     {
       "path": "overrides/config/fancymenu/options.txt",
-      "sha1": "d54e458af5c1fbbc9e0c772675763d6b0e1b032c"
+      "sha1": "b4d2f796a8ac61d08fe96781f5543af09326e913"
     },
     {
       "path": "overrides/config/fancymenu/ui_themes/cherry_blossom.json",
@@ -882,7 +910,7 @@
     },
     {
       "path": "overrides/config/fancymenu/ui_themes/dark.json",
-      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558"
+      "sha1": "50cf262abee1419409064d3f3cb08771eff71318"
     },
     {
       "path": "overrides/config/fancymenu/ui_themes/dark_high_contrast.json",
@@ -945,16 +973,48 @@
       "sha1": "f25d36c1b8d5a6436d77930e1622504f94312097"
     },
     {
+      "path": "overrides/config/ftblibrary-client.snbt",
+      "sha1": "355b47b89111cd0484da7d8f58c1e5bfccdb0210"
+    },
+    {
+      "path": "overrides/config/ftbquests-client.snbt",
+      "sha1": "11b4ddbe19980a0188b9a63a99fd8a1a727c9750"
+    },
+    {
+      "path": "overrides/config/ftbquests/quests/chapter_groups.snbt",
+      "sha1": "c0ce55de601b8186261ff390babe1a0db17b3846"
+    },
+    {
+      "path": "overrides/config/ftbquests/quests/chapters/hot_bricks_in_your_area.snbt",
+      "sha1": "f57a59943b07d070733fb30bc82a8ab856d9b43a"
+    },
+    {
+      "path": "overrides/config/ftbquests/quests/data.snbt",
+      "sha1": "ad2a34516bf71545085c22b22d6de53767bd5ada"
+    },
+    {
+      "path": "overrides/config/ftbquests/quests/lang/en_us.snbt",
+      "sha1": "042ea37da7a25acb4bb2b94f7ca379689abc683c"
+    },
+    {
+      "path": "overrides/config/ftbteams-server.snbt",
+      "sha1": "a2faae164b7c2e348a10b4761979297c289a192e"
+    },
+    {
       "path": "overrides/config/guideme.toml",
       "sha1": "8a311cab983d7ea0ebdc1566ec885c17c7f11f93"
     },
     {
+      "path": "overrides/config/gun_scaling/main.toml",
+      "sha1": "97a068a9f11faf9d0c7ddd9c99fa2f17e5808ef1"
+    },
+    {
       "path": "overrides/config/hammerlib/foil_colors.json",
-      "sha1": "2d5e4bed4d41de66e4f2c640ddc20e41875e5e4a"
+      "sha1": "dc1355958635560c0c3fdfa47a379faab16b38c7"
     },
     {
       "path": "overrides/config/hammerlib/main.cfg",
-      "sha1": "5daca022922c2a62d1387651f57c78ca32eab112"
+      "sha1": "12ffdad8a05e597c5e3a86b0ac571ee2f060f7cf"
     },
     {
       "path": "overrides/config/hammerlib/recipes/modded/hammerlib.json",
@@ -1102,7 +1162,7 @@
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-mod-sort-order.ini",
-      "sha1": "d362da02f919ee04ec7c1365d061aad21a03d8d8"
+      "sha1": "0da24433fda44fadb0a5d02050e8d1f65ac4afa6"
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-type-sort-order.ini",
@@ -1114,7 +1174,7 @@
     },
     {
       "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
-      "sha1": "e63c81b0eab88830fd8e1e057e3de242b5f6fe5a"
+      "sha1": "c99c2517ae2257739120530c027c71034e3a02d6"
     },
     {
       "path": "overrides/config/jei/server/world/default/jei-server.ini",
@@ -1281,6 +1341,10 @@
       "sha1": "7b3c6477a86c975e2af2c25c3cb13d63386d18cc"
     },
     {
+      "path": "overrides/config/modpackassistant-client.toml",
+      "sha1": "9fcf19a8e8a259a0437e771ef469397bc17d2657"
+    },
+    {
       "path": "overrides/config/modpackassistant-common.toml",
       "sha1": "39b035f11ee2de9c3476ce4020be4fa0f5cd250b"
     },
@@ -1373,7 +1437,7 @@
       "sha1": "c24a0c8204ebf3f29a475b8157416b0fb233f1ba"
     },
     {
-      "path": "overrides/config/reliable_remover/unify_soulcrude.json",
+      "path": "overrides/config/reliable_remover/unify_ashbrick.json",
       "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
     },
     {
@@ -1387,6 +1451,18 @@
     {
       "path": "overrides/config/respackopts/_respackopts.conf",
       "sha1": "2f86c375605ccaaa40e96eb3c959f75a41454326"
+    },
+    {
+      "path": "overrides/config/scguns-client.toml",
+      "sha1": "ce6b355dfc8de0967fd456e03a1dc5bf3475f53b"
+    },
+    {
+      "path": "overrides/config/scguns-common.toml",
+      "sha1": "23afe186e87cf3f3b5cfeb38cd0ea452e089a2d6"
+    },
+    {
+      "path": "overrides/config/scguns-server.toml",
+      "sha1": "d35f95c6de1b616bee8bbc14f4b516db240986fb"
     },
     {
       "path": "overrides/config/silentgear-client.toml",
@@ -1446,11 +1522,11 @@
     },
     {
       "path": "overrides/config/supplementaries-client.toml",
-      "sha1": "a2229fda11749beda7dfe9fbe4725135c2eff762"
+      "sha1": "d9474d389eae15ebbd942a9cd95bc49f2206b7c7"
     },
     {
       "path": "overrides/config/supplementaries-common.toml",
-      "sha1": "3b32112ce623058616a70046ceb45a642556a811"
+      "sha1": "56f0bcdd11c6e0a24d7093e8fded49f9e89ac243"
     },
     {
       "path": "overrides/config/test-config.json",
@@ -2066,7 +2142,7 @@
     },
     {
       "path": "overrides/config/worldedit/worldedit.properties",
-      "sha1": "3e9fd976ee76d715297b2dbe9a9fd0fcfa0f255c"
+      "sha1": "9dbee0cf6bc5f43fa8d7a78bd3987d30c92b3f8d"
     },
     {
       "path": "overrides/config/xaero/lib/client.cfg",
@@ -2301,8 +2377,8 @@
       "sha1": "341459fcbb9a067b34087a440b1c7b6a8836173a"
     },
     {
-      "path": "overrides/kubejs/data/colonizemars/neoforge/biome_modifier/cannonballs.json",
-      "sha1": "40e89daffdaaeb5da4b4abc0d1198be12fa6f077"
+      "path": "overrides/kubejs/data/colonizemars/neoforge/biome_modifier/cannonball.json",
+      "sha1": "69228287ad8f7fdf5b77aad79c34b0927806d9aa"
     },
     {
       "path": "overrides/kubejs/data/colonizemars/worldgen/configured_feature/cannonball.json",
@@ -2365,6 +2441,10 @@
       "sha1": "d75f1ab47a4f4be62185276557ff420eb303ad8e"
     },
     {
+      "path": "overrides/xaero/minimap/idk/dim%0/waypoints.txt",
+      "sha1": "64d5d7ba4fd8e989d955a455eff56bd63d44c079"
+    },
+    {
       "path": "overrides/xaero/minimap/idk/dim%ad_astra$mars/waypoints.txt",
       "sha1": "451343489b6f19a09d40afd4fab4fd3b0fd409c0"
     },
@@ -2387,6 +2467,10 @@
     {
       "path": "overrides/xaero/minimap/testery/dim%ad_astra$mars/waypoints.txt",
       "sha1": "ee31dda150be3533fc6bf8e9a1270769cbbe21e9"
+    },
+    {
+      "path": "overrides/xaero/minimap/worldgen test/config.txt",
+      "sha1": "ff2db315dfdbee53a26e333550d387720f525020"
     },
     {
       "path": "overrides/xaero/world-map/New World/ad_astra$mars/.lock",
@@ -3137,7 +3221,7 @@
       "sha1": "96672a9cf890de6bcaf0be14b2edbbda31b86735"
     },
     {
-      "path": "overrides/xaero/world-map/idk/null/cache_1/-1_-1.xwmc",
+      "path": "overrides/xaero/world-map/idk/null/cache_1/-1_-1.xwmc.outdated",
       "sha1": "a6596be775d12413dd19dd9d7eb30b677f6963a6"
     },
     {
@@ -3145,11 +3229,11 @@
       "sha1": "8aa93f24e8c4a5c0dc3816013696623dd16934d7"
     },
     {
-      "path": "overrides/xaero/world-map/idk/null/cache_1/-1_0.xwmc",
+      "path": "overrides/xaero/world-map/idk/null/cache_1/-1_0.xwmc.outdated",
       "sha1": "f79f4f53ae7bf626a039dc8837fe37ca976f79ea"
     },
     {
-      "path": "overrides/xaero/world-map/idk/null/cache_1/0_-1.xwmc",
+      "path": "overrides/xaero/world-map/idk/null/cache_1/0_-1.xwmc.outdated",
       "sha1": "b1ebac4071ab6aa77dac59b56fa27d63fbe3e2c1"
     },
     {
@@ -3157,7 +3241,7 @@
       "sha1": "04b0f1a992eed839997d217c3e729108ba192640"
     },
     {
-      "path": "overrides/xaero/world-map/idk/null/cache_1/0_0.xwmc",
+      "path": "overrides/xaero/world-map/idk/null/cache_1/0_0.xwmc.outdated",
       "sha1": "bbe9648dd2db1a0229b600eb37910625432e5bcf"
     },
     {
@@ -3583,6 +3667,34 @@
     {
       "path": "overrides/xaero/world-map/testery/stellaris$mars/dimension_config.txt",
       "sha1": "b09b4f0846702fe2f86d78301c61794d613e6232"
+    },
+    {
+      "path": "overrides/xaero/world-map/worldgen test/ad_astra$mars/.lock",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/xaero/world-map/worldgen test/ad_astra$mars/cache_1/-1_-1.xwmc.outdated",
+      "sha1": "c00f6d03d927b46e6523be0a261a18f801763422"
+    },
+    {
+      "path": "overrides/xaero/world-map/worldgen test/ad_astra$mars/cache_1/-1_0.xwmc.outdated",
+      "sha1": "abe934f05d37b194f65e067c9dfd5b5669cfb81c"
+    },
+    {
+      "path": "overrides/xaero/world-map/worldgen test/ad_astra$mars/cache_1/0_-1.xwmc.outdated",
+      "sha1": "252973ec7f459dce65e2e250938015628b522fa9"
+    },
+    {
+      "path": "overrides/xaero/world-map/worldgen test/ad_astra$mars/cache_1/0_0.xwmc.outdated",
+      "sha1": "013dc65ac6801b1b5054863d40b23c4a6e68d054"
+    },
+    {
+      "path": "overrides/xaero/world-map/worldgen test/ad_astra$mars/dimension_config.txt",
+      "sha1": "db6eb516e9378f0835443d1a9c422d2de368e74a"
+    },
+    {
+      "path": "overrides/xaero/world-map/worldgen test/server_config.txt",
+      "sha1": "b9103342f657311fe8dfae4f81743abc34c09eb2"
     }
   ]
 }

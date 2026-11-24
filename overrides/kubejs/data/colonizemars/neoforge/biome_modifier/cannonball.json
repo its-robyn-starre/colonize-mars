@@ -5,5 +5,5 @@
         "ad_astra:martian_wastelands"
         ],
         "features": ["colonizemars:cannonball"],
-        "step": "local_modifications",
+        "step": "local_modifications"
     }
