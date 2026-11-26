@@ -1,4 +1,5 @@
 {
+	autofocus_id: "32E008E4B2BC7F24"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "hot_bricks_in_your_area"
@@ -29,6 +30,14 @@
 				id: "extradelight:jalapeno_stuffed_potato"
 			}
 			id: "1F42046CD1963186"
+			rewards: [{
+				id: "0FD7D2CF1BC5400A"
+				item: {
+					count: 1
+					id: "cookingforblockheads:recipe_book"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "40BE194E4D3A6804"
 				type: "checkmark"
@@ -42,6 +51,14 @@
 				id: "ad_astra:space_helmet"
 			}
 			id: "5ED3D2D9B98D57A3"
+			rewards: [{
+				id: "0E4B709E1CB9BEC2"
+				item: {
+					count: 1
+					id: "ad_astra:space_painting"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "168E433B7F7F8179"
 				type: "checkmark"
@@ -85,6 +102,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["5E0AC2F5932C0F4D"]
 			id: "19D201B45F89D15E"
 			rewards: [{
 				id: "17730B7A758CE035"
@@ -105,6 +123,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["5E0AC2F5932C0F4D"]
 			id: "5964B593F1CE00FC"
 			tasks: [{
 				id: "6100AF2F013D1193"
@@ -115,6 +134,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["19D201B45F89D15E"]
 			id: "51F5C385FAED393C"
 			tasks: [{
 				id: "03B4282290ACF4EB"
@@ -125,6 +145,10 @@
 			y: -2.0d
 		}
 		{
+			dependencies: [
+				"19D201B45F89D15E"
+				"51F5C385FAED393C"
+			]
 			id: "72A041F528A47488"
 			tasks: [{
 				id: "2075AA1B7B074A95"
@@ -135,6 +159,7 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["5964B593F1CE00FC"]
 			id: "2DFEB84A8AE2FB01"
 			tasks: [{
 				id: "38906C170B251799"
@@ -145,6 +170,10 @@
 			y: -2.0d
 		}
 		{
+			dependencies: [
+				"2DFEB84A8AE2FB01"
+				"72A041F528A47488"
+			]
 			id: "50A946EE8DE8D308"
 			rewards: [
 				{
@@ -192,14 +221,123 @@
 			y: -3.5d
 		}
 		{
+			dependencies: ["50A946EE8DE8D308"]
 			id: "4DD964104C7FBF41"
+			optional: true
 			tasks: [{
-				id: "25DEDDEA10262D22"
-				item: { count: 1, id: "minecraft:oak_log" }
+				id: "29C7ED25F9776245"
+				item: { components: { "minecraft:custom_data": { tic_materials: [ "modernfoundry:seared_stone", "modernfoundry:seared_stone", "modernfoundry:seared_stone" ], tic_modifiers: [ { level: 3, name: "modernfoundry:searing" }, { level: 1, name: "modernfoundry:pierce" } ], tic_persistent: { }, tic_stats: { "modernfoundry:attack_damage": 2.625f, "modernfoundry:attack_speed": 1.2f, "modernfoundry:durability": 191.25f, "modernfoundry:harvest_tier": "minecraft:iron", "modernfoundry:mining_speed": 7.15f }, tic_volatile_data: { abilities: 1, upgrades: 3 } } }, count: 1, id: "modernfoundry:pickaxe" }
 				type: "item"
 			}]
 			x: 3.0d
-			y: -2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["51F5C385FAED393C"]
+			id: "5376E05C4F4D4051"
+			rewards: [
+				{
+					id: "27F184607175A7BC"
+					item: {
+						count: 1
+						id: "immersiveengineering:hammer"
+					}
+					type: "item"
+				}
+				{
+					id: "445A9642587191DD"
+					item: {
+						count: 1
+						id: "immersivepetroleum:projector"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 8L
+					id: "143E0C528A6D1E2A"
+					item: { count: 1, id: "immersiveengineering:alloybrick" }
+					type: "item"
+				}
+				{
+					id: "5CE92C5A7E912408"
+					item: { count: 1, id: "immersiveengineering:alloy_smelter" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["50A946EE8DE8D308"]
+			id: "32E008E4B2BC7F24"
+			tasks: [{
+				id: "487B0CFE62D827AE"
+				item: { count: 1, id: "extradelight:evaporator" }
+				type: "item"
+			}]
+			x: 1.9500000000000002d
+			y: -5.2d
+		}
+		{
+			dependencies: [
+				"5376E05C4F4D4051"
+				"32E008E4B2BC7F24"
+			]
+			id: "6A607F1C57E734FE"
+			rewards: [
+				{
+					count: 8
+					id: "7C738DF962A0A192"
+					item: {
+						count: 1
+						id: "embers:caminite_brick"
+					}
+					type: "item"
+				}
+				{
+					id: "477438D62A08B796"
+					item: {
+						count: 1
+						id: "embers:tinker_wrench"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "71FAF9ACA3AD60EC"
+				item: { count: 1, id: "embers:caminite_brick" }
+				type: "item"
+			}]
+			x: 1.3d
+			y: -6.500000000000001d
+		}
+		{
+			dependencies: ["5376E05C4F4D4051"]
+			icon: {
+				id: "ad_astra:ice_shard"
+			}
+			id: "3C0CF14CB97704B9"
+			optional: true
+			tasks: [
+				{
+					count: 32L
+					id: "2C096EF55DC7C446"
+					item: { count: 1, id: "ad_astra:ice_shard" }
+					type: "item"
+				}
+				{
+					id: "3891317974F3C943"
+					item: { count: 1, id: "minecraft:water_bucket" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -4.0d
 		}
 	]
 }

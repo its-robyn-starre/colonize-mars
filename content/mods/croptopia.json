@@ -1,0 +1,24 @@
+{
+  "name": "Croptopia",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "415438",
+      "slug": "croptopia",
+      "versionId": "7958876",
+      "versionNumber": "croptopia-neoforge-1.21.1-4.2.4.jar",
+      "filename": "croptopia-neoforge-1.21.1-4.2.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7958/876/croptopia-neoforge-1.21.1-4.2.4.jar",
+      "sha1": "2f03480a38c5d9113d22ae2012c69b165079c0e0",
+      "fileSize": 2220594
+    }
+  },
+  "dependents": [
+    "932098"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -193,7 +193,7 @@ invertMagnetRing = false
 			# Range: > 1
 			base_capacity = 1000000
 			migrate_defaults = true
-			capacity_migrated = false
+			capacity_migrated = true
 			# Default: 0.5
 			# Range: 0.0 ~ 1000.0
 			stack_upgrade_ratio = 0.5
@@ -317,6 +317,61 @@ invertMagnetRing = false
 				# Default: 10
 				# Range: 0 ~ 10
 				upgrade_slots = 10
+
+				#Manasteel Tank Settings
+				[integrations.sophisticated.storage.tanks.ManasteelTank]
+					#Fluid capacity in mB per tank block; tank height and stack upgrades multiply this capacity
+					# Default: 192000
+					# Range: > 1
+					capacity = 192000
+					#Number of upgrade slots in the tank
+					# Default: 6
+					# Range: 0 ~ 10
+					upgradeSlotCount = 6
+
+				#Elementium Tank Settings
+				[integrations.sophisticated.storage.tanks.ElementiumTank]
+					#Fluid capacity in mB per tank block; tank height and stack upgrades multiply this capacity
+					# Default: 256000
+					# Range: > 1
+					capacity = 256000
+					#Number of upgrade slots in the tank
+					# Default: 7
+					# Range: 0 ~ 10
+					upgradeSlotCount = 7
+
+				#Terrasteel Tank Settings
+				[integrations.sophisticated.storage.tanks.TerrasteelTank]
+					#Fluid capacity in mB per tank block; tank height and stack upgrades multiply this capacity
+					# Default: 384000
+					# Range: > 1
+					capacity = 384000
+					#Number of upgrade slots in the tank
+					# Default: 8
+					# Range: 0 ~ 10
+					upgradeSlotCount = 8
+
+				#Gaia Tank Settings
+				[integrations.sophisticated.storage.tanks.GaiaTank]
+					#Fluid capacity in mB per tank block; tank height and stack upgrades multiply this capacity
+					# Default: 512000
+					# Range: > 1
+					capacity = 512000
+					#Number of upgrade slots in the tank
+					# Default: 10
+					# Range: 0 ~ 10
+					upgradeSlotCount = 10
+
+				#Alfsteel Tank Settings
+				[integrations.sophisticated.storage.tanks.AlfsteelTank]
+					#Fluid capacity in mB per tank block; tank height and stack upgrades multiply this capacity
+					# Default: 768000
+					# Range: > 1
+					capacity = 768000
+					#Number of upgrade slots in the tank
+					# Default: 10
+					# Range: 0 ~ 10
+					upgradeSlotCount = 10
 
 		[integrations.sophisticated.runic_altar]
 			enabled = true

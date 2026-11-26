@@ -158,3 +158,73 @@ ServerEvents.generateData('after_mods', event => {
       }
     )
 })
+// kubejsstudio custom: immersiveengineering:alloysmelter/insulating_glass
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'immersiveengineering:recipe/alloysmelter/insulating_glass',
+      {
+        "type": "immersiveengineering:alloy",
+        "input0": {"basePredicate":{"item":"ad_astra:ice_shard"},"count":32},
+        "input1": {"tag":"c:buckets/empty"},
+        "result": {"count":1,"id":"minecraft:water_bucket"}
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:sealed_wood_coke
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/sealed_wood_coke',
+      {
+        "type": "immersiveengineering:coke_oven",
+        "creosote": 50,
+        "input": {
+          "basePredicate": {"tag":"create:runtime_generated/compat/embers/sealed"},
+          "count": 8
+        },
+        "result": {"id":"minecraft:charcoal"},
+        "time": 3000
+      }
+    )
+})
+// kubejsstudio custom: immersiveengineering:cokeoven/coke
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'immersiveengineering:recipe/cokeoven/coke',
+      {
+        "type": "immersiveengineering:coke_oven",
+        "creosote": 500,
+        "input": {"basePredicate":{"item":"minecraft:charcoal"},"count":16},
+        "result": {"tag":"c:coal_coke"},
+        "time": 6000
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:silicone_alloy
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/silicone_alloy',
+      {
+        "type": "immersiveengineering:alloy",
+        "input0": {"basePredicate":{"item":"minecraft:quartz"},"count":3},
+        "input1": {"item":"immersiveengineering:coal_coke"},
+        "result": {"basePredicate":{"item":"embers:caminite_blend"},"count":3}
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:petal_apothecary/torchflower
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/petal_apothecary/torchflower',
+      {
+        "type": "botania:petal_apothecary",
+        "ingredients": [
+          {"tag":"c:salt"},
+          {"tag":"c:buckets/lava"},
+          {"tag":"botania:petals/orange"},
+          {"tag":"botania:petals/yellow"}
+        ],
+        "output": {"count":1,"id":"minecraft:torchflower"},
+        "reagent": {"tag":"botania:seed_apothecary_reagent"}
+      }
+    )
+})

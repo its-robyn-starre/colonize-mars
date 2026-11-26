@@ -1,6 +1,6 @@
 # colonize mars
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 93 mods (14 dependencies), 3 resource packs
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 98 mods (16 dependencies), 3 resource packs
 
 ## Contents
 
@@ -26,12 +26,15 @@
 - [Corpse](https://modrinth.com/project/corpse) `neoforge-1.21.1-1.1.22`
 - [Corpse x Curios API Compat](https://modrinth.com/project/corpse-x-curios-api-compat) `4.2.1`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
+- [Croptopia](https://www.curseforge.com/projects/415438) `croptopia-neoforge-1.21.1-4.2.4.jar`
+- [Croptopia Delight](https://www.curseforge.com/projects/932098) `Croptopia Delight 1.3.3.1-neoforge-fabric-1.21-1.21.1`
 - [Curios API](https://modrinth.com/project/curios) `9.6.0+1.21.1`
 - [Customizable Player Spawn](https://modrinth.com/project/customizable-player-spawn) `2.0.0`
 - [Delight Lib](https://modrinth.com/project/delight-lib) `26.05.18-1.21-neoforge`
 - [Desertification](https://modrinth.com/project/desertification) `0.42.4`
 - [Ecliptic Seasons](https://modrinth.com/project/ecliptic-seasons) `0.15.5.1`
 - [Embers Re-Ignited](https://modrinth.com/project/embers-re-ignited) `1.21.1-1.5.9`
+- [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [Engineers Delight](https://www.curseforge.com/projects/861437) `engineers_delight-neoforge-1.21.1-2.0.1.jar`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.12.2`
 - [Excessive Utilities](https://modrinth.com/project/excessive-utilities) `1.12.0-build.77`
@@ -55,6 +58,7 @@
 - [Haunt Furnace](https://modrinth.com/project/haunt-furnace) `0.5.9-1.21.1`
 - [Hilt](https://modrinth.com/project/hilt) `1.13`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
+- [Immersive Cooking & Farming](https://www.curseforge.com/projects/1460406) `[NEOFORGE 1.21.1] 0.2.0-beta-10`
 - [Immersive Engineering](https://modrinth.com/project/immersiveengineering) `12.4.2-194`
 - [Immersive Petroleum](https://modrinth.com/project/immersivepetroleum) `4.5.0-39`
 - [In Control!](https://modrinth.com/project/in-control) `1.21-10.3.1`
@@ -92,6 +96,7 @@
 - [Scorched Guns Neoforged](https://modrinth.com/project/scorched-guns-neoforged) `1.5`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
+- [Sophisticated Storage](https://www.curseforge.com/projects/619320) `sophisticatedstorage-1.21.1-1.6.20.2239.jar`
 - [Spice of Life: Valheim Reforged](https://modrinth.com/project/spice-of-life-valheim-reforged) `1.1.7`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.1.4`
 - [Titanium](https://modrinth.com/project/titanium) `1.21-4.0.43`

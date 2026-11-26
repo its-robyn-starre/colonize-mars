@@ -1,0 +1,240 @@
+{
+	autofocus_id: "45B8E6237B2D3F93"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ii_mycolorology"
+	group: "0863DFE6E54CBB77"
+	icon: {
+		components: {
+			"ftbquests:icon": "forestry:habitats/mushroom"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "05C3ACD631F0D447"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "38F52F65D4B01520"
+			size: 1.3d
+			tasks: [{
+				id: "000355326104BCA7"
+				item: { count: 1, id: "immersiveengineering:cloche" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["38F52F65D4B01520"]
+			id: "120084FAE00B31E2"
+			tasks: [{
+				id: "06B26309AC5E9DC8"
+				item: { count: 1, id: "farmersdelight:potato_crate" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["38F52F65D4B01520"]
+			id: "75007C37FEBA9C7F"
+			tasks: [{
+				id: "197CB8912D0F1111"
+				item: { count: 1, id: "modernfoundry:seared_soul_glass_pane" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"120084FAE00B31E2"
+				"75007C37FEBA9C7F"
+			]
+			id: "7C3C7BC560340947"
+			tasks: [{
+				id: "3B3C317838CE8D00"
+				item: { count: 1, id: "botania:metamorphic_fungal_cobblestone" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7C3C7BC560340947"]
+			id: "33DC0B525CD86ED7"
+			tasks: [{
+				id: "4EDDC29A859A6F9B"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(botania:shimmering_mushrooms)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["33DC0B525CD86ED7"]
+			id: "542E6486DEE908CC"
+			shape: "octagon"
+			size: 1.15d
+			tasks: [{
+				id: "740F3312173B84A3"
+				item: { count: 1, id: "botania:apothecary_fungal" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["542E6486DEE908CC"]
+			id: "73609E7A64DD425B"
+			tasks: [{
+				id: "018BC1659EBCF6DE"
+				item: { count: 1, id: "minecraft:torchflower" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["542E6486DEE908CC"]
+			id: "1ED1929C1A905088"
+			tasks: [{
+				id: "1F23F13F93C93DB0"
+				item: { count: 1, id: "botania:pure_daisy" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"73609E7A64DD425B"
+				"78322A55CBC580FA"
+			]
+			id: "45B8E6237B2D3F93"
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				id: "02F573EF0C1DB254"
+				item: { count: 1, id: "embers:ember_activator" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1ED1929C1A905088"
+				"5D785F188A6BB3BC"
+			]
+			id: "4FBE7A53B9B44865"
+			shape: "diamond"
+			size: 1.25d
+			tasks: [{
+				id: "5C779CF33BD945D2"
+				item: { count: 1, id: "embers:dwarven_oil_bucket" }
+				type: "item"
+			}]
+			x: 3.125d
+			y: -3.125d
+		}
+		{
+			dependencies: ["38F52F65D4B01520"]
+			id: "78322A55CBC580FA"
+			tasks: [{
+				id: "51E92EA7AD75CF67"
+				item: { count: 1, id: "supplementaries:cannonball" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4FBE7A53B9B44865"]
+			id: "01281372A86A932E"
+			tasks: [{
+				id: "4DA1288C7E048C75"
+				item: { count: 1, id: "embers:sealed_planks" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["45B8E6237B2D3F93"]
+			id: "5D785F188A6BB3BC"
+			tasks: [{
+				id: "3C521AF49D221816"
+				item: { count: 1, id: "embers:mini_boiler" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["38F52F65D4B01520"]
+			id: "2438036AD88F69DB"
+			tasks: [{
+				id: "7F66AF5765FF58F8"
+				item: { count: 1, id: "embers:ember_bore" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"45B8E6237B2D3F93"
+				"2438036AD88F69DB"
+			]
+			id: "3E19C7F1D0AD1C0E"
+			tasks: [{
+				id: "34480C06800B3201"
+				item: { count: 1, id: "embers:reservoir" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["01281372A86A932E"]
+			icon: {
+				id: "immersiveengineering:coke_oven"
+			}
+			id: "194318B1AC72B873"
+			shape: "diamond"
+			size: 1.15d
+			tasks: [
+				{
+					count: 27L
+					id: "6F6EAD4E99B796F4"
+					item: { count: 1, id: "immersiveengineering:cokebrick" }
+					type: "item"
+				}
+				{
+					id: "07F5B9032E532718"
+					item: { count: 1, id: "immersiveengineering:coke_oven" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 2.3d
+			y: -4.0249999999999995d
+		}
+		{
+			dependencies: ["194318B1AC72B873"]
+			id: "2498E75776A6FEA9"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "74B5D3318D654BAF"
+				item: { count: 1, id: "immersiveengineering:treated_wood_horizontal" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: -6.0d
+		}
+	]
+}

@@ -19,6 +19,8 @@ ServerEvents.generateData('after_mods', event => {
     event.json('embers:recipe/caminite_lever', {"type":"minecraft:crafting_shaped","category":"redstone","pattern":["#","A"],"key":{"#":{"item":"ad_astra:iron_rod"},"A":{"item":"embers:caminite_plate"}},"result":{"id":"embers:caminite_lever","count":4}})
     event.json('embers:recipe/item_vacuum', {"type":"minecraft:crafting_shaped","category":"misc","pattern":[" ##","A  "," ##"],"key":{"#":{"item":"modernfoundry:seared_brick"},"A":{"item":"embers:item_pipe"}},"result":{"id":"embers:item_vacuum","count":1}})
     event.json('immersiveengineering:recipe/crafting/component_iron', {"type":"minecraft:crafting_shaped","category":"misc","pattern":["# #"," A ","# #"],"key":{"#":{"tag":"c:plates/iron"},"A":{"item":"embers:fluid_pipe"}},"result":{"id":"immersiveengineering:component_iron","count":1}})
+    event.json('kubejsstudio:recipe/ash_from_sealed', {"type":"minecraft:smelting","ingredient":{"tag":"create:runtime_generated/compat/embers/sealed"},"result":{"id":"supplementaries:ash"},"experience":0.1,"cookingtime":200})
+    event.json('immersiveengineering:recipe/crafting/cokebrick', {"type":"minecraft:crafting_shaped","category":"misc","pattern":["#A#","ABA","#A#"],"key":{"#":{"item":"embers:caminite_blend"},"A":{"tag":"c:bricks/ash"},"B":{"item":"ad_astra:mars_stone"}},"result":{"id":"immersiveengineering:cokebrick","count":3}})
 })
 ServerEvents.recipes(event => {
     event.shapeless(Item.of('minecraft:nether_brick', 8), ['ad_astra:mars_sand', 'minecraft:potato', 'minecraft:water_bucket']).id('kubejsstudio:starcrete_bricks')

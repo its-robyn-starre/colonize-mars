@@ -52,16 +52,15 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "agricraft": {
-    "soil": true,
-    "crop_block": true
-  },
   "jade_access": {
     "held_item": true,
     "sign": true,
     "block": true,
     "entity": true,
     "entity_variant": true
+  },
+  "ftbquests": {
+    "barrier": true
   },
   "immersiveengineering": {
     "multiblock_icon": true
@@ -113,11 +112,6 @@
     "generating_flower.timers": true,
     "functional_flower": true,
     "mana_bar_color": "#0095FF"
-  },
-  "sporenexus": {
-    "mushroom_harvester": true,
-    "mushroom_growth": true,
-    "growth_accelerator": true
   },
   "hammerlib": {
     "root": true

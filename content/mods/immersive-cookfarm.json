@@ -1,0 +1,22 @@
+{
+  "name": "Immersive Cooking & Farming",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1460406",
+      "slug": "immersive-cookfarm",
+      "versionId": "9419933",
+      "versionNumber": "[NEOFORGE 1.21.1] 0.2.0-beta-10",
+      "filename": "immersivecooking-1.21.1-0.2.0-beta-10.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9419/933/immersivecooking-1.21.1-0.2.0-beta-10.jar",
+      "sha1": "667cbab7049ecdf8286cc7bc8de2b87c38ede7dd",
+      "fileSize": 946133
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

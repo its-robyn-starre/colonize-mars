@@ -1,0 +1,24 @@
+{
+  "name": "Sophisticated Core",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "618298",
+      "slug": "sophisticated-core",
+      "versionId": "9758568",
+      "versionNumber": "sophisticatedcore-1.21.1-1.5.42.2496.jar",
+      "filename": "sophisticatedcore-1.21.1-1.5.42.2496.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9758/568/sophisticatedcore-1.21.1-1.5.42.2496.jar",
+      "sha1": "b958eba95fecd8128c98f0ba2828340d7a7c61cd",
+      "fileSize": 1856954
+    }
+  },
+  "dependents": [
+    "619320"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

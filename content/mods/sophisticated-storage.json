@@ -1,0 +1,22 @@
+{
+  "name": "Sophisticated Storage",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "619320",
+      "slug": "sophisticated-storage",
+      "versionId": "9692522",
+      "versionNumber": "sophisticatedstorage-1.21.1-1.6.20.2239.jar",
+      "filename": "sophisticatedstorage-1.21.1-1.6.20.2239.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9692/522/sophisticatedstorage-1.21.1-1.6.20.2239.jar",
+      "sha1": "60d4d770b6fd54546882e10c473e8d8012387632",
+      "fileSize": 2100126
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

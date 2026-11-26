@@ -21,6 +21,10 @@
     "yRrY3XII",
     "znHQQtuU"
   ],
+  "optionalDependents": [
+    "1460406",
+    "932098"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }
