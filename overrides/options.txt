@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["mm_resources","vanilla","fabric","mod_resources","moonlight:merged_pack","embersquesting/pack","SnowySodiumStairs","file/CMGSS 2.0.0 neo.zip"]
+resourcePacks:["mm_resources","vanilla","fabric","mod_resources","moonlight:merged_pack","SnowySodiumStairs","file/CMGSS 2.0.0 neo.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -123,6 +123,9 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 key_key.hammerlib.render_item:key.keyboard.unknown
+key_key.sophisticatedcore.sort:key.mouse.middle
+key_key.sophisticatedcore.transfer_to_storage:key.keyboard.left.bracket
+key_key.sophisticatedcore.transfer_to_inventory:key.keyboard.right.bracket
 key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_world_map_server_settings:key.keyboard.unknown
@@ -276,21 +279,6 @@ key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
-key_key.embersquesting.open:key.keyboard.k
-key_key.embersquesting.tracker:key.keyboard.unknown
-key_key.embersquesting.debug:key.keyboard.unknown
-key_key.embersquesting.edit:key.keyboard.unknown
-key_key.embersquesting.fit:key.keyboard.f
-key_key.embersquesting.center:key.keyboard.c
-key_key.embersquesting.inbox:key.keyboard.i
-key_key.embersquesting.todo:key.keyboard.n
-key_key.embersquesting.pin:key.keyboard.p
-key_key.embersquesting.layer_up:key.keyboard.up
-key_key.embersquesting.layer_down:key.keyboard.down
-key_key.embersquesting.preview_left:key.keyboard.left
-key_key.embersquesting.preview_right:key.keyboard.right
-key_key.embersquesting.preview_missing:key.keyboard.h
-key_key.embersquesting.rotate_preview:key.keyboard.r
 key_key.ftbfiltersystem.get_or_filter_hotbar:key.keyboard.keypad.add
 key_key.ftbfiltersystem.get_or_filter_inv:key.keyboard.keypad.add:SHIFT
 key_key.kubejsstudio.open:key.keyboard.k

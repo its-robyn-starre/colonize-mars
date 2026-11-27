@@ -910,7 +910,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "26a09804ee5821bef7d708e3fd0ab231a2e2f20f"
+      "sha1": "1b7df461c8f3cf656e4ead6eee749b567d37640d"
     },
     {
       "path": "overrides/config/fancymenu/custom_gui_screens.txt",
@@ -1014,11 +1014,11 @@
     },
     {
       "path": "overrides/config/ftbquests/quests/chapters/hot_bricks_in_your_area.snbt",
-      "sha1": "1915ff3987d51737d4fbabacb91cd5960bf51325"
+      "sha1": "cfc19d345b89344e690bd3da07946ff91e7b9807"
     },
     {
       "path": "overrides/config/ftbquests/quests/chapters/ii_mycolorology.snbt",
-      "sha1": "0d2600b8b08b0934f155ef6b5d24a4b52780a653"
+      "sha1": "230dd3bba1e5a4312745afb60a528d11e571ad8b"
     },
     {
       "path": "overrides/config/ftbquests/quests/data.snbt",
@@ -1026,7 +1026,7 @@
     },
     {
       "path": "overrides/config/ftbquests/quests/lang/en_us.snbt",
-      "sha1": "d63b21cadb4b583d390bc80e47cb5d9c0edc166c"
+      "sha1": "51a138cbf5ca40ca84aa7d88140775ef6954fed7"
     },
     {
       "path": "overrides/config/ftbteams-server.snbt",
@@ -1274,7 +1274,7 @@
     },
     {
       "path": "overrides/config/kubejsstudio.json",
-      "sha1": "705b2ea93f0058f5db2c06646cb166333e76adf3"
+      "sha1": "c49d129f95c7126d7f47e451da0de887a1b7f417"
     },
     {
       "path": "overrides/config/kubejsstudio/pending.json",
@@ -2210,7 +2210,7 @@
     },
     {
       "path": "overrides/config/worldedit/worldedit.properties",
-      "sha1": "6fd902ffe6d0c4412e4b8ae7486b41926ea96907"
+      "sha1": "8770649a9701b1de0593c1821a613fadf7994d8a"
     },
     {
       "path": "overrides/config/xaero/lib/client.cfg",
@@ -2433,24 +2433,16 @@
       "sha1": "d70b870277c62f7c2dcd76d315eacc9a354185cf"
     },
     {
-      "path": "overrides/kubejs/assets/supplementaries/blockstates/cannonball.json",
-      "sha1": "2516285804221cc8ef7c5d8e084fc96b31b17ad2"
-    },
-    {
       "path": "overrides/kubejs/assets/supplementaries/lang/en_us.json",
       "sha1": "6247d75d1e3f4e2b1ee4ea85c657a96070edd70f"
     },
     {
-      "path": "overrides/kubejs/assets/supplementaries/models/block/cannonball.json",
-      "sha1": "b9d377f5d86ac11bed2959aafbf6a527cb037f01"
-    },
-    {
       "path": "overrides/kubejs/assets/supplementaries/models/item/cannonball.json",
-      "sha1": "04f415146d4e4d28b1dd178c4d350a5d5ee400f1"
+      "sha1": "7576a24235d4e86e63f0f9da71f6f0a3c768d8ca"
     },
     {
       "path": "overrides/kubejs/assets/supplementaries/textures/block/cannonball.png",
-      "sha1": "00649f3a00a2514d87e585c7eabdc5c8497f29db"
+      "sha1": "2f714692923715f8faeb00879843b20c1e6465bc"
     },
     {
       "path": "overrides/kubejs/config/client.json",
@@ -2482,11 +2474,11 @@
     },
     {
       "path": "overrides/kubejs/kubejsstudio/appearance.json",
-      "sha1": "8118269f500cf7717a7b7b80e19a9a92a8070d42"
+      "sha1": "81c842e1b252b8a85994b5d731dad200b0dce98b"
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/kubejsstudio.js",
-      "sha1": "c2367732b521682b0c53405019d56cce7beb512a"
+      "sha1": "d1b03ef80771eb987000227b77989667200ee257"
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/loot_tables.js",
@@ -2494,7 +2486,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/recipes.js",
-      "sha1": "583013a5674a64d7f2333b6028a2094050d5a06d"
+      "sha1": "6386ca47bd20363cbebfd25edd23b418b91744ab"
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/tags/block.js",
@@ -2510,7 +2502,7 @@
     },
     {
       "path": "overrides/kubejs/startup_scripts/kubejsstudio/block_properties.js",
-      "sha1": "aec458550bf29d9232ed3ebfa7b573da007215c9"
+      "sha1": "8e2fcbc825ea0e9e259437a238785ab2e752efb6"
     },
     {
       "path": "overrides/kubejs/startup_scripts/main.js",
@@ -2518,11 +2510,11 @@
     },
     {
       "path": "overrides/kubejsstudio/intel.json",
-      "sha1": "bbd0a6cd8a0ccd95776f98c3fdf9f18e65db4436"
+      "sha1": "02c95250fd694ad909cd48f8a0d207d6ea6b3085"
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "35bb1e38947a17a6b731c7d2a04ca777b2a2a1c4"
+      "sha1": "7f94039169fbe880a07020c3814774e085ae677e"
     },
     {
       "path": "overrides/patchouli_data.json",
@@ -2554,7 +2546,7 @@
     },
     {
       "path": "overrides/xaero/minimap/idk/dim%ad_astra$mars/waypoints.txt",
-      "sha1": "451343489b6f19a09d40afd4fab4fd3b0fd409c0"
+      "sha1": "e49fec4a36e02a877a1d0bc3514199af69b5befc"
     },
     {
       "path": "overrides/xaero/minimap/idk/dim%ad_astra$venus/waypoints.txt",
@@ -2583,6 +2575,10 @@
     {
       "path": "overrides/xaero/minimap/worldgen test/dim%0/waypoints.txt",
       "sha1": "7a82d6ab7dd547457cb7f263613423f4504d067f"
+    },
+    {
+      "path": "overrides/xaero/minimap/worldgen test/dim%ad_astra$mars/waypoints.txt",
+      "sha1": "f184352d00bce9013a9655cb259fc901947ba0ad"
     },
     {
       "path": "overrides/xaero/world-map/New World/ad_astra$mars/.lock",
@@ -3834,15 +3830,15 @@
     },
     {
       "path": "overrides/xaero/world-map/worldgen test/ad_astra$mars/cache_1/-1_-1.xwmc.outdated",
-      "sha1": "8947ef491aeb431a39a9013780388a3f3d100369"
+      "sha1": "047e4d9ed5c940a086c3bb44dab1e18254dec75e"
     },
     {
       "path": "overrides/xaero/world-map/worldgen test/ad_astra$mars/cache_1/-1_0.xwmc.outdated",
-      "sha1": "d556bde0d4bfcd71c914ff1e7258e2c372c44ad4"
+      "sha1": "d76a3e6ef5aea418e490d2adedf08ad445a2b349"
     },
     {
       "path": "overrides/xaero/world-map/worldgen test/ad_astra$mars/cache_1/0_-1.xwmc.outdated",
-      "sha1": "54f8f6d21b1e7d1cc47e265f9f5cae46aec4e15c"
+      "sha1": "a7061a08ad7f44e51747d18cd197a0f0d63e8a85"
     },
     {
       "path": "overrides/xaero/world-map/worldgen test/ad_astra$mars/cache_1/0_-2.xwmc",
@@ -3850,7 +3846,7 @@
     },
     {
       "path": "overrides/xaero/world-map/worldgen test/ad_astra$mars/cache_1/0_0.xwmc.outdated",
-      "sha1": "49128039acb03140d0fe49b6fa0909a2ed2a1c54"
+      "sha1": "3c703cd28bf4f16375bb57790fa73fe35319fc61"
     },
     {
       "path": "overrides/xaero/world-map/worldgen test/ad_astra$mars/cache_1/1_-1.xwmc",

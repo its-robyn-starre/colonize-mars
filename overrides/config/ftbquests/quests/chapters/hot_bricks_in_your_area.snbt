@@ -11,15 +11,7 @@
 		id: "ftbquests:custom_icon"
 	}
 	id: "7335A7B59A697BAD"
-	images: [{
-		height: 1.0d
-		id: "788AFCE03408BE17"
-		image: "supplementaries:block/cannonball"
-		rotation: 0.0d
-		width: 1.0d
-		x: -4.0d
-		y: -2.0d
-	}]
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -33,6 +25,7 @@
 			y: 1.5d
 		}
 		{
+			can_repeat: true
 			dependencies: ["5E0AC2F5932C0F4D"]
 			icon: {
 				id: "extradelight:jalapeno_stuffed_potato"

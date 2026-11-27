@@ -29,7 +29,16 @@
 		{
 			dependencies: ["38F52F65D4B01520"]
 			id: "120084FAE00B31E2"
+			rewards: [{
+				id: "4CAC016270FA8FE7"
+				item: {
+					count: 1
+					id: "farmersdelight:tomato"
+				}
+				type: "item"
+			}]
 			tasks: [{
+				count: 3L
 				id: "06B26309AC5E9DC8"
 				item: { count: 1, id: "farmersdelight:potato_crate" }
 				type: "item"
@@ -40,11 +49,28 @@
 		{
 			dependencies: ["38F52F65D4B01520"]
 			id: "75007C37FEBA9C7F"
-			tasks: [{
-				id: "197CB8912D0F1111"
-				item: { count: 1, id: "modernfoundry:seared_soul_glass_pane" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "4B6B0A2445F74D46"
+					item: { count: 1, id: "modernfoundry:smeltery_controller" }
+					type: "item"
+				}
+				{
+					id: "59D59EADB0D91450"
+					item: { count: 1, id: "modernfoundry:seared_drain" }
+					type: "item"
+				}
+				{
+					id: "28518BB37CF079B9"
+					item: { count: 1, id: "modernfoundry:seared_basin" }
+					type: "item"
+				}
+				{
+					id: "102B6A7B5F872C71"
+					item: { count: 1, id: "hauntfurnace:powered_haunt_furnace" }
+					type: "item"
+				}
+			]
 			x: 1.0d
 			y: 3.0d
 		}
@@ -65,6 +91,14 @@
 		{
 			dependencies: ["7C3C7BC560340947"]
 			id: "33DC0B525CD86ED7"
+			rewards: [{
+				id: "3C217FDA0B1F04F1"
+				item: {
+					count: 1
+					id: "botania:flower_bag"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4EDDC29A859A6F9B"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(botania:shimmering_mushrooms)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -105,8 +139,8 @@
 				item: { count: 1, id: "botania:pure_daisy" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: -3.0d
+			x: 2.0d
+			y: -2.5d
 		}
 		{
 			dependencies: [
@@ -114,21 +148,48 @@
 				"78322A55CBC580FA"
 			]
 			id: "45B8E6237B2D3F93"
+			rewards: [
+				{
+					id: "6EB6E2090D8CF527"
+					item: {
+						count: 1
+						id: "embers:engineers_ashen_goggles"
+					}
+					type: "item"
+				}
+				{
+					id: "06A9DCC41090F2DD"
+					item: {
+						count: 1
+						id: "embers:ember_crystal_cluster"
+					}
+					type: "item"
+				}
+			]
 			shape: "diamond"
 			size: 1.3d
-			tasks: [{
-				id: "02F573EF0C1DB254"
-				item: { count: 1, id: "embers:ember_activator" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "02F573EF0C1DB254"
+					item: { count: 1, id: "embers:ember_activator" }
+					type: "item"
+				}
+				{
+					id: "7994F232F5C93757"
+					item: { count: 1, id: "embers:ember_emitter" }
+					type: "item"
+				}
+				{
+					id: "4AC9B92B68082485"
+					item: { count: 1, id: "embers:ember_receiver" }
+					type: "item"
+				}
+			]
 			x: 3.0d
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"1ED1929C1A905088"
-				"5D785F188A6BB3BC"
-			]
+			dependencies: ["5D785F188A6BB3BC"]
 			id: "4FBE7A53B9B44865"
 			shape: "diamond"
 			size: 1.25d
@@ -137,8 +198,8 @@
 				item: { count: 1, id: "embers:dwarven_oil_bucket" }
 				type: "item"
 			}]
-			x: 3.125d
-			y: -3.125d
+			x: 3.75d
+			y: -2.5d
 		}
 		{
 			dependencies: ["38F52F65D4B01520"]
@@ -150,17 +211,6 @@
 			}]
 			x: 2.0d
 			y: 3.0d
-		}
-		{
-			dependencies: ["4FBE7A53B9B44865"]
-			id: "01281372A86A932E"
-			tasks: [{
-				id: "4DA1288C7E048C75"
-				item: { count: 1, id: "embers:sealed_planks" }
-				type: "item"
-			}]
-			x: 3.5d
-			y: -4.5d
 		}
 		{
 			dependencies: ["45B8E6237B2D3F93"]
@@ -190,6 +240,32 @@
 				"2438036AD88F69DB"
 			]
 			id: "3E19C7F1D0AD1C0E"
+			rewards: [
+				{
+					id: "53016082F582274F"
+					item: {
+						count: 1
+						id: "embers:caminite_gauge"
+					}
+					type: "item"
+				}
+				{
+					id: "305C36A84F28EA63"
+					item: {
+						count: 1
+						id: "embers:caminite_ring"
+					}
+					type: "item"
+				}
+				{
+					id: "696176CB2A00643D"
+					item: {
+						count: 1
+						id: "embers:caminite_valve"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "34480C06800B3201"
 				item: { count: 1, id: "embers:reservoir" }
@@ -205,7 +281,7 @@
 			}
 			id: "194318B1AC72B873"
 			shape: "diamond"
-			size: 1.15d
+			size: 1.35d
 			tasks: [
 				{
 					count: 27L
@@ -220,12 +296,24 @@
 					type: "item"
 				}
 			]
-			x: 2.3d
-			y: -4.0249999999999995d
+			x: 3.375d
+			y: -5.4d
 		}
 		{
-			dependencies: ["194318B1AC72B873"]
+			dependencies: [
+				"194318B1AC72B873"
+				"27D06B1B956B8D58"
+			]
 			id: "2498E75776A6FEA9"
+			rewards: [{
+				count: 12
+				id: "0F92636DEBA5A32C"
+				item: {
+					count: 1
+					id: "immersiveengineering:treated_wood_horizontal"
+				}
+				type: "item"
+			}]
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
@@ -234,7 +322,32 @@
 				type: "item"
 			}]
 			x: 2.25d
-			y: -6.0d
+			y: -7.5d
+		}
+		{
+			dependencies: [
+				"4FBE7A53B9B44865"
+				"1ED1929C1A905088"
+			]
+			id: "01281372A86A932E"
+			tasks: [{
+				id: "4DA1288C7E048C75"
+				item: { count: 1, id: "embers:sealed_planks" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["194318B1AC72B873"]
+			id: "27D06B1B956B8D58"
+			tasks: [{
+				id: "725085639F31656E"
+				item: { count: 1, id: "forestry:silicon" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.5d
 		}
 	]
 }

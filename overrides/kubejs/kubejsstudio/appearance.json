@@ -9,10 +9,5 @@
       "name": "Meteorite",
       "texture": "botania:item/tiny_planet"
     }
-  },
-  "block": {
-    "supplementaries:cannonball": {
-      "texture": "supplementaries:block/cannonball"
-    }
   }
 }

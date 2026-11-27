@@ -205,9 +205,9 @@ ServerEvents.generateData('after_mods', event => {
       'kubejsstudio:recipe/silicone_alloy',
       {
         "type": "immersiveengineering:alloy",
-        "input0": {"basePredicate":{"item":"minecraft:quartz"},"count":3},
-        "input1": {"item":"immersiveengineering:coal_coke"},
-        "result": {"basePredicate":{"item":"embers:caminite_blend"},"count":3}
+        "input0": {"basePredicate":{"tag":"c:gems/quartz"},"count":3},
+        "input1": {"tag":"c:coal_coke"},
+        "result": {"basePredicate":{"item":"forestry:silicon"},"count":3}
       }
     )
 })
@@ -225,6 +225,92 @@ ServerEvents.generateData('after_mods', event => {
         ],
         "output": {"count":1,"id":"minecraft:torchflower"},
         "reagent": {"tag":"botania:seed_apothecary_reagent"}
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:waterbucket_alloy
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/waterbucket_alloy',
+      {
+        "type": "immersiveengineering:alloy",
+        "input0": {"basePredicate":{"item":"ad_astra:ice_shard"},"count":32},
+        "input1": {"tag":"c:buckets/empty"},
+        "result": {"count":1,"id":"minecraft:water_bucket"}
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:cloche/potato_hydro
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/cloche/potato_hydro',
+      {
+        "type": "immersiveengineering:cloche",
+        "fluid": {"tag":"c:water"},
+        "input": {"item":"minecraft:potato"},
+        "render": {
+          "type": "immersiveengineering:crop",
+          "block": "minecraft:potatoes"
+        },
+        "results": [
+          {"count":2,"id":"minecraft:potato"},
+          {"chance":0.1,"output":{"id":"minecraft:poisonous_potato"}}
+        ],
+        "soil": {"item":"minecraft:water_bucket"},
+        "time": 800
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:cloche/tomato_hydro
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/cloche/tomato_hydro',
+      {
+        "type": "immersiveengineering:cloche",
+        "fluid": {"tag":"c:water"},
+        "input": {"tag":"c:crops/tomato"},
+        "render": {
+          "type": "immersiveengineering:crop",
+          "block": "farmersdelight:tomatoes"
+        },
+        "results": [
+          {"count":2,"id":"farmersdelight:tomato"},
+          {"chance":0.1,"output":{"id":"farmersdelight:rotten_tomato"}}
+        ],
+        "soil": {"item":"minecraft:water_bucket"},
+        "time": 800
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:hauntfurnace_casting
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/hauntfurnace_casting',
+      {
+        "type": "modernfoundry:casting_basin",
+        "id": "kubejsstudio:hauntfurnace_casting",
+        "cast": {"item":"excessive_utilities:furnace"},
+        "cast_consumed": true,
+        "cooling_time": 83,
+        "fluid": {"amount":250,"fluid":"modernfoundry:liquid_soul"},
+        "result": "hauntfurnace:powered_haunt_furnace"
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:cloche/torchflower_embers
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/cloche/torchflower_embers',
+      {
+        "type": "immersiveengineering:cloche",
+        "input": {"item":"minecraft:torchflower"},
+        "render": {
+          "type": "immersiveengineering:crop",
+          "block": "minecraft:torchflower_crop"
+        },
+        "results": [{"id":"embers:ember_shard"}],
+        "soil": {"item":"botania:metamorphic_fungal_cobblestone"},
+        "time": 1200
       }
     )
 })

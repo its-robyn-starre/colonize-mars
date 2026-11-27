@@ -30,4 +30,6 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'minecraft:furnace' })
     event.shapeless('botania:metamorphic_fungal_cobblestone', ['ad_astra:conglomerate', ['farmersdelight:rotten_tomato', 'minecraft:poisonous_potato']]).id('kubejsstudio:mycelite_from_rotten')
     event.shaped(Item.of('immersiveengineering:basic_engineering', 2), ['#A', 'A#'], { '#': '#c:plates/iron', 'A': 'minecraft:nether_bricks' }).id('kubejsstudio:crafting/basic_engineering_iron')
+    event.shaped('modernfoundry:seared_drain', ['#A#'], { '#': 'embers:fluid_pipe', 'A': '#modernfoundry:seared_blocks' }).id('kubejsstudio:seared_drain_fluidpipe')
+    event.shaped(Item.of('immersiveengineering:treated_wood_horizontal', 5), ['#A#', 'ABA', '#A#'], { '#': '#c:silicon', 'A': 'embers:sealed_planks', 'B': 'immersiveengineering:creosote_bucket' }).id('kubejsstudio:treatedwood_silicon')
 })
