@@ -218,7 +218,7 @@ ServerEvents.generateData('after_mods', event => {
       {
         "type": "botania:petal_apothecary",
         "ingredients": [
-          {"tag":"c:salt"},
+          {"item":"minecraft:quartz"},
           {"tag":"c:buckets/lava"},
           {"tag":"botania:petals/orange"},
           {"tag":"botania:petals/yellow"}

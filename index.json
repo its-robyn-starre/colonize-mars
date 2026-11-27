@@ -910,7 +910,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "165573eb7e58d5ce1d27380f7a12be12bcd64380"
+      "sha1": "26a09804ee5821bef7d708e3fd0ab231a2e2f20f"
     },
     {
       "path": "overrides/config/fancymenu/custom_gui_screens.txt",
@@ -1014,7 +1014,7 @@
     },
     {
       "path": "overrides/config/ftbquests/quests/chapters/hot_bricks_in_your_area.snbt",
-      "sha1": "12485786417bb0b13a9d1ce27de7881aca2b9839"
+      "sha1": "1915ff3987d51737d4fbabacb91cd5960bf51325"
     },
     {
       "path": "overrides/config/ftbquests/quests/chapters/ii_mycolorology.snbt",
@@ -1274,7 +1274,7 @@
     },
     {
       "path": "overrides/config/kubejsstudio.json",
-      "sha1": "1f553678f44b073e0e80650e0287048ab32cd6bb"
+      "sha1": "705b2ea93f0058f5db2c06646cb166333e76adf3"
     },
     {
       "path": "overrides/config/kubejsstudio/pending.json",
@@ -2210,7 +2210,7 @@
     },
     {
       "path": "overrides/config/worldedit/worldedit.properties",
-      "sha1": "535cd6e8c0975cd22c27178d0b83a53442c6f3b1"
+      "sha1": "6fd902ffe6d0c4412e4b8ae7486b41926ea96907"
     },
     {
       "path": "overrides/config/xaero/lib/client.cfg",
@@ -2433,12 +2433,32 @@
       "sha1": "d70b870277c62f7c2dcd76d315eacc9a354185cf"
     },
     {
+      "path": "overrides/kubejs/assets/supplementaries/blockstates/cannonball.json",
+      "sha1": "2516285804221cc8ef7c5d8e084fc96b31b17ad2"
+    },
+    {
+      "path": "overrides/kubejs/assets/supplementaries/lang/en_us.json",
+      "sha1": "6247d75d1e3f4e2b1ee4ea85c657a96070edd70f"
+    },
+    {
+      "path": "overrides/kubejs/assets/supplementaries/models/block/cannonball.json",
+      "sha1": "b9d377f5d86ac11bed2959aafbf6a527cb037f01"
+    },
+    {
+      "path": "overrides/kubejs/assets/supplementaries/models/item/cannonball.json",
+      "sha1": "04f415146d4e4d28b1dd178c4d350a5d5ee400f1"
+    },
+    {
+      "path": "overrides/kubejs/assets/supplementaries/textures/block/cannonball.png",
+      "sha1": "00649f3a00a2514d87e585c7eabdc5c8497f29db"
+    },
+    {
       "path": "overrides/kubejs/config/client.json",
       "sha1": "543ce77f954453d39da0ef6adad3f5e427fd4d8a"
     },
     {
       "path": "overrides/kubejs/config/common.json",
-      "sha1": "72bc0862d970e44dd5075bef3e74110f69d65a7d"
+      "sha1": "38b77a5a849f94502b42509945f5a5752b514077"
     },
     {
       "path": "overrides/kubejs/config/probe-settings.json",
@@ -2462,15 +2482,19 @@
     },
     {
       "path": "overrides/kubejs/kubejsstudio/appearance.json",
-      "sha1": "f24e0e1836d169b0edfb6b8206178243a577ccb2"
+      "sha1": "8118269f500cf7717a7b7b80e19a9a92a8070d42"
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/kubejsstudio.js",
-      "sha1": "5a03b1fe0b6dbe643cd9604690f11f04798a2475"
+      "sha1": "c2367732b521682b0c53405019d56cce7beb512a"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/kubejsstudio/loot_tables.js",
+      "sha1": "50d0e43198e74a4847d13434b98301794e423e5e"
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/recipes.js",
-      "sha1": "f216298f275ead599ffd1996c94a82abd1b04a60"
+      "sha1": "583013a5674a64d7f2333b6028a2094050d5a06d"
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/tags/block.js",
@@ -2485,12 +2509,16 @@
       "sha1": "6249ded51466cfc7b94ae9796f8c2caec5dac539"
     },
     {
+      "path": "overrides/kubejs/startup_scripts/kubejsstudio/block_properties.js",
+      "sha1": "aec458550bf29d9232ed3ebfa7b573da007215c9"
+    },
+    {
       "path": "overrides/kubejs/startup_scripts/main.js",
       "sha1": "05ec115c372985dc9f77dd2513933aa8e90eba61"
     },
     {
       "path": "overrides/kubejsstudio/intel.json",
-      "sha1": "54f05014de4aa9460ba8d7271d9382db9cd057e9"
+      "sha1": "bbd0a6cd8a0ccd95776f98c3fdf9f18e65db4436"
     },
     {
       "path": "overrides/options.txt",

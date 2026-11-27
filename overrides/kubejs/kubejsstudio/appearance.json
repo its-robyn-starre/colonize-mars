@@ -3,6 +3,16 @@
     "embers:ash": {
       "key": "item.embers.ash",
       "name": "Soot"
+    },
+    "supplementaries:cannonball": {
+      "key": "block.supplementaries.cannonball",
+      "name": "Meteorite",
+      "texture": "botania:item/tiny_planet"
+    }
+  },
+  "block": {
+    "supplementaries:cannonball": {
+      "texture": "supplementaries:block/cannonball"
     }
   }
 }

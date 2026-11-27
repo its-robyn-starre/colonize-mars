@@ -21,6 +21,7 @@ ServerEvents.generateData('after_mods', event => {
     event.json('immersiveengineering:recipe/crafting/component_iron', {"type":"minecraft:crafting_shaped","category":"misc","pattern":["# #"," A ","# #"],"key":{"#":{"tag":"c:plates/iron"},"A":{"item":"embers:fluid_pipe"}},"result":{"id":"immersiveengineering:component_iron","count":1}})
     event.json('kubejsstudio:recipe/ash_from_sealed', {"type":"minecraft:smelting","ingredient":{"tag":"create:runtime_generated/compat/embers/sealed"},"result":{"id":"supplementaries:ash"},"experience":0.1,"cookingtime":200})
     event.json('immersiveengineering:recipe/crafting/cokebrick', {"type":"minecraft:crafting_shaped","category":"misc","pattern":["#A#","ABA","#A#"],"key":{"#":{"item":"embers:caminite_blend"},"A":{"tag":"c:bricks/ash"},"B":{"item":"ad_astra:mars_stone"}},"result":{"id":"immersiveengineering:cokebrick","count":3}})
+    event.json('kubejsstudio:recipe/cannonball_cutting', {"type":"farmersdelight:cutting","ingredients":[{"item":"supplementaries:cannonball"}],"tool":{"tag":"minecraft:pickaxes"},"result":[{"item":{"count":1,"id":"minecraft:quartz"},"chance":0.5},{"item":{"count":1,"id":"create:crushed_raw_copper"},"chance":0.3},{"item":{"count":1,"id":"create:crushed_raw_iron"},"chance":0.1},{"item":{"count":1,"id":"create:crushed_raw_tin"},"chance":0.1}]})
 })
 ServerEvents.recipes(event => {
     event.shapeless(Item.of('minecraft:nether_brick', 8), ['ad_astra:mars_sand', 'minecraft:potato', 'minecraft:water_bucket']).id('kubejsstudio:starcrete_bricks')
@@ -28,4 +29,5 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'embers:caminite_blend' })
     event.remove({ id: 'minecraft:furnace' })
     event.shapeless('botania:metamorphic_fungal_cobblestone', ['ad_astra:conglomerate', ['farmersdelight:rotten_tomato', 'minecraft:poisonous_potato']]).id('kubejsstudio:mycelite_from_rotten')
+    event.shaped(Item.of('immersiveengineering:basic_engineering', 2), ['#A', 'A#'], { '#': '#c:plates/iron', 'A': 'minecraft:nether_bricks' }).id('kubejsstudio:crafting/basic_engineering_iron')
 })
