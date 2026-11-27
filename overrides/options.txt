@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["mm_resources","vanilla","fabric","mod_resources","moonlight:merged_pack","SnowySodiumStairs","file/CMGSS 2.0.0 neo.zip","file/BetterPanorama_Active"]
+resourcePacks:["mm_resources","vanilla","fabric","mod_resources","moonlight:merged_pack","file/CMGSS 2.0.0 neo.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -139,8 +139,6 @@ key_key.legendreliclib.specialkey2:key.keyboard.h
 key_key.legendreliclib.specialkey3:key.keyboard.j
 key_key.legendreliclib.specialkey4:key.keyboard.k
 key_key.legendreliclib.specialkey5:key.keyboard.l
-key_keys.eclipticseasons.main/debug:key.keyboard.i
-key_keys.eclipticseasons.main/debug_1:key.keyboard.left.control
 key_key.ponder.ponder:key.keyboard.w
 key_gui.xaero_minimap_settings:key.keyboard.y
 key_gui.xaero_minimap_server_profiles:key.keyboard.unknown
@@ -180,8 +178,6 @@ key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_key.ftbteams.open_gui:key.keyboard.unknown
-key_key.betterpanorama.open_gui:key.keyboard.f9
-key_key.betterpanorama.take_panorama:key.keyboard.f4
 key_key.oracle_index.open:key.keyboard.h
 key_key.oracle_index.search:key.keyboard.unknown
 key_key.ftbquests.quests:key.keyboard.unknown
@@ -298,6 +294,7 @@ key_key.jade.show_recipes:key.keyboard.keypad.3
 key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details:key.keyboard.left.shift
+key_key.panorama_capture.open:key.keyboard.f8
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:0.0

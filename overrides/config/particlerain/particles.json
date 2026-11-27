@@ -2,7 +2,12 @@
   "rain": {},
   "vertical_fog_after_rain": {},
   "splatter": {},
-  "skittering_dust": {},
+  "skittering_dust": {
+    "biomeList": {
+      "entries": [],
+      "isWhitelist": false
+    }
+  },
   "smoke": {},
   "heavy_snow": {},
   "vertical_fog": {},
@@ -12,7 +17,19 @@
   "ripple": {},
   "snow": {},
   "heavy_rain": {},
-  "dust": {},
-  "dust_haze": {},
+  "dust": {
+    "biomeList": {
+      "entries": [],
+      "isWhitelist": false
+    }
+  },
+  "dust_haze": {
+    "biomeList": {
+      "entries": [
+        ""
+      ],
+      "isWhitelist": false
+    }
+  },
   "fog": {}
 }

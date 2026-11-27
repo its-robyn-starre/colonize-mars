@@ -34,4 +34,5 @@ ServerEvents.recipes(event => {
     event.shaped(Item.of('immersiveengineering:treated_wood_horizontal', 5), ['#A#', 'ABA', '#A#'], { '#': '#c:silicon', 'A': 'embers:sealed_planks', 'B': 'immersiveengineering:creosote_bucket' }).id('kubejsstudio:treatedwood_silicon')
     event.shaped('ceramicbucket:ceramic_bucket', ['# #', ' # '], { '#': 'ad_astra:mars_cobblestone' }).id('kubejsstudio:ceramic_bucket_marsstone')
     event.shaped('sophisticatedstorage:chest', ['###', '# #', '###'], { '#': 'ad_astra:mars_cobblestone' }).id('kubejsstudio:chest')
+    event.remove({ id: 'excessive_utilities:stone_drum_empty' })
 })

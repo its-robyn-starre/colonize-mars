@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "yRrY3XII",
       "slug": "extradelight",
-      "versionId": "1SSgrmDa",
-      "versionNumber": "2.6.6",
-      "filename": "extradelight-2.6.6.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/yRrY3XII/versions/1SSgrmDa/extradelight-2.6.6.jar",
-      "sha1": "a04ddf96b39a0f909d4184d326cc09c54650737d",
-      "sha512": "39ac6beee0111d45abab3129f275d7f342edb993528d7045538fa42369d995cb4a1b292d271e21ccfe25f822420ebd9e4896beb6028c65b98f891303951219b8",
-      "fileSize": 10959956
+      "versionId": "QQ4o8Xu6",
+      "versionNumber": "2.7.2",
+      "filename": "extradelight-2.7.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/yRrY3XII/versions/QQ4o8Xu6/extradelight-2.7.2.jar",
+      "sha1": "4b543ab53a09304481d29ea663328d91346f48f7",
+      "sha512": "89a94d5eed30a1c16b22f50ca195af2cbd7735ddb785679d5b65efbe1789673432d03a094234b790975cb2a2d80a31db90f034c65b57f52b50eba74d4f109bed",
+      "fileSize": 11569224
     }
   },
   "dependents": [],

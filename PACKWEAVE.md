@@ -1,6 +1,6 @@
 # colonize mars
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 101 mods (17 dependencies), 3 resource packs, 1 shader
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 100 mods (17 dependencies), 3 resource packs, 1 shader
 
 ## Contents
 
@@ -35,13 +35,12 @@
 - [Delight Lib](https://modrinth.com/project/delight-lib) `26.05.18-1.21-neoforge`
 - [Desertification](https://modrinth.com/project/desertification) `0.42.4`
 - [Easy Panorama](https://www.curseforge.com/projects/1780561) `easy-panorama-neoforge-1.21.1-1.0.8.jar`
-- [Ecliptic Seasons](https://modrinth.com/project/ecliptic-seasons) `0.15.5.1`
 - [Embers Re-Ignited](https://modrinth.com/project/embers-re-ignited) `1.21.1-1.5.9`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [Engineers Delight](https://www.curseforge.com/projects/861437) `engineers_delight-neoforge-1.21.1-2.0.1.jar`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.12.2`
 - [Excessive Utilities](https://modrinth.com/project/excessive-utilities) `1.12.0-build.77`
-- [ExtraDelight](https://modrinth.com/project/extradelight) `2.6.6`
+- [ExtraDelight](https://modrinth.com/project/extradelight) `2.7.2`
 - [FancyMenu](https://modrinth.com/project/fancymenu) `3.11.0-1.21.1-neoforge`
 - [Farmer's Delight](https://www.curseforge.com/projects/398521) `Farmer's Delight 1.3.4 - 1.21.1`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`

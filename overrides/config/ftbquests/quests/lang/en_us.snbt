@@ -5,7 +5,11 @@
 	file.0000000000000001.title: "The Wild Red Yonder"
 	quest.120084FAE00B31E2.quest_desc: ["Prove you've got a steady source of food up there, and we can send you some new crops!"]
 	quest.120084FAE00B31E2.title: "Potato, Potahto"
-	quest.163F099D955ED62E.quest_desc: ["This pack contains many guidebooks for all the various mods. Here's a convenient book to keep them all in!"]
+	quest.163F099D955ED62E.quest_desc: [
+		"This pack contains many guidebooks for all the various mods. Here's a convenient book to keep them all in!"
+		""
+		"&oTip: Craft the Tome with a guidebook to combine it! Right click an empty book to select a tome, and then punch the air to reset the book."
+	]
 	quest.194318B1AC72B873.quest_desc: ["Cooking sealed wood in this furnace will net you some charcoal and a tiny bit of creosote oil. Cooking that charcoal again will get you coal coke, and a lot more creosote! Coal coke is a very good fuel source for furnaces."]
 	quest.194318B1AC72B873.quest_subtitle: "Bigger, bigger, yet bigger"
 	quest.19D201B45F89D15E.quest_desc: ["By mixing together the starch from potatoes with water and sand and letting it set, you can make a primitive brick about as strong as concrete or stone! "]
