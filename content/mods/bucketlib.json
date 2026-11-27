@@ -1,0 +1,25 @@
+{
+  "name": "BucketLib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "DItE655o",
+      "slug": "bucketlib",
+      "versionId": "Jx9AEhUT",
+      "versionNumber": "1.21-4.1.7.2",
+      "filename": "bucketlib-neoforge-1.21-4.1.7.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/DItE655o/versions/Jx9AEhUT/bucketlib-neoforge-1.21-4.1.7.2.jar",
+      "sha1": "c7102052152d0e107c4686eb0d11e4ce00313032",
+      "sha512": "98fb0a2847e704da3286b0289fbae71c93738e09b42085f56414c1564acd8f0e456d64e007f36554074b52bb1d80581507e303afa50d068b69a3c46eb1212a9a",
+      "fileSize": 222519
+    }
+  },
+  "dependents": [
+    "M9G5zpf1"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

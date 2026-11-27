@@ -1,9 +1,9 @@
 {
   "name": "colonize mars",
-  "version": "1.0.0",
+  "version": "alpha-0.1.0",
   "minecraft": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.265",
-  "channel": "release",
+  "channel": "alpha",
   "formatVersion": 1
 }

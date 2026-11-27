@@ -1,0 +1,2 @@
+Reload FancyMenu or restart Minecraft. Select capture_20261127_140122_c9c55416 under Menu Backgrounds > Cubic Panorama.
+For modpacks, include this folder and your FancyMenu layout. No resource pack is needed.

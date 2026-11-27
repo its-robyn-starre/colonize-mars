@@ -1,0 +1,22 @@
+{
+  "name": "Easy Panorama",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1780561",
+      "slug": "easy-panorama",
+      "versionId": "9755780",
+      "versionNumber": "easy-panorama-neoforge-1.21.1-1.0.8.jar",
+      "filename": "easy-panorama-neoforge-1.21.1-1.0.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9755/780/easy-panorama-neoforge-1.21.1-1.0.8.jar",
+      "sha1": "c561c5bd117f0a7511b9b87025eaa5bd756d495c",
+      "fileSize": 265296
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

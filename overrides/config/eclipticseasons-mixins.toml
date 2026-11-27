@@ -55,6 +55,11 @@ version = 4
 		MixinBlockRenderer = true
 		MixinFabricVanillaModelEncoder = true
 
+	[compat.iris]
+		MixinBiomeUniforms = true
+		MixinBlockRenderTask = true
+		MixinIrisForgeHelpers = true
+
 [data]
 	MixinsDataProvider = true
 	MixinsDelegatingOps = true

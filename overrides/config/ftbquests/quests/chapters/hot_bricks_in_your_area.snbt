@@ -340,5 +340,42 @@
 			x: -1.0d
 			y: -4.0d
 		}
+		{
+			dependencies: ["5E0AC2F5932C0F4D"]
+			id: "6B5EC0155AA819DA"
+			optional: true
+			tasks: [
+				{
+					id: "0953E164184D581B"
+					item: { components: { "sophisticatedcore:accent_color": -425955, "sophisticatedcore:main_color": -425955 }, count: 1, id: "sophisticatedstorage:chest" }
+					type: "item"
+				}
+				{
+					id: "5B8515B9D3C6E459"
+					item: { count: 1, id: "ad_astra:mars_cobblestone" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5E0AC2F5932C0F4D"]
+			id: "688400C9971D07BD"
+			tasks: [
+				{
+					id: "5E31C4142D37DAA7"
+					item: { count: 1, id: "ad_astra:mars_cobblestone" }
+					type: "item"
+				}
+				{
+					id: "494F1A89BE530B17"
+					item: { count: 1, id: "ceramicbucket:ceramic_bucket" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 1.0d
+		}
 	]
 }

@@ -1,6 +1,6 @@
 # colonize mars
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 98 mods (16 dependencies), 3 resource packs
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 101 mods (17 dependencies), 3 resource packs, 1 shader
 
 ## Contents
 
@@ -17,10 +17,12 @@
 - [Botania Revived](https://www.curseforge.com/projects/1725641) `BotaniaRevived-1.21.1-2.0.4-NeoForge`
 - [Brass Age](https://modrinth.com/project/brass-age) `1.0`
 - [Brewin' And Chewin'](https://modrinth.com/project/brewin-and-chewin) `4.5.0+1.21.1-neoforge`
+- [Ceramic Bucket](https://modrinth.com/project/ceramic-bucket) `1.21-6.1.1.0`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
 - [CMG:SS](https://modrinth.com/project/create-military-grade-steel-signal) `2.0.0`
 - [Common Storage Lib](https://modrinth.com/project/common-storage-lib) `0.0.10`
+- [Complementary Shaders - Reimagined](https://modrinth.com/project/complementary-reimagined) `r5.10`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Cooking for Blockheads](https://modrinth.com/project/cooking-for-blockheads) `21.1.25+neoforge-1.21.1`
 - [Corpse](https://modrinth.com/project/corpse) `neoforge-1.21.1-1.1.22`
@@ -32,6 +34,7 @@
 - [Customizable Player Spawn](https://modrinth.com/project/customizable-player-spawn) `2.0.0`
 - [Delight Lib](https://modrinth.com/project/delight-lib) `26.05.18-1.21-neoforge`
 - [Desertification](https://modrinth.com/project/desertification) `0.42.4`
+- [Easy Panorama](https://www.curseforge.com/projects/1780561) `easy-panorama-neoforge-1.21.1-1.0.8.jar`
 - [Ecliptic Seasons](https://modrinth.com/project/ecliptic-seasons) `0.15.5.1`
 - [Embers Re-Ignited](https://modrinth.com/project/embers-re-ignited) `1.21.1-1.5.9`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
@@ -62,6 +65,7 @@
 - [Immersive Engineering](https://modrinth.com/project/immersiveengineering) `12.4.2-194`
 - [Immersive Petroleum](https://modrinth.com/project/immersivepetroleum) `4.5.0-39`
 - [In Control!](https://modrinth.com/project/in-control) `1.21-10.3.1`
+- [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [Just Enough Immersive Multiblocks](https://modrinth.com/project/jei-multiblocks) `1.21.1-1.0.6`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.64.0.455`

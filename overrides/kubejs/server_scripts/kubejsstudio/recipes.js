@@ -32,4 +32,6 @@ ServerEvents.recipes(event => {
     event.shaped(Item.of('immersiveengineering:basic_engineering', 2), ['#A', 'A#'], { '#': '#c:plates/iron', 'A': 'minecraft:nether_bricks' }).id('kubejsstudio:crafting/basic_engineering_iron')
     event.shaped('modernfoundry:seared_drain', ['#A#'], { '#': 'embers:fluid_pipe', 'A': '#modernfoundry:seared_blocks' }).id('kubejsstudio:seared_drain_fluidpipe')
     event.shaped(Item.of('immersiveengineering:treated_wood_horizontal', 5), ['#A#', 'ABA', '#A#'], { '#': '#c:silicon', 'A': 'embers:sealed_planks', 'B': 'immersiveengineering:creosote_bucket' }).id('kubejsstudio:treatedwood_silicon')
+    event.shaped('ceramicbucket:ceramic_bucket', ['# #', ' # '], { '#': 'ad_astra:mars_cobblestone' }).id('kubejsstudio:ceramic_bucket_marsstone')
+    event.shaped('sophisticatedstorage:chest', ['###', '# #', '###'], { '#': 'ad_astra:mars_cobblestone' }).id('kubejsstudio:chest')
 })

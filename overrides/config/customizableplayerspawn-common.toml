@@ -23,7 +23,7 @@ structureTemplate = ""
 #When set, this file is loaded before structureTemplate and is available for every newly created world.
 #Examples: spawn.nbt, pack/start_house.nbt
 #Leave empty to use structureTemplate.
-externalStructureFile = "biodome.nbt"
+externalStructureFile = "biodome_with_crates.nbt"
 #Optional block id used as the spawn anchor inside the placed structure.
 #Can be a block from this mod, vanilla, or another mod.
 #Leave empty to disable block-based spawn anchors and use only dataMarker.
